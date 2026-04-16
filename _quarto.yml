@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  title: "GEOMETRY and the Art of Design"
+  subtitle: "An introduction to Geometry for non-majors"
+  author: "Jennifer Shloming"
+  date: "April 16, 2026"
+  chapters:
+    - index.qmd
+    - chapters/01-language-of-geometry.qmd
+    - chapters/02-angles-and-triangles.qmd
+    - chapters/03-congruence.qmd
+    - chapters/04-similarity.qmd
+    - chapters/05-polygons-and-circles.qmd
+    - chapters/06-area-and-volume.qmd
+    - chapters/07-coordinate-geometry.qmd
+    - chapters/08-transformations.qmd
+    - chapters/09-proof-strategies.qmd
+    - references.qmd
+  appendices:
+    - chapters/appendix-a-formulas.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    number-sections: true
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: bookcover/bookcover(2).png
+
+execute:
+  freeze: auto

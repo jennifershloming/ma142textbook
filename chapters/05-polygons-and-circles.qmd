@@ -1,0 +1,31 @@
+---
+title: "5. Polygons and Circles"
+---
+
+## Learning Goals
+
+- Compute interior and exterior angle sums for polygons.
+- Use circle vocabulary and relationships.
+- Solve for arc and central angle measures.
+
+## Polygon Sum Formula
+
+For an $n$-gon, interior angle sum is:
+
+$$
+(n - 2)180^\circ
+$$
+
+## Worked Example
+
+Interior angle sum of a hexagon:
+
+$$
+(6 - 2)180^\circ = 720^\circ
+$$
+
+## Practice
+
+1. Find each interior angle of a regular pentagon.
+2. Relate arc measure to central angle measure.
+3. Solve a chord-length reasoning problem from a diagram.

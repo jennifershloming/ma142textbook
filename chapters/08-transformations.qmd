@@ -1,0 +1,23 @@
+---
+title: "8. Transformations"
+---
+
+## Learning Goals
+
+- Describe translations, reflections, rotations, and dilations.
+- Use coordinates to model transformations.
+- Identify symmetries in geometric figures.
+
+## Example Rule
+
+A translation by vector $\langle a, b \rangle$ sends:
+
+$$
+(x, y) \to (x + a, y + b)
+$$
+
+## Practice
+
+1. Reflect a triangle across the $x$-axis.
+2. Rotate a point $90^\circ$ counterclockwise about the origin.
+3. Determine image coordinates after two transformations.

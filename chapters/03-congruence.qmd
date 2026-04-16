@@ -1,0 +1,27 @@
+---
+title: "3. Congruence"
+---
+
+## Learning Goals
+
+- Apply triangle congruence criteria (SSS, SAS, ASA, AAS, HL).
+- Use congruent parts of congruent triangles.
+- Write clear two-column or paragraph proofs.
+
+## Congruence Criteria
+
+Two triangles are congruent if one of the standard criteria is satisfied.
+
+## Worked Example
+
+Given $AB = DE$, $BC = EF$, and $AC = DF$, conclude:
+
+$$
+\triangle ABC \cong \triangle DEF \quad \text{(SSS)}
+$$
+
+## Practice
+
+1. Decide whether each set of measurements is enough for congruence.
+2. Write a short proof using SAS.
+3. Explain why AAA does not prove congruence.

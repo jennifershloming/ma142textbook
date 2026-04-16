@@ -1,0 +1,35 @@
+---
+title: "1. The Language of Geometry"
+---
+
+## Learning Goals
+
+By the end of this chapter, you should be able to:
+
+- Use undefined terms (point, line, plane) correctly.
+- Distinguish between definitions, postulates, and theorems.
+- Write symbolic and verbal geometric statements.
+
+## Key Terms
+
+- Point
+- Line segment
+- Ray
+- Plane
+- Collinear / coplanar
+
+## Worked Example
+
+Given points $A$, $B$, and $C$ on a line with $AB = 3$ and $BC = 7$, find $AC$.
+
+Since $B$ is between $A$ and $C$, by segment addition:
+
+$$
+AC = AB + BC = 3 + 7 = 10.
+$$
+
+## Practice
+
+1. Draw and label two intersecting lines in a plane.
+2. Write a definition of a midpoint in your own words.
+3. Give an example of a postulate used in daily reasoning.

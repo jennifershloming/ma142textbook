@@ -1,0 +1,28 @@
+/* Light styling for better readability in textbook mode. */
+
+:root {
+  --book-accent: #145c8f;
+  --book-accent-soft: #e9f3fa;
+}
+
+h1, h2, h3 {
+  color: var(--book-accent);
+}
+
+.callout-tip {
+  border-left: 4px solid var(--book-accent);
+}
+
+blockquote {
+  background: var(--book-accent-soft);
+  border-left: 4px solid var(--book-accent);
+  padding: 0.8rem 1rem;
+}
+
+.book-cover {
+  display: block;
+  width: min(420px, 85vw);
+  margin: 1rem auto 1.5rem auto;
+  border-radius: 12px;
+  box-shadow: 0 12px 28px rgba(16, 41, 61, 0.22);
+}

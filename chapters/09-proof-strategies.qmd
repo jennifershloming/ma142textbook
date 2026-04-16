@@ -1,0 +1,23 @@
+---
+title: "9. Proof Strategies"
+---
+
+## Learning Goals
+
+- Organize geometric proofs clearly.
+- Use direct proof, contradiction, and counterexamples.
+- Evaluate whether an argument is logically valid.
+
+## Common Structure
+
+A geometric proof generally includes:
+
+1. Given information
+2. Statements and reasons
+3. A justified conclusion
+
+## Practice
+
+1. Convert a two-column proof into paragraph form.
+2. Identify the first invalid step in a flawed proof.
+3. Write a short contradiction proof for a simple claim.

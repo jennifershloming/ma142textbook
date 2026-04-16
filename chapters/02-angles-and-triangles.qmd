@@ -1,0 +1,31 @@
+---
+title: "2. Angles and Triangles"
+---
+
+## Learning Goals
+
+- Classify angles by measure.
+- Classify triangles by sides and angles.
+- Solve for unknown angle measures.
+
+## Key Idea
+
+For a triangle with interior angles $A$, $B$, and $C$:
+
+$$
+A + B + C = 180^\circ
+$$
+
+## Worked Example
+
+If a triangle has angles $52^\circ$ and $63^\circ$, find the third angle.
+
+$$
+180^\circ - (52^\circ + 63^\circ) = 65^\circ
+$$
+
+## Practice
+
+1. Classify a triangle with side lengths 5, 5, and 8.
+2. Find the supplement of $127^\circ$.
+3. A triangle has angles $x$, $2x$, and $3x$. Find all three.

@@ -1,0 +1,30 @@
+---
+title: "6. Area and Volume"
+---
+
+## Learning Goals
+
+- Compute area of common polygons and circles.
+- Compute volume of prisms, cylinders, pyramids, cones, and spheres.
+- Choose units and justify formulas.
+
+## Core Formulas
+
+- Rectangle: $A = lw$
+- Triangle: $A = \frac{1}{2}bh$
+- Circle: $A = \pi r^2$
+- Prism: $V = Bh$
+
+## Worked Example
+
+A cylinder with radius 3 and height 10 has volume:
+
+$$
+V = \pi r^2 h = \pi(3)^2(10) = 90\pi
+$$
+
+## Practice
+
+1. Find area of a composite figure.
+2. Convert square inches to square feet.
+3. Compare volumes when dimensions scale by factor 2.

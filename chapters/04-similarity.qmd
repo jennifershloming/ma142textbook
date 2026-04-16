@@ -1,0 +1,27 @@
+---
+title: "4. Similarity"
+---
+
+## Learning Goals
+
+- Determine whether triangles are similar.
+- Use ratios of corresponding sides.
+- Solve proportional reasoning problems.
+
+## Key Proportion
+
+If $\triangle ABC \sim \triangle DEF$, then:
+
+$$
+\frac{AB}{DE} = \frac{BC}{EF} = \frac{AC}{DF}
+$$
+
+## Worked Example
+
+If similar triangles have scale factor 3 from small to large, and a small side is 4, then corresponding large side is 12.
+
+## Practice
+
+1. Find missing sides in a pair of similar triangles.
+2. Explain the difference between similarity and congruence.
+3. Determine scale factor from a diagram.

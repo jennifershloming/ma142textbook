@@ -1,0 +1,40 @@
+---
+title: "Welcome"
+---
+
+# About This Book
+
+![]( <bookcover/bookcover(2).png> ){.book-cover fig-alt="Book cover for GEOMETRY and the Art of Design"}
+
+This textbook is written for students who are curious about geometry, including those outside mathematics majors.
+
+Geometry appears in design, architecture, art, nature, and everyday problem solving. This course highlights those connections while building your confidence with core geometric ideas.
+
+Use this text as your course guide:
+
+- Read short concept explanations.
+- Study worked examples step by step.
+- Practice with low-stakes exercises.
+- Connect geometric ideas to visual design.
+
+## How To Use This Text
+
+Each chapter follows a predictable structure:
+
+1. Learning goals
+2. Key ideas and definitions
+3. Design and real-world connections
+4. Worked examples
+5. Practice and reflection
+
+## Suggested Chapter Workflow
+
+Before class, skim the learning goals and key vocabulary.
+
+During class, annotate diagrams, examples, and class discussion notes.
+
+After class, complete the practice set and revisit one design connection from the chapter.
+
+## Learning Mindset
+
+You do not need to be a math major to succeed in this class. Growth comes from careful reading, sketching figures, explaining your reasoning, and practicing consistently.

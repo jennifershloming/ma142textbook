@@ -1,0 +1,29 @@
+---
+title: "7. Coordinate Geometry"
+---
+
+## Learning Goals
+
+- Use distance and midpoint formulas.
+- Compute slope and determine parallel/perpendicular lines.
+- Connect algebraic and geometric representations.
+
+## Formulas
+
+Distance between $(x_1, y_1)$ and $(x_2, y_2)$:
+
+$$
+d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+$$
+
+Midpoint:
+
+$$
+M = \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right)
+$$
+
+## Practice
+
+1. Find distance between $(2, -1)$ and $(8, 7)$.
+2. Determine if two lines are parallel.
+3. Find equation of a line through two points.
