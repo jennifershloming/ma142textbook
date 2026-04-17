@@ -27,3 +27,9 @@ $$
 1. Find distance between $(2, -1)$ and $(8, 7)$.
 2. Determine if two lines are parallel.
 3. Find equation of a line through two points.
+
+## Art and Design Connections
+
+## Exercises
+
+## Futher Reading and Interactive Activities

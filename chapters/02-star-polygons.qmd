@@ -51,3 +51,9 @@ So each star point has measure $36^\circ$.
 1. Compute the tip angle of $\{7/2\}$.
 2. Determine whether $\{8/2\}$ is connected. Explain using $\gcd(n,k)$.
 3. Sketch $\{9/4\}$ on a 9-point circle and label one turning angle.
+
+## Art and Design Connections
+
+## Exercises
+
+## Futher Reading and Interactive Activities

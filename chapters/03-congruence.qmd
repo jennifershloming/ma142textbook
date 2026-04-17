@@ -25,3 +25,9 @@ $$
 1. Decide whether each set of measurements is enough for congruence.
 2. Write a short proof using SAS.
 3. Explain why AAA does not prove congruence.
+
+## Art and Design Connections
+
+## Exercises
+
+## Futher Reading and Interactive Activities

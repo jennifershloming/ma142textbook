@@ -25,3 +25,9 @@ If similar triangles have scale factor 3 from small to large, and a small side i
 1. Find missing sides in a pair of similar triangles.
 2. Explain the difference between similarity and congruence.
 3. Determine scale factor from a diagram.
+
+## Art and Design Connections
+
+## Exercises
+
+## Futher Reading and Interactive Activities

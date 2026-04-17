@@ -59,3 +59,9 @@ This shows how figurate-number patterns connect directly to finite sums.
 3. Evaluate $\sum_{k=1}^{15} k$.
 4. Evaluate $\sum_{k=1}^{10} k^2$.
 5. Explain why every square number is the sum of two consecutive triangular numbers.
+
+## Art and Design Connections
+
+## Exercises
+
+## Futher Reading and Interactive Activities

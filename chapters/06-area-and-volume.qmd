@@ -28,3 +28,9 @@ $$
 1. Find area of a composite figure.
 2. Convert square inches to square feet.
 3. Compare volumes when dimensions scale by factor 2.
+
+## Art and Design Connections
+
+## Exercises
+
+## Futher Reading and Interactive Activities

@@ -56,3 +56,9 @@ $$
 2. Write explicit and recursive formulas for $4,9,14,19,\dots$.
 3. Find $a_{12}$ for a geometric sequence with $a_1=3$ and $r=2$.
 4. Find the sum of the first 15 terms of $10,13,16,\dots$.
+
+## Art and Design Connections
+
+## Exercises
+
+## Futher Reading and Interactive Activities
