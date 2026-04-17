@@ -4,24 +4,58 @@ title: "4. Figurate Numbers, FIBS, and Sums"
 
 ## Learning Goals
 
-- Determine whether triangles are similar.
-- Use ratios of corresponding sides.
-- Solve proportional reasoning problems.
+- Recognize triangular and square figurate number patterns.
+- Compute terms of the Fibonacci sequence and identify recursive structure.
+- Use closed-form and sigma notation to evaluate finite sums.
 
-## Key Proportion
+## Key Ideas
 
-If $\triangle ABC \sim \triangle DEF$, then:
+Triangular numbers count dots that form an equilateral triangular pattern:
 
 $$
-\frac{AB}{DE} = \frac{BC}{EF} = \frac{AC}{DF}
+T_n = 1+2+\cdots+n = \frac{n(n+1)}{2}
+$$
+
+Square numbers count dots in an $n \times n$ square:
+
+$$
+S_n = n^2
+$$
+
+Fibonacci numbers are defined recursively by
+
+$$
+F_1=1,\quad F_2=1,\quad F_n=F_{n-1}+F_{n-2}\;\text{for }n\ge 3
+$$
+
+Useful finite sums:
+
+$$
+\sum_{k=1}^n k = \frac{n(n+1)}{2}, \qquad \sum_{k=1}^n k^2 = \frac{n(n+1)(2n+1)}{6}
 $$
 
 ## Worked Example
 
-If similar triangles have scale factor 3 from small to large, and a small side is 4, then corresponding large side is 12.
+Find the 8th triangular number and the sum $1+2+\cdots+8$.
+
+By the triangular-number formula,
+
+$$
+T_8 = \frac{8(9)}{2}=36
+$$
+
+So,
+
+$$
+1+2+\cdots+8 = 36
+$$
+
+This shows how figurate-number patterns connect directly to finite sums.
 
 ## Practice
 
-1. Find missing sides in a pair of similar triangles.
-2. Explain the difference between similarity and congruence.
-3. Determine scale factor from a diagram.
+1. Compute $T_{12}$ and interpret it as a dot pattern.
+2. List the first 10 Fibonacci numbers.
+3. Evaluate $\sum_{k=1}^{15} k$.
+4. Evaluate $\sum_{k=1}^{10} k^2$.
+5. Explain why every square number is the sum of two consecutive triangular numbers.
