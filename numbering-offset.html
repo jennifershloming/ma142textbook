@@ -1,0 +1,37 @@
+<script>
+(function () {
+  function shiftNumberToken(text) {
+    var trimmed = (text || "").trim();
+    var match = trimmed.match(/^(\d+)(\..*)?$/);
+    if (!match) return text;
+
+    var first = parseInt(match[1], 10);
+    if (Number.isNaN(first)) return text;
+
+    var shifted = String(first - 1);
+    var suffix = match[2] || "";
+    return shifted + suffix;
+  }
+
+  function shiftElements(selector) {
+    document.querySelectorAll(selector).forEach(function (el) {
+      var original = el.textContent;
+      var updated = shiftNumberToken(original);
+      if (updated !== original) {
+        el.textContent = updated;
+      }
+    });
+  }
+
+  function applyDisplayOffset() {
+    shiftElements(".chapter-number");
+    shiftElements(".header-section-number");
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", applyDisplayOffset);
+  } else {
+    applyDisplayOffset();
+  }
+})();
+</script>

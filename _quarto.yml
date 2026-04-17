@@ -29,6 +29,7 @@ format:
     css: styles.css
     toc: true
     number-sections: true
+    include-after-body: numbering-offset.html
   pdf:
     documentclass: scrreprt
   epub:
