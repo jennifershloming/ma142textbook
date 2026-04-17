@@ -1,5 +1,5 @@
 ---
-title: "2. Angles and Triangles"
+title: "2. Star Polygons"
 ---
 
 ## Learning Goals

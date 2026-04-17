@@ -1,0 +1,53 @@
+---
+title: "2. Star Polygons"
+---
+
+## Learning Goals
+
+- Define regular star polygons using Schlaefli notation.
+- Distinguish when a star polygon is connected or disconnected.
+- Compute interior and turning-angle relationships for star polygons.
+
+## Key Idea
+
+A regular star polygon is written as $\{n/k\}$:
+
+$$
+\{n/k\} \text{ means connect each vertex to the } k\text{th next vertex of a regular } n\text{-gon.}
+$$
+
+The figure is connected exactly when $\gcd(n, k) = 1$.
+
+## Angle Relationship
+
+For a full tracing of $\{n/k\}$, each step turns by
+
+$$
+	heta = \frac{360^\circ k}{n}.
+$$
+
+The visible point angle at each star tip is
+
+$$
+\alpha = 180^\circ - \theta = 180^\circ - \frac{360^\circ k}{n}.
+$$
+
+## Worked Example
+
+Find the tip angle of the pentagram $\{5/2\}$.
+
+$$
+	heta = \frac{360^\circ \cdot 2}{5} = 144^\circ
+$$
+
+$$
+\alpha = 180^\circ - 144^\circ = 36^\circ
+$$
+
+So each star point has measure $36^\circ$.
+
+## Practice
+
+1. Compute the tip angle of $\{7/2\}$.
+2. Determine whether $\{8/2\}$ is connected. Explain using $\gcd(n,k)$.
+3. Sketch $\{9/4\}$ on a 9-point circle and label one turning angle.

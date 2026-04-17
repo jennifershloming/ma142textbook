@@ -1,5 +1,5 @@
 ---
-title: "3. Congruence"
+title: "3. Sequences"
 ---
 
 ## Learning Goals

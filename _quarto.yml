@@ -9,13 +9,13 @@ book:
   chapters:
     - index.qmd
     - chapters/01-language-of-geometry.qmd
-    - chapters/02-angles-and-triangles.qmd
-    - chapters/03-congruence.qmd
-    - chapters/04-similarity.qmd
-    - chapters/05-polygons-and-circles.qmd
-    - chapters/06-area-and-volume.qmd
-    - chapters/07-coordinate-geometry.qmd
-    - chapters/08-transformations.qmd
+    - chapters/02-star-polygons.qmd
+    - chapters/03-sequences.qmd
+    - chapters/04-figurate-numbers-fibs-and-sums.qmd
+    - chapters/05-polygons-and-polyhedra.qmd
+    - chapters/06-tessellations-and-fractals.qmd
+    - chapters/07-symmetry-isometries-and-frieze-patterns.qmd
+    - chapters/08-conic-sections.qmd
     - chapters/09-proof-strategies.qmd
     - references.qmd
   appendices:
