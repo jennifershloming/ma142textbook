@@ -24,6 +24,10 @@ $$
 
 ## Art and Design Connections
 
+- Build a repeating icon wallpaper by combining translations, rotations, and reflections of a base motif.
+- Design an animation storyboard where each frame is produced by one transformation rule in coordinate form.
+- Rework a logo through dilation studies and evaluate which scale preserves legibility and brand character.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

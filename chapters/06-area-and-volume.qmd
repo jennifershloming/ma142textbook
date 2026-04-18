@@ -31,6 +31,10 @@ $$
 
 ## Art and Design Connections
 
+- Produce package mockups for the same product in two prism shapes and compare material use via surface area.
+- Design a gallery pedestal set with scaled cylinders and cones, then justify volume choices for stability and visual hierarchy.
+- Build a floor mosaic proposal from circles and polygons, estimating paint or tile needed from computed areas.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

@@ -28,6 +28,10 @@ If similar triangles have scale factor 3 from small to large, and a small side i
 
 ## Art and Design Connections
 
+- Create a two-scale poster system (small card and large banner) and verify all key shapes are similar with a constant scale factor.
+- Analyze forced-perspective photography and mark similar triangles that explain apparent size changes.
+- Reproduce a motif at three different sizes for packaging, then compute and label side-length ratios between versions.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

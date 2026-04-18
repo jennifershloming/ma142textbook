@@ -36,6 +36,10 @@ $$
 
 ## Art and Design Connections
 
+- Build a visual glossary poster: draw and label point, line, ray, segment, and plane using clean design conventions.
+- Curate a photo set of architecture details and annotate each image with geometric vocabulary (parallel, perpendicular, midpoint, intersection).
+- Redesign a simple logo using only undefined terms and basic constructions, then justify each design choice with correct geometric language.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

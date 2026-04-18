@@ -31,6 +31,10 @@ $$
 
 ## Art and Design Connections
 
+- Create a repeat textile print using one or two tessellating polygons and document the translation vectors.
+- Build a fractal-inspired poster by iterating a motif at smaller scales, then discuss self-similarity and visual depth.
+- Compare two mural plans by estimating covered area and paint volume to connect pattern design with measurement constraints.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

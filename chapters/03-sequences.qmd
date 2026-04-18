@@ -59,6 +59,10 @@ $$
 
 ## Art and Design Connections
 
+- Generate a stripe pattern where widths follow an arithmetic sequence and colors follow a geometric repetition schedule.
+- Design staircase typography with letter heights modeled by a sequence and explain the recursive rule used.
+- Build a photo-collage grid whose tile counts follow Fibonacci numbers, then discuss balance and focal points.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

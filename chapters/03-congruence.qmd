@@ -28,6 +28,10 @@ $$
 
 ## Art and Design Connections
 
+- Design a symmetric badge where mirrored triangle pairs must be proven congruent using SSS, SAS, or ASA.
+- Reverse engineer a quilting block by identifying congruent triangles and writing a short proof for one repeated unit.
+- Create a before-and-after layout mockup that preserves triangle congruence under repositioning, then justify with rigid motions.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

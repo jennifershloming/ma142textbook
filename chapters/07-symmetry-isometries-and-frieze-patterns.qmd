@@ -30,6 +30,10 @@ $$
 
 ## Art and Design Connections
 
+- Design a frieze border for a webpage or poster and identify all isometries present in the final pattern.
+- Analyze a wallpaper sample for reflection and rotational symmetries, then classify its repeated motif structure.
+- Create a brand mark with one intentional symmetry break to study how asymmetry changes emphasis and movement.
+
 ## Exercises
 
 - [Symmetry Exercises (Google Doc)](https://docs.google.com/document/d/1G4NSWqj7PDb1ihpPdNCFnvUvRPk94jxDv119eehVN5Q/edit?usp=sharing)

@@ -24,6 +24,10 @@ A geometric proof generally includes:
 
 ## Art and Design Connections
 
+- Write a design rationale that proves why a chosen layout grid improves readability using explicit claims and evidence.
+- Compare two poster drafts and identify one invalid visual argument, then revise with a logically valid justification.
+- Build a mini critique rubric where each judgment must be supported by a clear statement-reason structure.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

@@ -24,6 +24,10 @@ $$
 
 ## Art and Design Connections
 
+- Photograph real conics in architecture (arches, spotlights, domes) and classify each as parabola, ellipse, or hyperbola.
+- Design a typography poster using ellipse and parabola guides to control letter curvature and spacing.
+- Create a gallery floor plan that uses translated and reflected conic motifs for wayfinding graphics.
+
 ## Exercises
 
 - [Conic Sections Exercises (Google Doc)](https://docs.google.com/document/d/10OcsnlokYO7z1wRT5nPUskJUs1u3-0VP55SpWxNbqMQ/edit?usp=sharing)

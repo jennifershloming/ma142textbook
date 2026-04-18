@@ -32,6 +32,10 @@ $$
 
 ## Art and Design Connections
 
+- Design a radial window pattern using inscribed polygons and circles, then label central angles and intercepted arcs.
+- Create a product icon set based on regular polygons and explain how interior-angle structure influences visual tone.
+- Draft a dome tile layout where polygon angle sums determine which shapes fit without gaps.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

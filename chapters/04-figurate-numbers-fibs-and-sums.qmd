@@ -62,6 +62,10 @@ This shows how figurate-number patterns connect directly to finite sums.
 
 ## Art and Design Connections
 
+- Construct dot-art posters for triangular and square numbers, then caption each with its formula and visual growth pattern.
+- Design a Fibonacci spiral collage from rectangles with side lengths from the sequence and evaluate composition balance.
+- Plan a light-installation layout where LED counts per row follow figurate-number sums to create controlled density gradients.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

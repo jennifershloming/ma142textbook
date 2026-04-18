@@ -54,6 +54,10 @@ So each star point has measure $36^\circ$.
 
 ## Art and Design Connections
 
+- Build star-polygon mandalas using Schlaefli notation and compare how changing $k$ changes visual rhythm and density.
+- Recreate a historical Islamic geometric tile using a regular polygon grid, then overlay a matching star polygon construction.
+- Design an album-cover graphic with layered $\{n/k\}$ stars and label one turning angle and one tip angle in the final artwork.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities

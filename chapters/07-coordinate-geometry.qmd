@@ -30,6 +30,10 @@ $$
 
 ## Art and Design Connections
 
+- Recreate a minimalist poster on a coordinate grid and use midpoint and slope to align major elements.
+- Design a line-art cityscape where parallel and perpendicular lines are controlled by slope constraints.
+- Build a logo from plotted points and justify spacing using distance formula calculations.
+
 ## Exercises
 
 ## Futher Reading and Interactive Activities
