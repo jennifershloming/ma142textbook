@@ -12,17 +12,19 @@ Geometry appears in design, architecture, art, nature, and everyday problem solv
 
 Use this text as your course guide:
 
-- Read short concept explanations.
+- Read through the short concept explanations.
+- Use index cards for key terms and formulas. Review those regularly.
 - Study worked examples step by step.
-- Practice with low-stakes exercises.
+- Practice with exercises.
 - Connect geometric ideas to visual design.
+- Create your own geometric art.
 
 ## How To Use This Text
 
 Each chapter follows a predictable structure:
 
 1. Learning goals
-2. Key ideas and definitions
+2. Key ideas, formulas, and definitions
 3. Design and real-world connections
 4. Worked examples
 5. Practice and reflection
