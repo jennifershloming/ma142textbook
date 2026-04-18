@@ -8,7 +8,7 @@ title: "About the Book"
 
 This textbook is written for students who are curious about geometry, including those outside mathematics majors.
 
-Geometry appears in design, architecture, art, nature, and everyday problem solving. This course highlights those connections while building your confidence with core geometric ideas.
+Geometry appears in design, architecture, art, nature, and everyday problem solving. I hope you start noticing all the geometry around you! This course highlights those connections while building your confidence with core geometric ideas.
 
 Use this text as your course guide:
 
@@ -31,11 +31,9 @@ Each chapter follows a predictable structure:
 
 ## Suggested Chapter Workflow
 
-Before class, skim the learning goals and key vocabulary.
+Go through the information slowly. Take notes and work through the problems.
 
-During class, annotate diagrams, examples, and class discussion notes.
-
-After class, complete the practice set and revisit one design connection from the chapter.
+The Exercsises area will have an active google doc link for FIT students and faculty.
 
 ## Learning Mindset
 
