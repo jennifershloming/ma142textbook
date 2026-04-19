@@ -6,7 +6,7 @@ title: "About the Book"
 
 ![]( <bookcover/bookcover(2).png> ){.book-cover fig-alt="Book cover for GEOMETRY and the Art of Design"}
 
-This textbook is written for students who are curious about geometry, including those outside mathematics majors.
+This textbook is written for anyone who is curious about geometry, especially non-mathematics majors.
 
 Geometry appears in design, architecture, art, nature, and everyday problem solving. I hope you start noticing all the geometry around you! This course highlights those connections while building your confidence with core geometric ideas.
 
