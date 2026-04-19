@@ -8,7 +8,7 @@ title: "5. Polygons and Polyhedra"
 - Identify whether a polygon is regular or irregular.
 - Identify whether a polygon is convex or concave.
 - Name polygons based on sides.
-- Compute the sum of the interior/vertex degress in a polygon.
+- Compute the sum of the interior/vertex degrees in a polygon.
 - Find the missing angles in a polygon. Find one angle in a regular polygon.
 - Classify triangles based on sides.
 - Classify triangles based on angles.
@@ -106,7 +106,7 @@ Once you have worked through the Google Doc Link with the Exercises, you will su
 
 * Remember to complete the Quiz, which is separate than the Textbook Exercises.
 * The Quiz for each Module is on our Brightspace course site and must be done before the due date.
-* One the deadline comes, you will be able to review the correct solutions for each quiz.
+* Once the deadline comes, you will be able to review the correct solutions for each quiz.
 * A reminder that all the due dates are on the syllabus and in the area of the course site called Course Schedule (Due Dates).
 
 ## Further Reading and Interactive Activities
