@@ -7,32 +7,20 @@ title: "1. The Language of Geometry"
 By the end of this chapter, you should be able to:
 
 - Distinguish between definitions, postulates, and theorems.
-- Write symbolic and verbal geometric statements.
+- Plan how you will work through this textbook.
 - Create a method for remembering and keeping track of key terms and definitions found in this textbook.
 
 ## Key Terms and Formulas
 
-When you see a key term you should put it on an index card.
-On the back of the index card you should explain the key term with the definition and or an example.
+Geometry can be seen as another language! Some of you may be afraid of math (hopefully not for long if this is the case). 
+--> When you see a key term you should put it on an index card. I recommend using an actual, physical index card.
+(If you rather create online index cards to study that is fine too but writing things down should help you remember even more.)
+--> On the back of the index card you should explain the key term with the definition and or an example.
+Once you have created index cards be sure to review them. Think of geometry as a language you may have studied at FIT or beforehand. If you practice the language regularly, you should be able to speak it with confidence.
 
-- Point
-- Line segment
-- Ray
-- Plane
-- Collinear / coplanar
 - Definition
 - Postulate
 - Theorem
-
-Point: An exact location in space with no size, shape, or dimension.
-
-Line segment: Part of a line with two endpoints and all points between them.
-
-Ray: Part of a line with one endpoint that extends forever in one direction.
-
-Plane: A flat two-dimensional surface that extends without end.
-
-Collinear / coplanar: Collinear points lie on the same line; coplanar points lie in the same plane.
 
 Definition: A statement that explains the precise meaning of a mathematical term.
 
@@ -42,25 +30,23 @@ Theorem: A statement proven true using definitions, postulates, and previously p
 
 ## Mini-Lecture
 
-Given points $A$, $B$, and $C$ on a line with $AB = 3$ and $BC = 7$, find $AC$.
+I want you to succeed! Let's go over how you can feel comfortable reading this textbook and how to read it. 
 
-Since $B$ is between $A$ and $C$, by segment addition:
+Read this with paper and pens (and highlighters) at hand. I recommend a special binder for this course or a special notebook that is only used for Geoemtry. Write down key definitions, formulas, and concepts to help you remember. You will have textbook exercises, quizzes, and exams so taking notes will help you tremendously! Do the practice problems on your paper. Don't just look at this textbook but work with it and through it. Hope that makes sense!
 
-$$
-AC = AB + BC = 3 + 7 = 10.
-$$
+Make time to read for this course. Try not to leave reading until the day assignments are due. That will add stress and frustration. The lectures are inside and you need to go through them in order to score well on the assignments. *You need to answer questions in this course based on the terms used in this text.* If you use terms and methods that I do not use it will signal that you may be using AI as a replacement for the lectures. 
 
 ## Practice
 
-1. Draw and label two intersecting lines in a plane.
-2. Write a definition of a midpoint in your own words.
-3. Give an example of a postulate used in daily reasoning.
+1. In the rest of the chapters you will see actual practice problems. I do want you to first figure out how you will be taking notes in this course. Get a binder or notebook ready. 
+2. Prepare yourself that the best way to learn math is by practicing problems. I think it is the best way to learn anything and I tell my kids the famous "Practice makes perfect" lime a lot.
+3. If you are practicing and working through problems but feel stuck, contact me! Email me and or come to office hours. I will help you!
 
 ## Art and Design Connections
 
-- Build a visual glossary poster: draw and label point, line, ray, segment, and plane using clean design conventions.
-- Curate a photo set of architecture details and annotate each image with geometric vocabulary (parallel, perpendicular, midpoint, intersection).
-- Redesign a simple logo using only undefined terms and basic constructions, then justify each design choice with correct geometric language.
+- In the rest of the chapters you will see specific connections with our topic to art and design.
+- Geometry is everywhere! I have a strong feeling you are wearing something that could be considered geometric right now! Look down. I see tiles on my floor. That is geometry. We will learn more about tiles and be able to classify them! Walk around your neighborhood at the architecture and as you can guess; geometry is there too!
+- We are going to create art in this course that happens to involve geometry. Please take a minute to draw a triangle. What kind of triangle did you draw? We will talk about different triangles later. If you didn't draw a triangle (you thought I wouldn't notice) please do so now and we will come back to it in another chapter.
 
 ## Creative Assignment
 
@@ -87,13 +73,21 @@ If a student asks for extra credit to help their grade, this is one major area t
 
 ### Creative Assignment for this Chapter
 
+For my students: This chapter does not have a creative assignment to submit on a Padlet. Instead you should submit the About You post on a Padlet. 
+If you check the course site you will see that it helps me know who my students are when you fill that out.
+
+
 ### Creative Assignment Submission
 
-If you are currently enrolled in a MA142 course from Dr. Jennifer R. Shloming then you can submit your assignment on the Padlet on the course site or directly on the Padlet below:
+If you are currently enrolled in a MA142 course from Dr. Jennifer R. Shloming then will be posting on a Padlet every module or unit. 
+You need to either:
+- Write your name somewhere on the Padlet. 
+- Log in to the Padlet using your FIT google account and then post. You will see your name on the padlet post automatically if you do this. I much prefer this for you!
+If you log in to the Padlet you will always see your post even if it is on hidden (which all the padlets are initially). If you just post on a padlet without logging in you will not be able to see it.
 
 ### Voting on Your Favorite Creative Assignment
 
-* Voting on your favorite assignment is part of your Creative HW grade!
+* Once we start the creative assignments, voting on your favorite assignment is part of your Creative HW grade!
 * The voting form is a Google Form that will be posted as a course announcement around 48 hours after the assignment is due.
 * If you forget to vote before the deadline then you will lose a point.
 
@@ -102,54 +96,31 @@ If you are currently enrolled in a MA142 course from Dr. Jennifer R. Shloming th
 ### How Exercises in this OER Work
 If you are an FIT student, you will be able to view the Google Doc with specific problems. These are assigned problems that get updated. If you are in one of my (in Dr. Shloming's MA142) courses, these **Textbook Exercises** are part of the course grade. You will do all the questions on the Google Doc. 
 
-*Non-FIT students will see Exercises not on a GoogleDoc link.*
 
 ### Exercises for this Chapter
 
-* Make sure you are logged into your FIT Google account or else you will not view the link below.
-* Once you have your answers, submit them carefully through our course site on Brightspace by the deadline.
-* The assignments must be submitted through Brightspace by the date listed in the course schedule. Otherwise, it will receive a zero. Reminder: You can find the due dates and deadlines on our course site in a few areas, including the syllabus and the Course Schedule (Due Dates) area.
+* You will see actual exercsises in all the other chapters. *
 
-Match each term in Column A with the best definition in Column B. Write your answers as number-letter pairs (for example, 1-C).
 
-Column A (Terms)
-
-1. Point
-2. Line segment
-3. Ray
-4. Plane
-5. Collinear / coplanar
-6. Definition
-7. Postulate
-8. Theorem
-
-Column B (Definitions)
-
-A. A statement accepted as true without proof and used as a starting point for reasoning.
-B. A statement that explains the precise meaning of a mathematical term.
-C. A statement proven true using definitions, postulates, and previously proven results.
-D. Part of a line with one endpoint that extends forever in one direction.
-E. An exact location in space with no size, shape, or dimension.
-F. Part of a line with two endpoints and all points between them.
-G. Collinear points lie on the same line; coplanar points lie in the same plane.
-H. A flat two-dimensional surface that extends without end.
-
-Challenge: Write one original sentence using each of the words postulate and theorem correctly in a geometric context.
-
-**Please note that you can do the following for Textbook Exercises before you submit on our course site.**
+**Please note for the future that you can do the following for Textbook Exercises before you submit on our course site.**
 
 * *If you provide me with more than 24 hours before the due date, then you can share your Google Doc with your answers and work with me for review and comments.*
 * *Send a separate Email to me asking for me to look over and make comments on your Google Doc. Again, as long as it is 24 hours or more before the deadline I will be happy to check your work. The earlier you ask, the better!*
 
 ### Exercises Submission
 
-Once you have worked through the Google Doc Link with the Exercises, you will submit your assignment by going on our Brightspace site. The assignments must be submitted through Brightspace by the date listed in the course schedule. Otherwise, it will receive a zero.
+In future chapters, once you have worked through the Google Doc Link with the Exercises, you will submit your assignment by going on our Brightspace site. The assignments must be submitted through Brightspace by the date listed in the course schedule. Otherwise, it will receive a zero.
 
 ## Quiz
 
-* Remember to complete the Quiz, which is separate than the Textbook Exercises.
+* Remember to complete the Quiz in each chapter on our course site, which is separate than the Textbook Exercises.
 * The Quiz for each Module is on our Brightspace course site and must be done before the due date.
 * One the deadline comes, you will be able to review the correct solutions for each quiz.
 * A reminder that all the due dates are on the syllabus and in the area of the course site called Course Schedule (Due Dates).
 
 ## Further Reading and Interactive Activities
+
+In this area you will usually find links where you can read more on specific topics and work through online, interactive activties.
+My favorite site to recommend is https://mathigon.org/
+
+So excited to talk about some of my favorite geometric topics with you! 
