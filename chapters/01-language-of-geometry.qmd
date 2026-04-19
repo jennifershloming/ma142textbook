@@ -19,6 +19,25 @@ On the back of the index card you should explain the key term with the definitio
 - Ray
 - Plane
 - Collinear / coplanar
+- Definition
+- Postulate
+- Theorem
+
+Point: An exact location in space with no size, shape, or dimension.
+
+Line segment: Part of a line with two endpoints and all points between them.
+
+Ray: Part of a line with one endpoint that extends forever in one direction.
+
+Plane: A flat two-dimensional surface that extends without end.
+
+Collinear / coplanar: Collinear points lie on the same line; coplanar points lie in the same plane.
+
+Definition: A statement that explains the precise meaning of a mathematical term.
+
+Postulate: A statement accepted as true without proof and used as a starting point for reasoning.
+
+Theorem: A statement proven true using definitions, postulates, and previously proven results.
 
 ## Worked Example
 
@@ -44,4 +63,30 @@ $$
 
 ## Exercises
 
-## Futher Reading and Interactive Activities
+Match each term in Column A with the best definition in Column B. Write your answers as number-letter pairs (for example, 1-C).
+
+Column A (Terms)
+
+1. Point
+2. Line segment
+3. Ray
+4. Plane
+5. Collinear / coplanar
+6. Definition
+7. Postulate
+8. Theorem
+
+Column B (Definitions)
+
+A. A statement accepted as true without proof and used as a starting point for reasoning.
+B. A statement that explains the precise meaning of a mathematical term.
+C. A statement proven true using definitions, postulates, and previously proven results.
+D. Part of a line with one endpoint that extends forever in one direction.
+E. An exact location in space with no size, shape, or dimension.
+F. Part of a line with two endpoints and all points between them.
+G. Collinear points lie on the same line; coplanar points lie in the same plane.
+H. A flat two-dimensional surface that extends without end.
+
+Challenge: Write one original sentence using each of the words postulate and theorem correctly in a geometric context.
+
+## Further Reading and Interactive Activities

@@ -68,4 +68,4 @@ This shows how figurate-number patterns connect directly to finite sums.
 
 ## Exercises
 
-## Futher Reading and Interactive Activities
+## Further Reading and Interactive Activities
