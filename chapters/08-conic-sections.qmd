@@ -8,13 +8,17 @@ title: "8. Conic Sections"
 - Use coordinates to model transformations.
 - Identify symmetries in geometric figures.
 
-## Example Rule
+## Key Terms and Formulas
 
 A translation by vector $\langle a, b \rangle$ sends:
 
 $$
 (x, y) \to (x + a, y + b)
 $$
+
+## Mini-Lecture
+
+Transformations describe how figures move on the coordinate plane while preserving or changing size in predictable ways. By applying transformation rules step by step, you can map original points to image points and explain the symmetry of the result.
 
 ## Practice
 

@@ -8,7 +8,7 @@ title: "5. Polygons and Polyhedra"
 - Use circle vocabulary and relationships.
 - Solve for arc and central angle measures.
 
-## Polygon Sum Formula
+## Key Terms and Formulas
 
 For an $n$-gon, interior angle sum is:
 
@@ -16,7 +16,7 @@ $$
 (n - 2)180^\circ
 $$
 
-## Worked Example
+## Mini-Lecture
 
 Interior angle sum of a hexagon:
 

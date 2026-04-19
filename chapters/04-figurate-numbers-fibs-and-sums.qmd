@@ -8,7 +8,7 @@ title: "4. Figurate Numbers, FIBS, and Sums"
 - Compute terms of the Fibonacci sequence and identify recursive structure.
 - Use closed-form and sigma notation to evaluate finite sums.
 
-## Key Ideas
+## Key Terms and Formulas
 
 Triangular numbers count dots that form an equilateral triangular pattern:
 
@@ -34,7 +34,7 @@ $$
 \sum_{k=1}^n k = \frac{n(n+1)}{2}, \qquad \sum_{k=1}^n k^2 = \frac{n(n+1)(2n+1)}{6}
 $$
 
-## Worked Example
+## Mini-Lecture
 
 Find the 8th triangular number and the sum $1+2+\cdots+8$.
 

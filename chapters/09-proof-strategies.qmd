@@ -8,13 +8,17 @@ title: "9. Proof Strategies"
 - Use direct proof, contradiction, and counterexamples.
 - Evaluate whether an argument is logically valid.
 
-## Common Structure
+## Key Terms and Formulas
 
 A geometric proof generally includes:
 
 1. Given information
 2. Statements and reasons
 3. A justified conclusion
+
+## Mini-Lecture
+
+Strong proofs are built from clear claims and justified steps. In geometry, each step should reference a definition, postulate, theorem, or prior result so the final conclusion follows logically from the given information.
 
 ## Practice
 

@@ -9,7 +9,7 @@ By the end of this chapter, you should be able to:
 - Distinguish between definitions, postulates, and theorems.
 - Write symbolic and verbal geometric statements.
 
-## Key Terms
+## Key Terms and Formulas
 
 When you see a key term you should put it on an index card.
 On the back of the index card you should explain the key term with the definition and or an example.
@@ -39,7 +39,7 @@ Postulate: A statement accepted as true without proof and used as a starting poi
 
 Theorem: A statement proven true using definitions, postulates, and previously proven results.
 
-## Worked Example
+## Mini-Lecture
 
 Given points $A$, $B$, and $C$ on a line with $AB = 3$ and $BC = 7$, find $AC$.
 

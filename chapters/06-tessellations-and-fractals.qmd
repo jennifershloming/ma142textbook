@@ -8,14 +8,14 @@ title: "6. Tessellations and Fractals"
 - Compute volume of prisms, cylinders, pyramids, cones, and spheres.
 - Choose units and justify formulas.
 
-## Core Formulas
+## Key Terms and Formulas
 
 - Rectangle: $A = lw$
 - Triangle: $A = \frac{1}{2}bh$
 - Circle: $A = \pi r^2$
 - Prism: $V = Bh$
 
-## Worked Example
+## Mini-Lecture
 
 A cylinder with radius 3 and height 10 has volume:
 

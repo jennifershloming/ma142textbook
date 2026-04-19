@@ -8,7 +8,7 @@ title: "2. Star Polygons"
 - Distinguish when a star polygon is connected or disconnected.
 - Compute interior and turning-angle relationships for star polygons.
 
-## Key Idea
+## Key Terms and Formulas
 
 A regular star polygon is written as $\{n/k\}$:
 
@@ -18,7 +18,7 @@ $$
 
 The figure is connected exactly when $\gcd(n, k) = 1$.
 
-## Angle Relationship
+### Angle Relationship
 
 For a full tracing of $\{n/k\}$, each step turns by
 
@@ -32,7 +32,7 @@ $$
 \alpha = 180^\circ - \theta = 180^\circ - \frac{360^\circ k}{n}.
 $$
 
-## Worked Example
+## Mini-Lecture
 
 Find the tip angle of the pentagram $\{5/2\}$.
 

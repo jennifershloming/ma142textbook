@@ -8,7 +8,7 @@ title: "7. Symmetry, Isometries, and Frieze Patterns"
 - Compute slope and determine parallel/perpendicular lines.
 - Connect algebraic and geometric representations.
 
-## Formulas
+## Key Terms and Formulas
 
 Distance between $(x_1, y_1)$ and $(x_2, y_2)$:
 
@@ -21,6 +21,10 @@ Midpoint:
 $$
 M = \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right)
 $$
+
+## Mini-Lecture
+
+Coordinate geometry connects pictures to equations. Use the distance and midpoint formulas to measure and locate points precisely, then use slope to classify line relationships such as parallel and perpendicular.
 
 ## Practice
 

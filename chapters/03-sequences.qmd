@@ -8,7 +8,7 @@ title: "3. Sequences"
 - Write explicit and recursive formulas for sequences.
 - Use sequence formulas to find terms and partial sums.
 
-## Key Ideas
+## Key Terms and Formulas
 
 An arithmetic sequence has a constant difference $d$.
 
@@ -34,7 +34,7 @@ $$
 S_n = a_1\frac{1-r^n}{1-r}
 $$
 
-## Worked Example
+## Mini-Lecture
 
 An arithmetic sequence starts $5, 8, 11, 14, \dots$.
 
