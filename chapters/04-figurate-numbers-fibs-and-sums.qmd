@@ -4,9 +4,16 @@ title: "4. Figurate Numbers, FIBS, and Sums"
 
 ## Learning Goals
 
-- Recognize triangular and square figurate number patterns.
+- Recognize triangular, square, and pentagonal figurate number patterns.
 - Compute terms of the Fibonacci sequence and identify recursive structure.
 - Use closed-form and sigma notation to evaluate finite sums.
+- Compute figurate numbers using their formulas (triangular, square, and pentagonal).
+- Creating figurate numbers as geometric shapes.
+- Computing the sum of consecutive integers using Gauss' Method.
+- Determine the sum of consecutive even integers.
+- Determine the sum of consecutive odd integers.
+- Create a FIB poem.
+- Recognize a FIB poem.
 
 ## Key Terms and Formulas
 

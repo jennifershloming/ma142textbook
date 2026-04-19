@@ -4,9 +4,11 @@ title: "2. Star Polygons"
 
 ## Learning Goals
 
-- Define regular star polygons using Schlaefli notation.
+- Identify compound and regular star polygons.
 - Distinguish when a star polygon is connected or disconnected.
-- Compute interior and turning-angle relationships for star polygons.
+- Compute and recognize identical star polygons.
+- Name star polygons.
+- Creating star polygons.
 
 ## Key Terms and Formulas
 

@@ -4,9 +4,16 @@ title: "7. Symmetry, Isometries, and Frieze Patterns"
 
 ## Learning Goals
 
-- Use distance and midpoint formulas.
-- Compute slope and determine parallel/perpendicular lines.
-- Connect algebraic and geometric representations.
+- Identify symmetry in terms of shapes, patterns, words, capital letters, and more.
+- Determine lines of reflection.
+- Identify rotational symmetry (180 degrees).
+- Describe and identify all four isometries.
+- Define the compound isometry.
+- Distinguish when there is an isometry and when there is not an isometry.
+- Identify isometries in a frieze pattern.
+- Write which isometry is present in every frieze pattern.
+- Identify a frieze pattern using the terms hop, step, sidle, jump, spinning hop, spinning sidle, and spinning jump.
+- Create frieze patterns.
 
 ## Key Terms and Formulas
 

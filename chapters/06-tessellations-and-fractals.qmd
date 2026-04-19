@@ -4,9 +4,13 @@ title: "6. Tessellations and Fractals"
 
 ## Learning Goals
 
-- Compute area of common polygons and circles.
-- Compute volume of prisms, cylinders, pyramids, cones, and spheres.
-- Choose units and justify formulas.
+- Identify all the regular tessellations.
+- Classify a tiling as regular, semi-regular, or neither.
+- Name and identify all the regular and semi-regular tessellations.
+- Create dual tilings.
+- Identify which polygons will work in a regular or semi-regular tiling (check to see if the sum is 360 degrees around a given vertex).
+- Define a fractal.
+- Identify famous fractals.
 
 ## Key Terms and Formulas
 

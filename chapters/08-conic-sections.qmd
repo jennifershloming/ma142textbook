@@ -4,9 +4,17 @@ title: "8. Conic Sections"
 
 ## Learning Goals
 
-- Describe translations, reflections, rotations, and dilations.
-- Use coordinates to model transformations.
-- Identify symmetries in geometric figures.
+- Describe conic sections.
+- Define cylinder, cone, sphere, ellipse, parabola, hyperbola, circle.
+- Compute using the volume formula for cylinders.
+- Compute using the volume formula for cones.
+- Compute using the volume formula for spheres.
+- Compute using the surface area formula for cylinders.
+- Compute using the surface area formula for cones.
+- Compute using the surface area formula for spheres.
+- Describe Planetary Orbits.
+- Defy Gravity. (Just Kidding) instead we will Define Gravity.
+- Recognize the contributions of Isaac Newton, Hypatia, and Kepler in relation to Conic Sections.
 
 ## Key Terms and Formulas
 

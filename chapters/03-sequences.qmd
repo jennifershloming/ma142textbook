@@ -7,6 +7,7 @@ title: "3. Sequences"
 - Identify and describe arithmetic and geometric sequences.
 - Write explicit and recursive formulas for sequences.
 - Use sequence formulas to find terms and partial sums.
+- Find the next term in a sequence using the Method of Successive Differences.
 
 ## Key Terms and Formulas
 

@@ -4,9 +4,18 @@ title: "5. Polygons and Polyhedra"
 
 ## Learning Goals
 
-- Compute interior and exterior angle sums for polygons.
-- Use circle vocabulary and relationships.
-- Solve for arc and central angle measures.
+- Recognize polygons.
+- Identify whether a polygon is regular or irregular.
+- Identify whether a polygon is convex or concave.
+- Name polygons based on sides.
+- Compute the sum of the interior/vertex degress in a polygon.
+- Find the missing angles in a polygon. Find one angle in a regular polygon.
+- Classify triangles based on sides.
+- Classify triangles based on angles.
+- Find all angles in a polygon in terms of a variable.
+- Determine the name of a polygon when given the sum of its angles.
+- Identify a polyhedron.
+- Understand F + V = E + 2.
 
 ## Key Terms and Formulas
 
