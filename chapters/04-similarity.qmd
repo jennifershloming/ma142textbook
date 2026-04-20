@@ -36,16 +36,11 @@ If similar triangles have scale factor 3 from small to large, and a small side i
 
 ### Creative Assignment for this Chapter
 
-(**Creative Homework Assignment #7: Conic Section**)
+Creative Homework Assignment: FIBS)
 
-Your eighth creative assignment is to create an original piece of art that involves one or more conic section.
+Your creative assignment is to create an original FIB poem that is at least six lines.
 
-
-- It can be only one conic section or 
-- it can be multiple conic sections or 
-- it can be one type of conic section many times! 
-
-You can decide which of these three options. You can do this in any way you want.
+It must be a FIB as described in this chapter. This is an extra credit creative assignment that can replace a missing one for the course.
 
 ### Examples and More Information
 
