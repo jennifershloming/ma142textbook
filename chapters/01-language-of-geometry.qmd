@@ -10,6 +10,7 @@ By the end of this chapter, you should be able to:
 - Plan how you will work through this textbook.
 - Create a method for remembering and keeping track of key terms and definitions found in this textbook.
 
+
 ## Key Terms and Formulas
 
 Geometry can be seen as another language! Some of you may be afraid of math (hopefully not for long if this is the case). 
@@ -33,8 +34,11 @@ Theorem: A statement proven true using definitions, postulates, and previously p
 I want you to succeed! Let's go over how you can feel comfortable reading this textbook and how to read it. 
 
 Read this with paper and pens (and highlighters) at hand. I recommend a special binder for this course or a special notebook that is only used for Geoemtry. Write down key definitions, formulas, and concepts to help you remember. You will have textbook exercises, quizzes, and exams so taking notes will help you tremendously! Do the practice problems on your paper. Don't just look at this textbook but work with it and through it. Hope that makes sense!
+Please use any calculator that can do square roots. Don't get a calculator that you cannot understand how to work. You need a basic calculator that can add, subtract, multiply, divide, do powers, and take square roots. If it does more great, but it's unnecessary.
 
-Make time to read for this course. Try not to leave reading until the day assignments are due. That will add stress and frustration. The lectures are inside and you need to go through them in order to score well on the assignments. *You need to answer questions in this course based on the terms used in this text.* If you use terms and methods that I do not use it will signal that you may be using AI as a replacement for the lectures. 
+You can NOT use a cell phone or tablet as a calculator on the final exam so it is great to practice using the same one the entire time. If you believe you will have an issue using obtaining a calculator for any reason, please let me know by sending me an Email. 
+
+Make time to read for this course. Try not to leave reading until the day assignments are due. That will add stress and frustration. The lectures are inside and you need to go through them in order to score well on the assignments. *You need to answer questions in this course based on the terms used in this text. If you use terms and methods that I do not use it will signal that you may be using AI as a replacement for the lectures. 
 
 ## Practice
 
