@@ -1,36 +1,12 @@
 ---
-title: "9. Proof Strategies"
+title: "9. Course Assignments"
 ---
 
-## Learning Goals
+## Graded Assignments for Every Module
 
-- Organize geometric proofs clearly.
-- Use direct proof, contradiction, and counterexamples.
-- Evaluate whether an argument is logically valid.
-
-## Key Terms and Formulas
-
-A geometric proof generally includes:
-
-1. Given information
-2. Statements and reasons
-3. A justified conclusion
-
-## Mini-Lecture
-
-Strong proofs are built from clear claims and justified steps. In geometry, each step should reference a definition, postulate, theorem, or prior result so the final conclusion follows logically from the given information.
-
-## Practice
-
-1. Convert a two-column proof into paragraph form.
-2. Identify the first invalid step in a flawed proof.
-3. Write a short contradiction proof for a simple claim.
-
-## Art and Design Connections
-
-- Write a design rationale that proves why a chosen layout grid improves readability using explicit claims and evidence.
-- Compare two poster drafts and identify one invalid visual argument, then revise with a logically valid justification.
-- Build a mini critique rubric where each judgment must be supported by a clear statement-reason structure.
+- Creative Assignments:
+- Textbook Exercises
+- Quiz
 
 ## Creative Assignment
 
@@ -95,5 +71,3 @@ Once you have worked through the Google Doc Link with the Exercises, you will su
 * The Quiz for each Module is on our Brightspace course site and must be done before the due date.
 * Once the deadline comes, you will be able to review the correct solutions for each quiz.
 * A reminder that all the due dates are on the syllabus and in the area of the course site called Course Schedule (Due Dates).
-
-## Further Reading and Interactive Activities
