@@ -94,6 +94,10 @@ It must be a FIB as described in this chapter. This is an extra credit creative 
 * Make sure you are logged into your FIT Google account or else you will not view the link below.
 * Once you have your answers, submit them carefully through our course site on Brightspace by the deadline.
 
+*The above are the Textbook Exercises for my MA142 students.*
+
 ### More Exercises
+
+*These questions are for anyone! They are not required for my students.*
 
 ## Further Reading and Interactive Activities

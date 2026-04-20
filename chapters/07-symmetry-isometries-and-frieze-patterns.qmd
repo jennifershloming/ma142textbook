@@ -49,7 +49,7 @@ Coordinate geometry connects pictures to equations. Use the distance and midpoin
 
 ### Creative Assignment for this Chapter
 
-(**Creative Homework Assignment #65: Isometry**)
+(**Creative Homework Assignment #5: Isometry**)
 
 Your fifth creative assignment is to create an original piece of art that involves an isometry.
 
@@ -74,6 +74,10 @@ You can decide which of these three options. You can do this in any way you want
 * Once you have your answers, submit them carefully through our course site on Brightspace by the deadline.
 - [Symmetry Exercises (Google Doc)](https://docs.google.com/document/d/1G4NSWqj7PDb1ihpPdNCFnvUvRPk94jxDv119eehVN5Q/edit?usp=sharing)
 
+*The above are the Textbook Exercises for my MA142 students.*
+
 ### More Exercises
+
+*These questions are for anyone! They are not required for my students.*
 
 ## Further Reading and Interactive Activities
