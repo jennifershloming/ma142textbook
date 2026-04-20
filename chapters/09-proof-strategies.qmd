@@ -4,7 +4,8 @@ title: "9. Course Assignments"
 
 ## Graded Assignments for Every Module
 
-- Creative Assignments:
+If you are taking the MA142 course with me (Dr. Shloming) then you will have the following graded assignments for every module:
+- Creative Assignments
 - Textbook Exercises
 - Quiz
 
