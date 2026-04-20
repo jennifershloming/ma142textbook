@@ -77,7 +77,7 @@ This shows how figurate-number patterns connect directly to finite sums.
 
 ### Creative Assignment for this Chapter
 
-Creative Homework Assignment: FIBS)
+(***Creative Homework Assignment: FIBS***)
 
 Your creative assignment is to create an original FIB poem that is at least six lines.
 
@@ -86,8 +86,6 @@ It must be a FIB as described in this chapter. This is an extra credit creative 
 ### Examples and More Information
 
 * See the module folder on our course site for examples that would get credit and bonus for this creative homework assignment.
-* For information on how these assignments work; the grading rubric; and the voting you can look in Chapter 9 of this textbook or many places on our course site!
-* The more effort you put in for these assignments, the more bonus you get on exams. It helps if you write how long it took you to complete your work and how you created your assignment.
 
 ## Exercises
 
