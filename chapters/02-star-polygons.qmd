@@ -99,4 +99,24 @@ Please note that you are ONLY using straight lines; no other type of line or you
 
 *These questions are for anyone! They are not required for my students.*
 
+1. **True or False.** The star polygon $\{5/2\}$ is the same as $\{5/3\}$. Explain your reasoning.
+
+2. **Short Answer.** For a star polygon $\{n/k\}$ to be connected (a single piece), the values $n$ and $k$ must be relatively prime (share no common factors greater than 1). Use this rule to determine whether each of the following is connected or disconnected:
+   a. $\{8/2\}$
+   b. $\{9/2\}$
+   c. $\{10/4\}$
+   d. $\{7/3\}$
+
+3. **Calculation.** What is the tip angle of the star polygon $\{7/2\}$? Show your work using the angle formula.
+
+4. **Multiple Choice.** Which of the following correctly names the star polygon formed by connecting every 3rd point on a set of 8 equally-spaced points?
+   - (a) $\{3/8\}$
+   - (b) $\{8/5\}$
+   - (c) $\{8/3\}$
+   - (d) $\{3/5\}$
+
+5. **Art & Fashion Connection.** The star of David ($\{6/2\}$) and the five-pointed star ($\{5/2\}$) appear everywhere in fashion — on jewelry, printed fabrics, and designer logos. The Givenchy logo famously features interlocking shapes, and star motifs recur in collections by Versace and Saint Laurent.
+   - Identify the star polygon notation for a **six-pointed star** formed by two overlapping equilateral triangles. Is it connected or disconnected? How many triangles make it up?
+   - The "Star of David" appears on many garments. Sketch or describe how you would construct it starting from 6 equally spaced points on a circle.
+
 ## Further Reading and Interactive Activities

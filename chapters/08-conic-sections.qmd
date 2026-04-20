@@ -75,6 +75,27 @@ You can decide which of these three options. You can do this in any way you want
 
 *These questions are for anyone! They are not required for my students.*
 
+1. **Matching.** Match each conic section to how it is formed by a plane cutting a cone:
+   - (A) Circle  &emsp; (1) Plane cuts both nappes of the cone
+   - (B) Ellipse  &emsp; (2) Plane is parallel to the base of the cone
+   - (C) Parabola  &emsp; (3) Plane cuts at an angle but only one nappe
+   - (D) Hyperbola  &emsp; (4) Plane is parallel to one slant side of the cone
+
+2. **Volume Calculations.** Round answers to the nearest hundredth where needed ($\pi \approx 3.14159$).
+   a. Find the volume of a cylinder with radius 4 cm and height 10 cm.
+   b. Find the volume of a cone with radius 3 cm and height 9 cm.
+   c. Find the volume of a sphere with radius 5 cm.
+
+3. **Surface Area.** A soup can (cylinder) has radius 3.5 cm and height 11 cm. Find the total surface area. Show all steps.
+
+4. **Planetary Orbits.** Earth orbits the Sun in an elliptical path with the Sun at one focus.
+   - True or False: A perfect circle is a special case of an ellipse.
+   - Which planet in our solar system has the most circular orbit (closest to a perfect circle), and which has the most elongated (eccentric) elliptical orbit? *(Research or reason from what you know.)*
+
+5. **Pop Culture & Design Connection.** Ellipses and parabolas appear throughout architecture and product design. The famous Levi's Stadium, many satellite dishes, and car headlight reflectors all use parabolic shapes. The Oval Office in the White House takes its name from its elliptical shape.
+   - Why is a **parabolic** shape used for satellite dishes and car headlights? Describe in terms of the reflective property of a parabola.
+   - A decorative bowl is designed as a hemisphere (half-sphere) with an inner radius of 12 cm. What is the volume of liquid it can hold? *(Hint: the volume of a hemisphere is half the volume of a sphere.)*
+
 ## Further Reading and Interactive Activities
 
 * [Spheres, Cones and Cylinders -- Mathigon](https://mathigon.org/course/circles/spheres-cones-cylinders)

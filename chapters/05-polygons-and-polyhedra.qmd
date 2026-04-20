@@ -78,6 +78,27 @@ Your third creative assignment is to create an original piece of art using your 
 
 *These questions are for anyone! They are not required for my students.*
 
+1. **Vocabulary Matching.** Match each term with the correct description:
+   - (A) Convex polygon  &emsp; (1) All sides and angles are equal
+   - (B) Regular polygon  &emsp; (2) No interior angle greater than 180°
+   - (C) Concave polygon  &emsp; (3) At least one interior angle greater than 180°
+
+2. **Interior Angle Sum.** Find the sum of the interior angles for each polygon:
+   a. Hexagon
+   b. Decagon (10 sides)
+   c. 15-gon
+
+3. **Find the Missing Angle.** A pentagon has four interior angles measuring 90°, 105°, 118°, and 97°. What is the measure of the fifth angle?
+
+4. **Triangle Classification.** Classify each triangle (a) by its sides and (b) by its angles:
+   - Triangle 1: sides 5, 5, 8; angles 75°, 75°, 30°
+   - Triangle 2: sides 3, 4, 5; angles 90°, 53°, 37°
+   - Triangle 3: sides 6, 6, 6; angles 60°, 60°, 60°
+
+5. **Fashion & Design Connection.** Gemstone cuts are closely tied to polygon geometry. The classic **emerald cut** is an octagon (8-sided polygon), and the **princess cut** is based on a square. Jewelers in the fashion industry choose cuts based on brilliance and geometric appeal.
+   - What is the measure of each interior angle of a **regular octagon**? Show your work.
+   - A custom pendant is cut in the shape of a regular hexagon. If each side measures 1.2 cm, what is the sum of the interior angles? Is this polygon convex or concave?
+
 ## Further Reading and Interactive Activities
 
 * [Dodecahedron Video](https://youtu.be/UgGcg7PTDmU)

@@ -80,6 +80,33 @@ You can decide which of these three options. You can do this in any way you want
 
 *These questions are for anyone! They are not required for my students.*
 
+1. **Lines of Symmetry.** How many lines of reflection symmetry does each shape have?
+   a. Equilateral triangle
+   b. Square
+   c. Regular hexagon
+   d. Circle
+
+2. **Rotational Symmetry.** State the smallest angle of rotation that maps the figure onto itself:
+   a. A regular pentagon
+   b. The letter S
+   c. A regular octagon
+
+3. **Isometry Identification.** For each transformation, identify the isometry (reflection, rotation, translation, or glide reflection):
+   a. Moving a shape 5 units to the right without turning or flipping it.
+   b. Flipping a shape over the $x$-axis.
+   c. Reflecting a shape over a line, then translating it along that same line.
+   d. Rotating a shape 90° around a fixed point.
+
+4. **Frieze Patterns.** Identify the frieze pattern type (hop, step, sidle, jump, spinning hop, spinning sidle, or spinning jump) for each description:
+   a. The pattern only has translational symmetry.
+   b. The pattern has a vertical line of reflection and translational symmetry, but no other symmetries.
+   c. The pattern has a glide reflection and translational symmetry only.
+
+5. **Fashion Connection.** Textile and fabric design relies heavily on symmetry and frieze patterns. Border prints on scarves, sari edges, and wallpaper trims are real-world frieze patterns.
+   - A scarf border repeats a feather motif that is reflected vertically and can also be flipped upside-down. Which frieze pattern type is this? *(Hint: think about which symmetries are present.)*
+   - The Louis Vuitton monogram pattern is famous for its repeating LV logo. Does the LV logo itself have any lines of reflection symmetry? Does it have rotational symmetry? Explain.
+   - Name one capital letter of the alphabet that has **both** a horizontal and a vertical line of symmetry.
+
 ## Further Reading and Interactive Activities
 
 * [Introduction to Transformations](https://mathigon.org/course/transformations/introduction)

@@ -66,6 +66,25 @@ Your fourth creative assignment is to create an original piece of art involving 
 
 *These questions are for anyone! They are not required for my students.*
 
+1. **True or False.** Every regular polygon can tessellate the plane on its own. If false, give a counterexample.
+
+2. **Angle Check.** Determine whether each regular polygon can tessellate the plane by checking if its interior angle evenly divides 360°.
+   a. Equilateral triangle
+   b. Regular pentagon
+   c. Regular hexagon
+   d. Regular octagon
+
+3. **Semi-Regular Tessellation.** A vertex in a tiling is surrounded by a regular triangle, a square, a regular hexagon, and another square (in some order). Do these polygons form a valid tiling at that vertex? Show by computing the angle sum.
+
+4. **Fractals.** The Sierpiński triangle is formed by repeatedly removing the middle triangle from each remaining triangle.
+   - After Step 0 there is 1 filled triangle. After Step 1 there are 3. After Step 2 there are 9. Write a formula for the number of filled triangles after Step $n$.
+   - What type of sequence is this (arithmetic or geometric)?
+
+5. **Art Connection.** The artist M.C. Escher is famous for his tessellations that transform geometric shapes into animals, birds, and fish. His work *Sky and Water I* (1938) features interlocking fish and birds with no gaps or overlaps.
+   - In your own words, what property must a shape have in order to tessellate the plane?
+   - Escher often started with a regular polygon and modified its edges. If he started with a square (interior angle = 90°), how many squares meet at each vertex in a standard square tessellation? Verify this using the angle sum.
+   - **Creative prompt:** Describe or sketch how you might modify one side of an equilateral triangle to create an Escher-like interlocking shape that would still tessellate.
+
 ## Further Reading and Interactive Activities
 
 * [Tessellations @ Mathigon](https://mathigon.org/course/polyhedra/tessellations)

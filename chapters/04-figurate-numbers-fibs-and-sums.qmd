@@ -100,6 +100,21 @@ It must be a FIB as described in this chapter. This is an extra credit creative 
 
 *These questions are for anyone! They are not required for my students.*
 
+1. **Figurate Numbers.** Find the 8th triangular number, the 5th square number, and the 4th pentagonal number. Show the formula you used for each.
+
+2. **Fibonacci Sequence.** The Fibonacci sequence starts $1, 1, 2, 3, 5, 8, \ldots$
+   - Write a recursive formula for $F_n$.
+   - List the first 12 terms of the Fibonacci sequence.
+   - What is the ratio $F_{12}/F_{11}$? What famous constant does this ratio approach?
+
+3. **Gauss's Method.** Use Gauss's Method to find the sum of the integers from 1 to 200. Show your reasoning.
+
+4. **Sigma Notation.** Evaluate: $\displaystyle\sum_{k=1}^{6} (2k - 1)$. What do you notice about the result?
+
+5. **Fashion & Art Connection.** The Fibonacci sequence appears throughout fashion and design. The "golden rectangle" — whose side lengths are in the ratio of consecutive Fibonacci numbers — is used in fabric cutting, logo proportions, and garment design. Karl Lagerfeld was famously inspired by mathematical proportions.
+   - The 10th and 11th Fibonacci numbers are 55 and 89. If a designer wants a golden-ratio rectangle with a shorter side of 55 cm, approximately how long should the longer side be?
+   - Triangular numbers appear in stacked arrangements — like a pyramid display of folded scarves: 1 on top, then 2, then 3, and so on. If a department store display has 6 rows, how many scarves are in the display in total?
+
 ## Further Reading and Interactive Activities
 
 * [Triangle and Square Numbers (and more)](https://mathigon.org/course/sequences/introduction)

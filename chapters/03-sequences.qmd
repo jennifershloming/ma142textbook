@@ -98,6 +98,26 @@ You can decide which of these three options. I need to be able to see at least o
 
 *These questions are for anyone! They are not required for my students.*
 
+1. **Identify the Sequence Type.** For each sequence, state whether it is arithmetic, geometric, or neither. If arithmetic, give the common difference $d$. If geometric, give the common ratio $r$.
+   a. $3, 7, 11, 15, 19, \ldots$
+   b. $2, 6, 18, 54, \ldots$
+   c. $1, 4, 9, 16, 25, \ldots$
+   d. $100, 50, 25, 12.5, \ldots$
+
+2. **Write a Formula.** The sequence $5, 8, 11, 14, \ldots$ is arithmetic.
+   - Write an **explicit formula** for the $n$-th term.
+   - Write a **recursive formula** for the sequence.
+   - Use your explicit formula to find the 20th term.
+
+3. **Method of Successive Differences.** Use the Method of Successive Differences to find the next two terms of the sequence: $2, 5, 10, 17, 26, \ldots$
+
+4. **Partial Sum.** Find the sum of the first 10 terms of the geometric sequence $1, 2, 4, 8, \ldots$
+
+5. **Pop Culture Connection.** Taylor Swift's *Eras Tour* had a setlist that grew with each leg of the tour. Suppose the number of songs performed each night followed an arithmetic sequence: the first night she performed 22 songs, and each subsequent night she added 2 more songs to the setlist.
+   - Write an explicit formula for the number of songs on night $n$.
+   - How many songs would she perform on night 15?
+   - If the total number of songs across all nights is 500, how many nights did the tour run? *(Hint: use the partial sum formula and solve for $n$.)*
+
 ## Further Reading and Interactive Activities
 
 * [Arithmetic & Geometric Sequences](https://mathigon.org/course/sequences/arithmetic-geometric)
