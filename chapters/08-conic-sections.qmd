@@ -76,3 +76,10 @@ You can decide which of these three options. You can do this in any way you want
 *These questions are for anyone! They are not required for my students.*
 
 ## Further Reading and Interactive Activities
+
+* [Spheres, Cones and Cylinders -- Mathigon](https://mathigon.org/course/circles/spheres-cones-cylinders)
+* [Conic Sections -- Mathigon](https://mathigon.org/course/circles/conic-sections)
+* [Painting - Cross-Ratio in a Conic (Poncelet)](https://www.si.edu/object/painting-cross-ratio-conic-poncelet%3Anmah_694639)
+* [Ellipsographs -- Smithsonian](https://americanhistory.si.edu/collections/object-groups/ellipsographs)
+* [Conic Sections - interactive 3-D graph](https://www.intmath.com/plane-analytic-geometry/conic-sections-summary-interactive.php)
+* [Extra History videos related to Hypatia](https://www.youtube.com/@extrahistory/search?query=hypatia)

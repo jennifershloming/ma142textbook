@@ -99,3 +99,6 @@ You can decide which of these three options. I need to be able to see at least o
 *These questions are for anyone! They are not required for my students.*
 
 ## Further Reading and Interactive Activities
+
+* [Arithmetic & Geometric Sequences](https://mathigon.org/course/sequences/arithmetic-geometric)
+* [Fibonacci Numbers, Golden Ratio, Fibonacci Spirals](https://fitnyc.open.suny.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_3177055_1&course_id=_74248_1#:~:text=Fibonacci%20Numbers%2C%20Golden%20Ratio%2C%20Fibonacci%20Spirals)

@@ -67,3 +67,13 @@ Your fourth creative assignment is to create an original piece of art involving 
 *These questions are for anyone! They are not required for my students.*
 
 ## Further Reading and Interactive Activities
+
+* [Tessellations @ Mathigon](https://mathigon.org/course/polyhedra/tessellations)
+* [Magic Square @ Mathigon](https://mathigon.org/task/puzzling-properties-of-magic-square)
+* [Tangram @ Mathigon](https://mathigon.org/tangram)
+* [Tessellate](https://www.youtube.com/watch?v=lCeYBfZiDTY)
+* [Escher-style coloring pages](http://krokotak.com/2012/11/escher-coloring-pages/)
+* [mathcats' tessellation town](http://www.mathcats.com/explore/tessellations/tesspeople.html)
+* [Fractals](https://mathigon.org/course/fractals/introduction)
+* [Sierpinski Triangle](https://mathigon.org/course/fractals/sierpinski)
+* [How Mandelbrot's fractals changed the world](https://www.bbc.com/news/magazine-11564766)

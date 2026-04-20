@@ -79,3 +79,10 @@ Your third creative assignment is to create an original piece of art using your 
 *These questions are for anyone! They are not required for my students.*
 
 ## Further Reading and Interactive Activities
+
+* [Dodecahedron Video](https://youtu.be/UgGcg7PTDmU)
+* [Polygons](https://mathigon.org/course/polyhedra/polygons)
+* [Polyhedra](https://mathigon.org/course/polyhedra/polyhedra)
+* [Platonic Solids](https://mathigon.org/course/polyhedra/platonic)
+* [Animated Polyhedron Models](https://www.mathsisfun.com/geometry/polyhedron-models.html?m=Dodecahedron)
+* [Play with 3d Polyhedra Online](https://drajmarsh.bitbucket.io/poly3d.html)

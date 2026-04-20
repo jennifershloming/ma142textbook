@@ -81,3 +81,10 @@ You can decide which of these three options. You can do this in any way you want
 *These questions are for anyone! They are not required for my students.*
 
 ## Further Reading and Interactive Activities
+
+* [Introduction to Transformations](https://mathigon.org/course/transformations/introduction)
+* [Rigid Transformations](https://mathigon.org/course/transformations/rigid)
+* [Symmetry](https://mathigon.org/course/transformations/symmetry)
+* [Symmetry Groups & Wallpapers](https://mathigon.org/course/transformations/symmetry-groups)
+* [Symmetry in Physics](https://mathigon.org/course/transformations/physics)
+* [Dilations](https://mathigon.org/course/transformations/dilations)

@@ -62,3 +62,9 @@ It must be a FIB as described in this chapter. This is an extra credit creative 
 *These questions are for anyone! They are not required for my students.*
 
 ## Further Reading and Interactive Activities
+
+* [Triangle and Square Numbers (and more)](https://mathigon.org/course/sequences/introduction)
+* [Figurate Numbers](https://mathigon.org/course/sequences/figurate)
+* [Watch Video](https://www.youtube.com/watch?v=Yhlv5Aeuo_k)
+* [Pascal's Triangle](https://mathigon.org/course/sequences/pascals-triangle)
+* [Gauss](https://mathigon.org/timeline/gauss)
