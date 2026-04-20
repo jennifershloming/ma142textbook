@@ -72,11 +72,6 @@ If you are currently enrolled in a MA142 course from Dr. Jennifer R. Shloming th
 
 ## Exercises
 
-### How Exercises in this OER Work
-If you are an FIT student, you will be able to view the Google Doc with specific problems. These are assigned problems that get updated. If you are in one of my (in Dr. Shloming's MA142) courses, these **Textbook Exercises** are part of the course grade. You will do all the questions on the Google Doc. 
-
-*Non-FIT students will see Exercises not on a GoogleDoc link.*
-
 ### Exercises for this Chapter
 
 * Make sure you are logged into your FIT Google account or else you will not view the link below.
@@ -87,16 +82,5 @@ If you are an FIT student, you will be able to view the Google Doc with specific
 
 * *If you provide me with more than 24 hours before the due date, then you can share your Google Doc with your answers and work with me for review and comments.*
 * *Send a separate Email to me asking for me to look over and make comments on your Google Doc. Again, as long as it is 24 hours or more before the deadline I will be happy to check your work. The earlier you ask, the better!*
-
-### Exercises Submission
-
-Once you have worked through the Google Doc Link with the Exercises, you will submit your assignment by going on our Brightspace site. The assignments must be submitted through Brightspace by the date listed in the course schedule. Otherwise, it will receive a zero.
-
-## Quiz
-
-* Remember to complete the Quiz, which is separate than the Textbook Exercises.
-* The Quiz for each Module is on our Brightspace course site and must be done before the due date.
-* Once the deadline comes, you will be able to review the correct solutions for each quiz.
-* A reminder that all the due dates are on the syllabus and in the area of the course site called Course Schedule (Due Dates).
 
 ## Further Reading and Interactive Activities
