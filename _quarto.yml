@@ -20,6 +20,7 @@ book:
     - references.qmd
   appendices:
     - chapters/appendix-a-formulas.qmd
+    - chapters/appendix-b-solutions-to-more-exercises.qmd
 
 bibliography: references.bib
 

@@ -1,0 +1,638 @@
+---
+title: "Appendix B: Solutions to More Exercises"
+---
+
+## Chapter 2: Star Polygons
+
+### Solutions to More Exercises
+
+#### 1. True or False.
+
+**Problem:**
+The star polygon $\{5/2\}$ is the same as $\{5/3\}$. Explain your reasoning.
+
+**Solution:**
+True. $\{5/2\}$ and $\{5/3\}$ trace the same pentagram edges in opposite directions, so they represent the same star polygon.
+
+#### 2. Short Answer.
+
+**Problem:**
+For a star polygon $\{n/k\}$ to be connected (a single piece), the values $n$ and $k$ must be relatively prime (share no common factors greater than 1). Determine whether each is connected or disconnected:
+
+a. $\{8/2\}$
+b. $\{9/2\}$
+c. $\{10/4\}$
+d. $\{7/3\}$
+
+**Solution:**
+a. $\{8/2\}$: disconnected because $\gcd(8,2)=2$.
+b. $\{9/2\}$: connected because $\gcd(9,2)=1$.
+c. $\{10/4\}$: disconnected because $\gcd(10,4)=2$.
+d. $\{7/3\}$: connected because $\gcd(7,3)=1$.
+
+#### 3. Calculation.
+
+**Problem:**
+What is the tip angle of the star polygon $\{7/2\}$? Show your work using the angle formula.
+
+**Solution:**
+For $\{7/2\}$,
+
+$$
+	\theta=\frac{360^\circ(2)}{7}=\frac{720^\circ}{7}
+$$
+
+$$
+\alpha=180^\circ-\theta=180^\circ-\frac{720^\circ}{7}=\frac{540^\circ}{7}\approx77.14^\circ
+$$
+
+So the tip angle is $\frac{540^\circ}{7}\approx77.14^\circ$.
+
+#### 4. Multiple Choice.
+
+**Problem:**
+Which correctly names the star polygon formed by connecting every 3rd point on a set of 8 equally-spaced points?
+
+- (a) $\{3/8\}$
+- (b) $\{8/5\}$
+- (c) $\{8/3\}$
+- (d) $\{3/5\}$
+
+**Solution:**
+(c) $\{8/3\}$.
+
+#### 5. Art & Fashion Connection.
+
+**Problem:**
+The Star of David ($\{6/2\}$) and the five-pointed star ($\{5/2\}$) appear in fashion, jewelry, printed fabrics, and logos.
+
+- Identify the star polygon notation for a six-pointed star formed by two overlapping equilateral triangles. Is it connected or disconnected? How many triangles make it up?
+- Sketch or describe how to construct it starting from 6 equally spaced points on a circle.
+
+**Solution:**
+The six-pointed star made from two equilateral triangles is $\{6/2\}$. It is disconnected (since $\gcd(6,2)=2$) and is made of 2 triangles.
+
+Construction idea: place 6 equally spaced points on a circle, connect every other point to form one equilateral triangle, then connect the three remaining points to form the inverted triangle.
+
+## Chapter 3: Sequences
+
+### Solutions to More Exercises
+
+#### 1. Identify the Sequence Type.
+
+**Problem:**
+For each sequence, state whether it is arithmetic, geometric, or neither. If arithmetic, give $d$. If geometric, give $r$.
+
+a. $3, 7, 11, 15, 19, \ldots$
+b. $2, 6, 18, 54, \ldots$
+c. $1, 4, 9, 16, 25, \ldots$
+d. $100, 50, 25, 12.5, \ldots$
+
+**Solution:**
+a. Arithmetic, $d=4$.
+b. Geometric, $r=3$.
+c. Neither.
+d. Geometric, $r=\frac{1}{2}$.
+
+#### 2. Write a Formula.
+
+**Problem:**
+The sequence $5, 8, 11, 14, \ldots$ is arithmetic.
+
+- Write an explicit formula for the $n$th term.
+- Write a recursive formula.
+- Use your explicit formula to find the 20th term.
+
+**Solution:**
+For $5,8,11,14,\ldots$:
+
+- Explicit: $a_n=5+3(n-1)=3n+2$
+- Recursive: $a_1=5$, $a_n=a_{n-1}+3$ for $n\ge2$
+- 20th term: $a_{20}=3(20)+2=62$
+
+#### 3. Method of Successive Differences.
+
+**Problem:**
+Use the Method of Successive Differences to find the next two terms of:
+
+$2, 5, 10, 17, 26, \ldots$
+
+**Solution:**
+Sequence: $2,5,10,17,26,\ldots$
+
+First differences: $3,5,7,9$.
+Second differences are constant: $2,2,2$.
+
+So next first differences are $11,13$.
+
+Next two terms:
+
+- $26+11=37$
+- $37+13=50$
+
+Answer: $37,50$.
+
+#### 4. Partial Sum.
+
+**Problem:**
+Find the sum of the first 10 terms of the geometric sequence:
+
+$1, 2, 4, 8, \ldots$
+
+**Solution:**
+This is geometric with $a_1=1$, $r=2$, $n=10$.
+
+$$
+S_{10}=a_1\frac{1-r^{10}}{1-r}=\frac{1-2^{10}}{1-2}=1023
+$$
+
+So the sum is $1023$.
+
+#### 5. Pop Culture Connection.
+
+**Problem:**
+Suppose the number of songs performed each night follows an arithmetic sequence: first night 22 songs, each subsequent night adds 2 songs.
+
+- Write an explicit formula for songs on night $n$.
+- How many songs on night 15?
+- If the total across all nights is 500 songs, how many nights did the tour run?
+
+**Solution:**
+Given $a_1=22$, $d=2$:
+
+- Explicit formula: $a_n=22+2(n-1)=2n+20$
+- Night 15: $a_{15}=2(15)+20=50$ songs
+
+Total after $n$ nights:
+
+$$
+S_n=\frac{n}{2}\big(2\cdot22+(n-1)2\big)=n(n+21)
+$$
+
+Set $n(n+21)=500$:
+
+$$
+n^2+21n-500=0
+$$
+
+This has no whole-number solution, so under this model there is no exact integer number of nights that gives total 500 songs.
+
+## Chapter 4: Figurate Numbers, Fibonacci, and Sums
+
+### Solutions to More Exercises
+
+#### 1. Figurate Numbers.
+
+**Problem:**
+Find the 8th triangular number, the 5th square number, and the 4th pentagonal number. Show the formula used for each.
+
+**Solution:**
+- 8th triangular number:
+
+$$
+T_8=\frac{8(9)}{2}=36
+$$
+
+- 5th square number:
+
+$$
+S_5=5^2=25
+$$
+
+- 4th pentagonal number:
+
+$$
+P_4=\frac{4(3\cdot4-1)}{2}=\frac{4(11)}{2}=22
+$$
+
+#### 2. Fibonacci Sequence.
+
+**Problem:**
+The Fibonacci sequence starts $1,1,2,3,5,8,\ldots$
+
+- Write a recursive formula for $F_n$.
+- List the first 12 terms.
+- Compute $F_{12}/F_{11}$. What constant does this ratio approach?
+
+**Solution:**
+Recursive formula:
+
+$$
+F_1=1,\;F_2=1,\;F_n=F_{n-1}+F_{n-2}\;(n\ge3)
+$$
+
+First 12 terms:
+
+$1,1,2,3,5,8,13,21,34,55,89,144$
+
+Ratio:
+
+$$
+\frac{F_{12}}{F_{11}}=\frac{144}{89}\approx1.61798
+$$
+
+This approaches the golden ratio $\varphi\approx1.61803$.
+
+#### 3. Gauss's Method.
+
+**Problem:**
+Use Gauss's Method to find the sum of integers from 1 to 200. Show your reasoning.
+
+**Solution:**
+$$
+1+2+\cdots+200=\frac{200(201)}{2}=20100
+$$
+
+So the sum is $20100$.
+
+#### 4. Sigma Notation.
+
+**Problem:**
+Evaluate:
+
+$$
+\sum_{k=1}^{6} (2k-1)
+$$
+
+What do you notice about the result?
+
+**Solution:**
+$$
+\sum_{k=1}^{6}(2k-1)=1+3+5+7+9+11=36
+$$
+
+Observation: the sum of the first $n$ odd numbers is $n^2$; here $6^2=36$.
+
+#### 5. Fashion & Art Connection.
+
+**Problem:**
+The 10th and 11th Fibonacci numbers are 55 and 89.
+
+- If a designer wants a golden-ratio rectangle with shorter side 55 cm, approximately how long is the longer side?
+- A triangular scarf display has 6 rows (1 on top, then 2, 3, and so on). How many scarves total?
+
+**Solution:**
+Using the golden-ratio approximation for consecutive Fibonacci numbers:
+
+$$
+	\text{long side}\approx55\cdot1.618\approx88.99\text{ cm}\approx89\text{ cm}
+$$
+
+For 6 rows of a triangular scarf display:
+
+$$
+T_6=\frac{6(7)}{2}=21
+$$
+
+So the display has 21 scarves.
+
+## Chapter 5: Polygons and Polyhedra
+
+### Solutions to More Exercises
+
+#### 1. Vocabulary Matching.
+
+**Problem:**
+Match each term with the correct description:
+
+- (A) Convex polygon  (1) All sides and angles are equal
+- (B) Regular polygon  (2) No interior angle greater than 180°
+- (C) Concave polygon  (3) At least one interior angle greater than 180°
+
+**Solution:**
+A-2, B-1, C-3.
+
+#### 2. Interior Angle Sum.
+
+**Problem:**
+Find the sum of the interior angles for each polygon:
+
+a. Hexagon
+b. Decagon (10 sides)
+c. 15-gon
+
+**Solution:**
+Use $(n-2)180^\circ$.
+
+a. Hexagon ($n=6$):
+
+$$
+(6-2)180^\circ=720^\circ
+$$
+
+b. Decagon ($n=10$):
+
+$$
+(10-2)180^\circ=1440^\circ
+$$
+
+c. 15-gon ($n=15$):
+
+$$
+(15-2)180^\circ=2340^\circ
+$$
+
+#### 3. Find the Missing Angle.
+
+**Problem:**
+A pentagon has four interior angles measuring $90^\circ$, $105^\circ$, $118^\circ$, and $97^\circ$. Find the fifth angle.
+
+**Solution:**
+For a pentagon, interior sum is:
+
+$$
+(5-2)180^\circ=540^\circ
+$$
+
+Given four angles total:
+
+$$
+90^\circ+105^\circ+118^\circ+97^\circ=410^\circ
+$$
+
+Missing angle:
+
+$$
+540^\circ-410^\circ=130^\circ
+$$
+
+#### 4. Triangle Classification.
+
+**Problem:**
+Classify each triangle by sides and by angles.
+
+- Triangle 1: sides 5, 5, 8; angles $75^\circ$, $75^\circ$, $30^\circ$
+- Triangle 2: sides 3, 4, 5; angles $90^\circ$, $53^\circ$, $37^\circ$
+- Triangle 3: sides 6, 6, 6; angles $60^\circ$, $60^\circ$, $60^\circ$
+
+**Solution:**
+- Triangle 1 (5,5,8; 75,75,30): isosceles, acute.
+- Triangle 2 (3,4,5; 90,53,37): scalene, right.
+- Triangle 3 (6,6,6; 60,60,60): equilateral, acute.
+
+#### 5. Fashion & Design Connection.
+
+**Problem:**
+- What is the measure of each interior angle of a regular octagon? Show work.
+- A custom pendant is cut as a regular hexagon. If each side is 1.2 cm, what is the sum of interior angles? Is it convex or concave?
+
+**Solution:**
+Regular octagon interior angle:
+
+$$
+\frac{(8-2)180^\circ}{8}=135^\circ
+$$
+
+Regular hexagon interior angle sum:
+
+$$
+(6-2)180^\circ=720^\circ
+$$
+
+A regular hexagon is convex.
+
+## Chapter 6: Tessellations and Fractals
+
+### Solutions to More Exercises
+
+#### 1. True or False.
+
+**Problem:**
+Every regular polygon can tessellate the plane on its own. If false, give a counterexample.
+
+**Solution:**
+False. Not every regular polygon tessellates by itself; for example, a regular pentagon does not tessellate the plane.
+
+#### 2. Angle Check.
+
+**Problem:**
+Determine whether each regular polygon can tessellate the plane by checking if its interior angle evenly divides $360^\circ$.
+
+a. Equilateral triangle
+b. Regular pentagon
+c. Regular hexagon
+d. Regular octagon
+
+**Solution:**
+Check whether interior angle divides $360^\circ$.
+
+a. Equilateral triangle: interior angle $60^\circ$, and $360/60=6$ (integer), so yes.
+b. Regular pentagon: interior angle $108^\circ$, and $360/108$ is not an integer, so no.
+c. Regular hexagon: interior angle $120^\circ$, and $360/120=3$, so yes.
+d. Regular octagon: interior angle $135^\circ$, and $360/135$ is not an integer, so no.
+
+#### 3. Semi-Regular Tessellation.
+
+**Problem:**
+A vertex in a tiling is surrounded by a regular triangle, a square, a regular hexagon, and another square (in some order). Do these form a valid tiling at that vertex? Show the angle sum.
+
+**Solution:**
+Angles at the vertex:
+
+$$
+60^\circ+90^\circ+120^\circ+90^\circ=360^\circ
+$$
+
+Yes, this is a valid vertex configuration.
+
+#### 4. Fractals.
+
+**Problem:**
+The Sierpinski triangle is formed by repeatedly removing the middle triangle from each remaining triangle.
+
+- After Step 0 there is 1 filled triangle, after Step 1 there are 3, after Step 2 there are 9. Write a formula for the number of filled triangles after Step $n$.
+- Is this arithmetic or geometric?
+
+**Solution:**
+The count triples each step: $1,3,9,\ldots$.
+
+If Step 0 is $n=0$, then:
+
+$$
+N_n=3^n
+$$
+
+This is a geometric sequence with common ratio $3$.
+
+#### 5. Art Connection.
+
+**Problem:**
+- In your own words, what property must a shape have to tessellate the plane?
+- If starting from a square with interior angle $90^\circ$, how many squares meet at each vertex in a standard square tessellation? Verify using angle sum.
+- Describe or sketch how you might modify one side of an equilateral triangle to create an Escher-like interlocking shape that still tessellates.
+
+**Solution:**
+- A shape tessellates if repeated copies cover the plane with no gaps and no overlaps.
+- In a square tessellation, 4 squares meet at each vertex because $4\cdot90^\circ=360^\circ$.
+- One way to modify an equilateral triangle and keep tessellation: cut a small curve/notch from one side and translate that exact piece to the adjacent side so matching edges still interlock under translations/rotations.
+
+## Chapter 7: Symmetry, Isometries, and Frieze Patterns
+
+### Solutions to More Exercises
+
+#### 1. Lines of Symmetry.
+
+**Problem:**
+How many lines of reflection symmetry does each shape have?
+
+a. Equilateral triangle
+b. Square
+c. Regular hexagon
+d. Circle
+
+**Solution:**
+a. Equilateral triangle: 3
+b. Square: 4
+c. Regular hexagon: 6
+d. Circle: infinitely many
+
+#### 2. Rotational Symmetry.
+
+**Problem:**
+State the smallest angle of rotation that maps each figure onto itself:
+
+a. A regular pentagon
+b. The letter S
+c. A regular octagon
+
+**Solution:**
+a. Regular pentagon: $72^\circ$
+b. Letter S: $180^\circ$
+c. Regular octagon: $45^\circ$
+
+#### 3. Isometry Identification.
+
+**Problem:**
+For each transformation, identify the isometry (reflection, rotation, translation, or glide reflection):
+
+a. Moving a shape 5 units to the right without turning or flipping.
+b. Flipping a shape over the $x$-axis.
+c. Reflecting a shape over a line, then translating it along that same line.
+d. Rotating a shape $90^\circ$ around a fixed point.
+
+**Solution:**
+a. Translation
+b. Reflection
+c. Glide reflection
+d. Rotation
+
+#### 4. Frieze Patterns.
+
+**Problem:**
+Identify the frieze pattern type (hop, step, sidle, jump, spinning hop, spinning sidle, or spinning jump):
+
+a. The pattern only has translational symmetry.
+b. The pattern has a vertical line of reflection and translational symmetry, but no other symmetries.
+c. The pattern has a glide reflection and translational symmetry only.
+
+**Solution:**
+a. Hop (translation only)
+b. Jump (vertical reflection plus translation)
+c. Step (glide reflection plus translation)
+
+#### 5. Fashion Connection.
+
+**Problem:**
+- A scarf border repeats a feather motif that is reflected vertically and can also be flipped upside-down. Which frieze pattern type is this?
+- Does the LV logo itself have lines of reflection symmetry? Does it have rotational symmetry? Explain.
+- Name one capital letter with both a horizontal and a vertical line of symmetry.
+
+**Solution:**
+- A border motif with vertical reflection and upside-down symmetry is commonly classified as spinning jump.
+- The LV monogram itself is generally treated as having no reflection symmetry and no nontrivial rotational symmetry.
+- One capital letter with both horizontal and vertical symmetry: H.
+
+## Chapter 8: Conic Sections
+
+### Solutions to More Exercises
+
+#### 1. Matching.
+
+**Problem:**
+Match each conic section to how it is formed by a plane cutting a cone:
+
+- (A) Circle  (1) Plane cuts both nappes of the cone
+- (B) Ellipse  (2) Plane is parallel to the base of the cone
+- (C) Parabola  (3) Plane cuts at an angle but only one nappe
+- (D) Hyperbola  (4) Plane is parallel to one slant side of the cone
+
+**Solution:**
+A-2, B-3, C-4, D-1.
+
+#### 2. Volume Calculations.
+
+**Problem:**
+Round to the nearest hundredth where needed ($\pi \approx 3.14159$).
+
+a. Find the volume of a cylinder with radius 4 cm and height 10 cm.
+b. Find the volume of a cone with radius 3 cm and height 9 cm.
+c. Find the volume of a sphere with radius 5 cm.
+
+**Solution:**
+Use $\pi\approx3.14159$.
+
+a. Cylinder ($r=4$, $h=10$):
+
+$$
+V=\pi r^2h=\pi(4)^2(10)=160\pi\approx502.65\text{ cm}^3
+$$
+
+b. Cone ($r=3$, $h=9$):
+
+$$
+V=\frac13\pi r^2h=\frac13\pi(3)^2(9)=27\pi\approx84.82\text{ cm}^3
+$$
+
+c. Sphere ($r=5$):
+
+$$
+V=\frac43\pi r^3=\frac43\pi(125)=\frac{500\pi}{3}\approx523.60\text{ cm}^3
+$$
+
+#### 3. Surface Area.
+
+**Problem:**
+A soup can (cylinder) has radius 3.5 cm and height 11 cm. Find the total surface area and show all steps.
+
+**Solution:**
+For a closed cylinder:
+
+$$
+SA=2\pi r^2+2\pi rh
+$$
+
+With $r=3.5$, $h=11$:
+
+$$
+SA=2\pi(3.5)^2+2\pi(3.5)(11)=24.5\pi+77\pi=101.5\pi\approx318.87\text{ cm}^2
+$$
+
+#### 4. Planetary Orbits.
+
+**Problem:**
+- True or False: A perfect circle is a special case of an ellipse.
+- Which planet in our solar system has the most circular orbit, and which has the most elongated (eccentric) elliptical orbit?
+
+**Solution:**
+- True. A circle is a special case of an ellipse.
+- Most circular planetary orbit: Venus (very small eccentricity).
+- Most elongated planetary orbit: Mercury (largest eccentricity among the 8 planets).
+
+#### 5. Pop Culture & Design Connection.
+
+**Problem:**
+- Why is a parabolic shape used for satellite dishes and car headlights? Describe in terms of the reflective property of a parabola.
+- A decorative bowl is a hemisphere with inner radius 12 cm. What volume of liquid can it hold?
+
+**Solution:**
+- Parabolic reflectors focus parallel incoming rays to the focus (dishes), and if the source is at the focus, reflected rays leave parallel (headlights).
+
+Hemisphere volume with $r=12$ cm:
+
+$$
+V_{\text{hemisphere}}=\frac12\left(\frac43\pi r^3\right)=\frac23\pi r^3
+$$
+
+$$
+V=\frac23\pi(12)^3=1152\pi\approx3619.11\text{ cm}^3
+$$
