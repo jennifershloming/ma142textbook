@@ -1,0 +1,271 @@
+---
+title: "Appendix C: Solutions to Practice"
+---
+
+## Chapter 2: Star Polygons
+
+### Solutions to Practice
+
+1. For $\{7/2\}$,
+
+$$
+\theta=\frac{360^\circ(2)}{7}=\frac{720^\circ}{7}
+$$
+
+$$
+\alpha=180^\circ-\theta=180^\circ-\frac{720^\circ}{7}=\frac{540^\circ}{7}\approx77.14^\circ
+$$
+
+2. $\{8/2\}$ is disconnected because $\gcd(8,2)=2>1$.
+
+3. Sketch should show a 9-point star using step size 4 (notation $\{9/4\}$). One valid turning angle label is
+
+$$
+\theta=\frac{360^\circ(4)}{9}=160^\circ.
+$$
+
+4. Yes. $\{10/3\}$ and $\{10/7\}$ are identical because $\{n/k\}=\{n/(n-k)\}$.
+
+5. $\{12/3\}$ is disconnected since $\gcd(12,3)=3$. It splits into 3 identical components.
+
+6. For $\{11/4\}$,
+
+$$
+\theta=\frac{360^\circ(4)}{11}=\frac{1440^\circ}{11}\approx130.91^\circ
+$$
+
+$$
+\alpha=180^\circ-\theta=180^\circ-\frac{1440^\circ}{11}=\frac{540^\circ}{11}\approx49.09^\circ
+$$
+
+## Chapter 3: Sequences
+
+### Solutions to Practice
+
+1. $2,6,18,54,\ldots$ is geometric with $r=3$.  
+   $7,12,17,22,\ldots$ is arithmetic with $d=5$.
+
+2. For $4,9,14,19,\ldots$:  
+   Explicit: $a_n=4+(n-1)5=5n-1$  
+   Recursive: $a_1=4$, $a_n=a_{n-1}+5$ for $n\ge2$.
+
+3. $a_{12}=a_1r^{11}=3(2^{11})=6144$.
+
+4. Arithmetic with $a_1=10$, $d=3$, $a_{15}=52$:
+
+$$
+S_{15}=\frac{15}{2}(10+52)=465
+$$
+
+5. Given $a_1=2$, $a_n=a_{n-1}+5$:  
+   Explicit: $a_n=2+5(n-1)=5n-3$  
+   $a_{10}=5(10)-3=47$.
+
+6. $81\left(\frac13\right)^{n-1}=1$ gives $\left(\frac13\right)^{n-1}=\frac1{81}=\left(\frac13\right)^4$, so $n=5$.
+
+7. Differences are $5,7,9,\ldots$, so next difference is $11$. Next term is $24+11=35$.
+
+8. Geometric with $a_1=5$, $r=2$, $n=8$:
+
+$$
+S_8=5\frac{1-2^8}{1-2}=5(255)=1275
+$$
+
+## Chapter 4: Figurate Numbers, FIBS, and Sums
+
+### Solutions to Practice
+
+1. 
+
+$$
+T_{12}=\frac{12(13)}{2}=78
+$$
+
+2. First 10 Fibonacci numbers: $1,1,2,3,5,8,13,21,34,55$.
+
+3. 
+
+$$
+\sum_{k=1}^{15}k=\frac{15(16)}{2}=120
+$$
+
+4. 
+
+$$
+\sum_{k=1}^{10}k^2=\frac{10(11)(21)}{6}=385
+$$
+
+5. A standard identity is
+
+$$
+n^2=T_n+T_{n-1}
+$$
+
+so each square number is the sum of two consecutive triangular numbers.
+
+6. 
+
+$$
+P_7=\frac{7(3\cdot7-1)}{2}=\frac{7(20)}{2}=70
+$$
+
+7. 
+
+$$
+35+36+\cdots+85
+$$
+
+There are $85-35+1=51$ terms, average is $\frac{35+85}{2}=60$, so sum is $51(60)=3060$.
+
+8. Sum of first 20 odd integers is $20^2=400$.
+
+9. Sum of first 20 even integers is $20(21)=420$.
+
+## Chapter 5: Polygons and Polyhedra
+
+### Solutions to Practice
+
+1. Regular pentagon interior angle:
+
+$$
+\frac{(5-2)180^\circ}{5}=108^\circ
+$$
+
+2. The measure of a central angle equals the measure of its intercepted arc.
+
+3. Answers depend on the specific diagram used.
+
+4. For a 14-gon,
+
+$$
+\text{Interior sum}=(14-2)180^\circ=2160^\circ
+$$
+
+If regular, each interior angle is
+
+$$
+\frac{2160^\circ}{14}=\frac{1080^\circ}{7}\approx154.29^\circ
+$$
+
+5. For a quadrilateral:
+
+$$
+(x+10)+(x+20)+(x+30)+(x+40)=360
+$$
+
+$$
+4x+100=360 \Rightarrow x=65
+$$
+
+Angles: $75^\circ,85^\circ,95^\circ,105^\circ$.
+
+6. 
+
+$$
+(n-2)180^\circ=1980^\circ \Rightarrow n-2=11 \Rightarrow n=13
+$$
+
+It is a 13-gon (tridecagon).
+
+7. Using $F+V=E+2$:
+
+$$
+12+20=E+2 \Rightarrow E=30
+$$
+
+## Chapter 6: Tessellations and Fractals
+
+### Solutions to Practice
+
+1. The regular tessellations are by equilateral triangles, squares, and regular hexagons.
+
+2. A regular pentagon cannot tessellate by itself because its interior angle is $108^\circ$, and $360^\circ/108^\circ$ is not an integer.
+
+3. Triangle-square-hexagon-square gives
+
+$$
+60^\circ+90^\circ+120^\circ+90^\circ=360^\circ
+$$
+
+so this is a valid vertex arrangement.
+
+4. (a) Regular  
+   (b) Semi-regular  
+   (c) Neither
+
+5. With $N_n=3^n$:  
+   $N_4=3^4=81$  
+   $N_6=3^6=729$.
+
+6. Self-similarity means a pattern contains smaller copies of the same shape at different scales. One example is the Sierpinski triangle.
+
+## Chapter 7: Symmetry, Isometries, and Frieze Patterns
+
+### Solutions to Practice
+
+1. Square: 4 lines. Regular hexagon: 6 lines. Capital letter $A$: usually 1 vertical line.
+
+2. For a regular octagon, smallest rotational symmetry angle is
+
+$$
+\frac{360^\circ}{8}=45^\circ
+$$
+
+3. (a) Translation  
+   (b) Reflection  
+   (c) Rotation  
+   (d) Glide reflection
+
+4. Apply $(x,y)\to(x-3,y+4)$ to $(5,-2)$:
+
+$$
+(5,-2)\to(2,2)
+$$
+
+5. Translation plus glide reflection only is frieze type step.
+
+6. No. A dilation is not an isometry because it changes distances (except the trivial scale factor 1 case).
+
+## Chapter 8: Conic Sections
+
+### Solutions to Practice
+
+1. One correct matching:
+   - Circle: plane parallel to the base of the cone
+   - Ellipse: plane cuts at an angle and intersects one nappe
+   - Parabola: plane parallel to a slant side (generator)
+   - Hyperbola: plane cuts both nappes
+
+2. Cylinder with $r=4$, $h=9$:
+
+$$
+V=\pi r^2h=\pi(16)(9)=144\pi
+$$
+
+$$
+SA=2\pi rh+2\pi r^2=2\pi(4)(9)+2\pi(16)=104\pi
+$$
+
+3. Cone with $r=5$, $h=12$:
+
+$$
+\ell=\sqrt{r^2+h^2}=\sqrt{25+144}=13
+$$
+
+$$
+SA=\pi r\ell+\pi r^2=\pi(5)(13)+\pi(25)=90\pi
+$$
+
+4. Sphere with $r=6$:
+
+$$
+V=\frac{4}{3}\pi r^3=\frac{4}{3}\pi(216)=288\pi
+$$
+
+$$
+SA=4\pi r^2=4\pi(36)=144\pi
+$$
+
+5. True. A circle is a special case of an ellipse (equal semi-axes).
+
+6. Kepler described planetary orbits as ellipses (with the Sun at a focus). Newton formulated universal gravitation, which explains conic orbits. Hypatia wrote and taught mathematical astronomy and is associated with work/commentary on conic geometry traditions.
