@@ -130,3 +130,6 @@ Please note that you are ONLY using straight lines; no other type of line or you
    - The "Star of David" appears on many garments. Sketch or describe how you would construct it starting from 6 equally spaced points on a circle.
 
 ## Further Reading and Interactive Activities
+
+* [Creating Star Polygons as String Art](https://mathinunexpectedspaces.wordpress.com/2017/12/10/star-o-rama-and-how-to-make-them/)
+* [Star Polygons from Wolfram](https://mathworld.wolfram.com/StarPolygon.html)
