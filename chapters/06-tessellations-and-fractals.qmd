@@ -14,10 +14,37 @@ title: "6. Tessellations and Fractals"
 
 ## Key Terms and Formulas
 
-- Rectangle: $A = lw$
-- Triangle: $A = \frac{1}{2}bh$
-- Circle: $A = \pi r^2$
-- Prism: $V = Bh$
+- A tessellation is a tiling of the plane with no gaps and no overlaps.
+
+- Regular tessellation: uses one type of regular polygon only.
+
+- The only regular polygons that tessellate by themselves are:
+
+$$
+\text{equilateral triangles, squares, and regular hexagons}
+$$
+
+- Interior angle of a regular $n$-gon:
+
+$$
+\alpha_n = \frac{(n-2)180^\circ}{n}
+$$
+
+- Vertex condition for a tessellation:
+
+$$
+\alpha_1+\alpha_2+\cdots+\alpha_m = 360^\circ
+$$
+
+- Semi-regular tessellation: made from two or more regular polygons with the same arrangement at every vertex.
+
+- Fractal: a self-similar pattern repeated at different scales.
+
+- Example (Sierpinski-style triangle count by step):
+
+$$
+N_n = 3^n
+$$
 
 ## Mini-Lecture
 

@@ -25,6 +25,31 @@ $$
 (n - 2)180^\circ
 $$
 
+Each interior angle of a regular $n$-gon:
+
+$$
+\frac{(n-2)180^\circ}{n}
+$$
+
+Sum of one exterior angle at each vertex (any convex polygon):
+
+$$
+360^\circ
+$$
+
+Euler's formula for polyhedra:
+
+$$
+F + V = E + 2
+$$
+
+Key terms:
+
+- Regular polygon: all sides and all angles are equal.
+- Irregular polygon: sides and/or angles are not all equal.
+- Convex polygon: all interior angles are less than $180^\circ$.
+- Concave polygon: at least one interior angle is greater than $180^\circ$.
+
 ## Mini-Lecture
 
 Interior angle sum of a hexagon:

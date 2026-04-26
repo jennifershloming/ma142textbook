@@ -17,11 +17,31 @@ $$
 a_n = a_1 + (n-1)d
 $$
 
+Recursive form:
+
+$$
+a_n = a_{n-1}+d, \quad n\ge 2
+$$
+
 A geometric sequence has a constant ratio $r$.
 
 $$
 a_n = a_1 r^{n-1}
 $$
+
+Recursive form:
+
+$$
+a_n = r\,a_{n-1}, \quad n\ge 2
+$$
+
+Method of Successive Differences:
+
+$$
+\Delta a_n = a_{n+1}-a_n
+$$
+
+If first differences are constant, the sequence is arithmetic.
 
 Arithmetic series sum (first $n$ terms):
 

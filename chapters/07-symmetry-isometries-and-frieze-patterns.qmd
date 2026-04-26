@@ -17,17 +17,38 @@ title: "7. Symmetry, Isometries, and Frieze Patterns"
 
 ## Key Terms and Formulas
 
-Distance between $(x_1, y_1)$ and $(x_2, y_2)$:
+- A line of reflection symmetry divides a figure into mirror-image halves.
+
+- Rotational symmetry means a figure maps onto itself after a turn less than $360^\circ$.
+
+- Isometries (distance-preserving transformations):
+
+   - translation
+   - reflection
+   - rotation
+   - glide reflection
+
+Coordinate rules for common isometries:
 
 $$
-d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+\text{Translation by }\langle a,b\rangle: \ (x,y)\to(x+a,y+b)
 $$
 
-Midpoint:
+$$
+\text{Reflection across }x\text{-axis}: \ (x,y)\to(x,-y)
+$$
 
 $$
-M = \left(\frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2}\right)
+\text{Reflection across }y\text{-axis}: \ (x,y)\to(-x,y)
 $$
+
+$$
+\text{Rotation }180^\circ\text{ about origin}: \ (x,y)\to(-x,-y)
+$$
+
+- Compound isometry: composition of two or more isometries.
+
+- Every frieze pattern includes translation symmetry.
 
 ## Mini-Lecture
 
