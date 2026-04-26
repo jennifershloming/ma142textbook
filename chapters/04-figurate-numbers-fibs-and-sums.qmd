@@ -78,6 +78,10 @@ This shows how figurate-number patterns connect directly to finite sums.
 3. Evaluate $\sum_{k=1}^{15} k$.
 4. Evaluate $\sum_{k=1}^{10} k^2$.
 5. Explain why every square number is the sum of two consecutive triangular numbers.
+6. Compute the 7th pentagonal number $P_7$.
+7. Use Gauss' Method to find $35+36+\cdots+85$.
+8. Find the sum of the first 20 odd integers.
+9. Find the sum of the first 20 even integers.
 
 ## Art and Design Connections
 

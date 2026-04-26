@@ -56,9 +56,12 @@ Coordinate geometry connects pictures to equations. Use the distance and midpoin
 
 ## Practice
 
-1. Find distance between $(2, -1)$ and $(8, 7)$.
-2. Determine if two lines are parallel.
-3. Find equation of a line through two points.
+1. How many lines of reflection symmetry does each have: a square, a regular hexagon, and the capital letter $A$?
+2. Find the smallest angle of rotational symmetry for a regular octagon.
+3. Identify the isometry: (a) slide right 6 units, (b) flip over the $x$-axis, (c) rotate $180^\circ$ about the origin, (d) reflect over a line then translate along that line.
+4. Apply a translation by $\langle -3,4\rangle$ to the point $(5,-2)$.
+5. A border pattern has translation and glide reflection, but no reflection line or 180-degree rotation. Which frieze type is it?
+6. Is a dilation an isometry? Explain why or why not in one sentence.
 
 ## Art and Design Connections
 

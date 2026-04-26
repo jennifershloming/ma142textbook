@@ -56,9 +56,12 @@ $$
 
 ## Practice
 
-1. Find area of a composite figure.
-2. Convert square inches to square feet.
-3. Compare volumes when dimensions scale by factor 2.
+1. Name all regular tessellations.
+2. Determine whether a regular pentagon can tessellate the plane by itself. Justify using angle measures.
+3. Check whether a vertex arrangement of triangle-square-hexagon-square forms a valid tessellation at a vertex.
+4. Classify each tiling as regular, semi-regular, or neither: (a) all squares, (b) triangles and hexagons with one repeating vertex pattern, (c) mixed polygons with inconsistent vertex patterns.
+5. In a Sierpinski-style triangle pattern, the number of filled triangles follows $N_n=3^n$. Find $N_4$ and $N_6$.
+6. Briefly explain what self-similarity means in fractals and name one famous fractal.
 
 ## Art and Design Connections
 

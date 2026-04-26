@@ -63,6 +63,10 @@ $$
 1. Find each interior angle of a regular pentagon.
 2. Relate arc measure to central angle measure.
 3. Solve a chord-length reasoning problem from a diagram.
+4. Find the sum of the interior angles of a 14-gon, and then find each interior angle if the 14-gon is regular.
+5. The interior angles of a quadrilateral are $(x+10)^\circ$, $(x+20)^\circ$, $(x+30)^\circ$, and $(x+40)^\circ$. Find $x$ and all four angles.
+6. A polygon has interior-angle sum $1980^\circ$. How many sides does it have, and what is its name?
+7. A polyhedron has $F=12$ faces and $V=20$ vertices. Use $F+V=E+2$ to find $E$.
 
 ## Art and Design Connections
 

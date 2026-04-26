@@ -63,6 +63,9 @@ So each star point has measure $36^\circ$.
 1. Compute the tip angle of $\{7/2\}$.
 2. Determine whether $\{8/2\}$ is connected. Explain using $\gcd(n,k)$.
 3. Sketch $\{9/4\}$ on a 9-point circle and label one turning angle.
+4. Are $\{10/3\}$ and $\{10/7\}$ identical star polygons? Explain.
+5. For $\{12/3\}$, determine whether it is connected or disconnected. If disconnected, how many identical components are formed?
+6. A designer uses the star polygon $\{11/4\}$. Compute the turning angle $\theta$ and the tip angle $\alpha$.
 
 ## Art and Design Connections
 

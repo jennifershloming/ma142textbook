@@ -46,9 +46,12 @@ Transformations describe how figures move on the coordinate plane while preservi
 
 ## Practice
 
-1. Reflect a triangle across the $x$-axis.
-2. Rotate a point $90^\circ$ counterclockwise about the origin.
-3. Determine image coordinates after two transformations.
+1. Match each conic to a plane cut description: circle, ellipse, parabola, hyperbola.
+2. Compute the volume and total surface area of a cylinder with radius 4 cm and height 9 cm.
+3. A cone has radius 5 cm and height 12 cm. Find its slant height, then compute total surface area.
+4. Find the volume and surface area of a sphere with radius 6 cm.
+5. True or False: A circle is a special case of an ellipse. Explain briefly.
+6. Short response: State one contribution each from Kepler, Newton, and Hypatia related to conics, gravity, or planetary motion.
 
 ## Art and Design Connections
 
