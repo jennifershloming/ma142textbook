@@ -11,7 +11,10 @@ title: "2. Star Polygons"
 - Creating star polygons.
 
 ::: {.content-visible when-format="html"}
-![A regular star polygon, shown as a pentagram $\{5/2\}$.](images/ch2-star-polygon.svg){fig-align="center" width="55%"}
+<figure style="text-align:center; margin: 1rem auto;">
+   <img src="images/ch2-star-polygon.svg" alt="A regular star polygon, shown as a pentagram {5/2}." style="width:55%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">A regular star polygon, shown as a pentagram $\{5/2\}$.</figcaption>
+</figure>
 :::
 
 ## Key Terms and Formulas

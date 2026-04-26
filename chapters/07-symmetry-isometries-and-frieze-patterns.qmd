@@ -16,7 +16,10 @@ title: "7. Symmetry, Isometries, and Frieze Patterns"
 - Create frieze patterns.
 
 ::: {.content-visible when-format="html"}
-![A frieze pattern showing repeated symmetry operations.](images/ch7-symmetry-isometries-frieze.svg){fig-align="center" width="66%"}
+<figure style="text-align:center; margin: 1rem auto;">
+   <img src="images/ch7-symmetry-isometries-frieze.svg" alt="A frieze pattern showing repeated symmetry operations." style="width:66%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">A frieze pattern showing repeated symmetry operations.</figcaption>
+</figure>
 :::
 
 ## Key Terms and Formulas

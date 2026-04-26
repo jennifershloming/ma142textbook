@@ -13,7 +13,10 @@ title: "6. Tessellations and Fractals"
 - Identify famous fractals.
 
 ::: {.content-visible when-format="html"}
-![A tessellation sample and a simple fractal motif.](images/ch6-tessellations-fractals.svg){fig-align="center" width="64%"}
+<figure style="text-align:center; margin: 1rem auto;">
+   <img src="images/ch6-tessellations-fractals.svg" alt="A tessellation sample and a simple fractal motif." style="width:64%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">A tessellation sample and a simple fractal motif.</figcaption>
+</figure>
 :::
 
 ## Key Terms and Formulas

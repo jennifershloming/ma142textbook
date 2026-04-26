@@ -11,7 +11,10 @@ By the end of this chapter, you should be able to:
 - Create a method for remembering and keeping track of key terms and definitions found in this textbook.
 
 ::: {.content-visible when-format="html"}
-![A light bulb to represent a new geometric idea.](images/ch1-idea-lightbulb.svg){fig-align="center" width="42%"}
+<figure style="text-align:center; margin: 1rem auto;">
+	<img src="images/ch1-idea-lightbulb.svg" alt="A light bulb to represent a new geometric idea." style="width:42%; max-width:100%; height:auto;" />
+	<figcaption style="text-align:center; margin-top:0.5rem;">A light bulb to represent a new geometric idea.</figcaption>
+</figure>
 :::
 
 

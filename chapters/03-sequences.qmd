@@ -10,7 +10,9 @@ title: "3. Sequences"
 - Find the next term in a sequence using the Method of Successive Differences.
 
 ::: {.content-visible when-format="html"}
-![An example of an arithmetic sequence, increasing by 4 each time.](images/ch3-sequences.svg){fig-align="center" width="62%"}
+<div style="text-align:center; margin: 1rem auto;">
+   <img src="images/ch3-sequences.svg" alt="2, 4, 6, 8, ... who do we appreciate?!" style="width:62%; max-width:100%; height:auto;" />
+</div>
 :::
 
 ## Key Terms and Formulas

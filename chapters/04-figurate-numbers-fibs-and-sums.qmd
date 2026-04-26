@@ -16,7 +16,10 @@ title: "4. Figurate Numbers, FIBS, and Sums"
 - Recognize a FIB poem.
 
 ::: {.content-visible when-format="html"}
-![Larger dot patterns for triangular and square figurate numbers.](images/ch4-figurate-numbers.svg){fig-align="center" width="68%"}
+<figure style="text-align:center; margin: 1rem auto;">
+   <img src="images/ch4-figurate-numbers.svg" alt="Dot patterns for triangular and square figurate numbers." style="width:68%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">Dot patterns for triangular and square figurate numbers.</figcaption>
+</figure>
 :::
 
 ## Key Terms and Formulas

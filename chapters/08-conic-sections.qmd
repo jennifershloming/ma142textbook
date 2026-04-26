@@ -17,7 +17,10 @@ title: "8. Conic Sections"
 - Recognize the contributions of Isaac Newton, Hypatia, and Kepler in relation to Conic Sections.
 
 ::: {.content-visible when-format="html"}
-![The four classic conic sections: circle, ellipse, parabola, and hyperbola.](images/ch8-conic-sections.svg){fig-align="center" width="66%"}
+<figure style="text-align:center; margin: 1rem auto;">
+   <img src="images/ch8-conic-sections.svg" alt="The four classic conic sections: circle, ellipse, parabola, and hyperbola." style="width:66%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">The four classic conic sections: circle, ellipse, parabola, and hyperbola.</figcaption>
+</figure>
 :::
 
 ## Key Terms and Formulas
