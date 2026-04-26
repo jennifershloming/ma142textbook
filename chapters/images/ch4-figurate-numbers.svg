@@ -1,31 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-labelledby="title desc">
-  <title id="title">Figurate Number Patterns</title>
-  <desc id="desc">Dot diagrams for triangular and square numbers, plus the second pentagonal number shown as a pentagon.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Triangular and Square Figurate Numbers</title>
+  <desc id="desc">Larger dot diagrams for triangular and square figurate numbers.</desc>
 
   <rect width="100%" height="100%" fill="#ffffff"/>
-  <text x="75" y="35" font-size="18" fill="#334155">Triangular</text>
-  <text x="280" y="35" font-size="18" fill="#334155">Square</text>
-  <text x="490" y="35" font-size="18" fill="#334155">Pentagonal</text>
+  <text x="105" y="42" font-size="22" fill="#334155">Triangular</text>
+  <text x="405" y="42" font-size="22" fill="#334155">Square</text>
 
   <g fill="#0f766e">
-    <circle cx="90" cy="70" r="6"/>
-    <circle cx="75" cy="100" r="6"/><circle cx="105" cy="100" r="6"/>
-    <circle cx="60" cy="130" r="6"/><circle cx="90" cy="130" r="6"/><circle cx="120" cy="130" r="6"/>
-    <circle cx="45" cy="160" r="6"/><circle cx="75" cy="160" r="6"/><circle cx="105" cy="160" r="6"/><circle cx="135" cy="160" r="6"/>
+    <circle cx="140" cy="78" r="10"/>
+    <circle cx="115" cy="118" r="10"/><circle cx="165" cy="118" r="10"/>
+    <circle cx="90" cy="158" r="10"/><circle cx="140" cy="158" r="10"/><circle cx="190" cy="158" r="10"/>
+    <circle cx="65" cy="198" r="10"/><circle cx="115" cy="198" r="10"/><circle cx="165" cy="198" r="10"/><circle cx="215" cy="198" r="10"/>
   </g>
 
   <g fill="#1d4ed8">
-    <circle cx="270" cy="70" r="6"/><circle cx="300" cy="70" r="6"/><circle cx="330" cy="70" r="6"/>
-    <circle cx="270" cy="100" r="6"/><circle cx="300" cy="100" r="6"/><circle cx="330" cy="100" r="6"/>
-    <circle cx="270" cy="130" r="6"/><circle cx="300" cy="130" r="6"/><circle cx="330" cy="130" r="6"/>
-  </g>
-
-  <polygon points="500,70 548,106 530,162 470,162 452,106" fill="#f3e8ff" stroke="#9333ea" stroke-width="4"/>
-  <g fill="#9333ea">
-    <circle cx="500" cy="70" r="6"/>
-    <circle cx="548" cy="106" r="6"/>
-    <circle cx="530" cy="162" r="6"/>
-    <circle cx="470" cy="162" r="6"/>
-    <circle cx="452" cy="106" r="6"/>
+    <circle cx="390" cy="88" r="10"/><circle cx="440" cy="88" r="10"/><circle cx="490" cy="88" r="10"/><circle cx="540" cy="88" r="10"/>
+    <circle cx="390" cy="138" r="10"/><circle cx="440" cy="138" r="10"/><circle cx="490" cy="138" r="10"/><circle cx="540" cy="138" r="10"/>
+    <circle cx="390" cy="188" r="10"/><circle cx="440" cy="188" r="10"/><circle cx="490" cy="188" r="10"/><circle cx="540" cy="188" r="10"/>
+    <circle cx="390" cy="238" r="10"/><circle cx="440" cy="238" r="10"/><circle cx="490" cy="238" r="10"/><circle cx="540" cy="238" r="10"/>
   </g>
 </svg>

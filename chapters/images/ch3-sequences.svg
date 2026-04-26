@@ -1,37 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-labelledby="title desc">
-  <title id="title">Sequence Example</title>
-  <desc id="desc">A visual example of an arithmetic sequence with each term increasing by 4.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="280" viewBox="0 0 720 280" role="img" aria-labelledby="title desc">
+  <title id="title">Sequence Text Example</title>
+  <desc id="desc">Large text reading 2, 4, 6, 8, dot dot dot, who do we appreciate.</desc>
 
   <rect width="100%" height="100%" fill="#ffffff"/>
-  <text x="60" y="60" font-size="24" fill="#334155">Example sequence:</text>
-  <text x="60" y="108" font-size="36" fill="#0f766e" font-family="Georgia, serif">3, 7, 11, 15, 19, ...</text>
-
-  <g stroke="#94a3b8" stroke-width="4" stroke-linecap="round" fill="none">
-    <line x1="90" y1="150" x2="170" y2="150"/>
-    <line x1="190" y1="150" x2="270" y2="150"/>
-    <line x1="290" y1="150" x2="370" y2="150"/>
-    <line x1="390" y1="150" x2="470" y2="150"/>
-  </g>
-
-  <g fill="#1d4ed8" font-size="26" font-weight="bold">
-    <text x="112" y="140">+4</text>
-    <text x="212" y="140">+4</text>
-    <text x="312" y="140">+4</text>
-    <text x="412" y="140">+4</text>
-  </g>
-
-  <g fill="#e0f2fe" stroke="#0284c7" stroke-width="3">
-    <circle cx="90" cy="205" r="22"/>
-    <circle cx="190" cy="205" r="22"/>
-    <circle cx="290" cy="205" r="22"/>
-    <circle cx="390" cy="205" r="22"/>
-    <circle cx="490" cy="205" r="22"/>
-  </g>
-  <g fill="#0f172a" font-size="20" text-anchor="middle">
-    <text x="90" y="212">1</text>
-    <text x="190" y="212">2</text>
-    <text x="290" y="212">3</text>
-    <text x="390" y="212">4</text>
-    <text x="490" y="212">5</text>
-  </g>
+  <text x="360" y="110" text-anchor="middle" font-size="56" fill="#0f766e" font-family="Georgia, serif" font-weight="bold">2, 4, 6, 8, ...</text>
+  <text x="360" y="190" text-anchor="middle" font-size="42" fill="#1d4ed8" font-family="Georgia, serif">who do we appreciate?!</text>
 </svg>
