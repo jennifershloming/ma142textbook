@@ -10,6 +10,10 @@ By the end of this chapter, you should be able to:
 - Plan how you will work through this textbook.
 - Create a method for remembering and keeping track of key terms and definitions found in this textbook.
 
+::: {.content-visible when-format="html"}
+![A light bulb to represent a new geometric idea.](images/ch1-idea-lightbulb.svg){fig-align="center" width="42%"}
+:::
+
 
 ## Key Terms and Formulas
 

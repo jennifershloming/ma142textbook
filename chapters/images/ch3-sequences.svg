@@ -1,26 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
-  <title id="title">Arithmetic and Geometric Sequences</title>
-  <desc id="desc">A coordinate-style plot showing linear arithmetic growth and exponential geometric growth.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-labelledby="title desc">
+  <title id="title">Sequence Example</title>
+  <desc id="desc">A visual example of an arithmetic sequence with each term increasing by 4.</desc>
 
   <rect width="100%" height="100%" fill="#ffffff"/>
-  <line x1="70" y1="300" x2="600" y2="300" stroke="#cbd5e1" stroke-width="2"/>
-  <line x1="70" y1="300" x2="70" y2="40" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="60" y="60" font-size="24" fill="#334155">Example sequence:</text>
+  <text x="60" y="108" font-size="36" fill="#0f766e" font-family="Georgia, serif">3, 7, 11, 15, 19, ...</text>
 
-  <text x="605" y="305" font-size="14" fill="#475569">n</text>
-  <text x="56" y="34" font-size="14" fill="#475569">a_n</text>
-
-  <polyline points="100,260 150,235 200,210 250,185 300,160 350,135" fill="none" stroke="#0f766e" stroke-width="4"/>
-  <g fill="#0f766e">
-    <circle cx="100" cy="260" r="5"/><circle cx="150" cy="235" r="5"/><circle cx="200" cy="210" r="5"/>
-    <circle cx="250" cy="185" r="5"/><circle cx="300" cy="160" r="5"/><circle cx="350" cy="135" r="5"/>
+  <g stroke="#94a3b8" stroke-width="4" stroke-linecap="round" fill="none">
+    <line x1="90" y1="150" x2="170" y2="150"/>
+    <line x1="190" y1="150" x2="270" y2="150"/>
+    <line x1="290" y1="150" x2="370" y2="150"/>
+    <line x1="390" y1="150" x2="470" y2="150"/>
   </g>
 
-  <polyline points="100,285 150,272 200,246 250,194 300,90" fill="none" stroke="#1d4ed8" stroke-width="4"/>
-  <g fill="#1d4ed8">
-    <circle cx="100" cy="285" r="5"/><circle cx="150" cy="272" r="5"/><circle cx="200" cy="246" r="5"/>
-    <circle cx="250" cy="194" r="5"/><circle cx="300" cy="90" r="5"/>
+  <g fill="#1d4ed8" font-size="26" font-weight="bold">
+    <text x="112" y="140">+4</text>
+    <text x="212" y="140">+4</text>
+    <text x="312" y="140">+4</text>
+    <text x="412" y="140">+4</text>
   </g>
 
-  <text x="362" y="132" font-size="14" fill="#0f766e">Arithmetic</text>
-  <text x="312" y="88" font-size="14" fill="#1d4ed8">Geometric</text>
+  <g fill="#e0f2fe" stroke="#0284c7" stroke-width="3">
+    <circle cx="90" cy="205" r="22"/>
+    <circle cx="190" cy="205" r="22"/>
+    <circle cx="290" cy="205" r="22"/>
+    <circle cx="390" cy="205" r="22"/>
+    <circle cx="490" cy="205" r="22"/>
+  </g>
+  <g fill="#0f172a" font-size="20" text-anchor="middle">
+    <text x="90" y="212">1</text>
+    <text x="190" y="212">2</text>
+    <text x="290" y="212">3</text>
+    <text x="390" y="212">4</text>
+    <text x="490" y="212">5</text>
+  </g>
 </svg>

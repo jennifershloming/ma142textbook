@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="360" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+  <title id="title">Light bulb idea illustration</title>
+  <desc id="desc">A glowing light bulb representing an idea.</desc>
+
+  <rect width="100%" height="100%" fill="#ffffff"/>
+
+  <g transform="translate(260 160)">
+    <circle cx="0" cy="0" r="92" fill="#fef3c7" opacity="0.55"/>
+
+    <g stroke="#f59e0b" stroke-width="8" stroke-linecap="round">
+      <line x1="0" y1="-138" x2="0" y2="-105"/>
+      <line x1="95" y1="-95" x2="118" y2="-118"/>
+      <line x1="138" y1="0" x2="105" y2="0"/>
+      <line x1="95" y1="95" x2="118" y2="118"/>
+      <line x1="-95" y1="-95" x2="-118" y2="-118"/>
+      <line x1="-138" y1="0" x2="-105" y2="0"/>
+      <line x1="-95" y1="95" x2="-118" y2="118"/>
+    </g>
+
+    <path d="M -56 -6 C -56 -63 -18 -98 0 -98 C 18 -98 56 -63 56 -6 C 56 28 35 41 25 55 C 18 65 18 74 18 84 L -18 84 C -18 74 -18 65 -25 55 C -35 41 -56 28 -56 -6 Z" fill="#fde68a" stroke="#1f2937" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M -18 44 L -2 20 L 14 44 L 0 44 L 12 68" fill="none" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="-28" y="84" width="56" height="18" rx="6" fill="#94a3b8" stroke="#1f2937" stroke-width="5"/>
+    <rect x="-22" y="102" width="44" height="18" rx="6" fill="#cbd5e1" stroke="#1f2937" stroke-width="5"/>
+  </g>
+</svg>
