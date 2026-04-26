@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Tessellations and Fractals</title>
+  <desc id="desc">A square tessellation pattern and a simple Sierpinski-style triangle.</desc>
+
+  <rect width="100%" height="100%" fill="#ffffff"/>
+
+  <g>
+    <rect x="40" y="50" width="60" height="60" fill="#e0f2fe" stroke="#0284c7"/>
+    <rect x="100" y="50" width="60" height="60" fill="#bae6fd" stroke="#0284c7"/>
+    <rect x="160" y="50" width="60" height="60" fill="#e0f2fe" stroke="#0284c7"/>
+    <rect x="40" y="110" width="60" height="60" fill="#bae6fd" stroke="#0284c7"/>
+    <rect x="100" y="110" width="60" height="60" fill="#e0f2fe" stroke="#0284c7"/>
+    <rect x="160" y="110" width="60" height="60" fill="#bae6fd" stroke="#0284c7"/>
+    <rect x="40" y="170" width="60" height="60" fill="#e0f2fe" stroke="#0284c7"/>
+    <rect x="100" y="170" width="60" height="60" fill="#bae6fd" stroke="#0284c7"/>
+    <rect x="160" y="170" width="60" height="60" fill="#e0f2fe" stroke="#0284c7"/>
+  </g>
+  <text x="48" y="260" font-size="18" fill="#334155">Tessellation</text>
+
+  <g fill="#0f766e" stroke="#0f766e" stroke-width="2">
+    <polygon points="420,230 560,230 490,90" fill="none"/>
+    <polygon points="420,230 490,230 455,160"/>
+    <polygon points="490,230 560,230 525,160"/>
+    <polygon points="455,160 525,160 490,90"/>
+  </g>
+  <text x="448" y="260" font-size="18" fill="#334155">Fractal Motif</text>
+</svg>

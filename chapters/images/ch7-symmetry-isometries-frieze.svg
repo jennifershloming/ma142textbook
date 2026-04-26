@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">Symmetry and Frieze Pattern</title>
+  <desc id="desc">A frieze strip of repeated motifs showing translation and reflection symmetry.</desc>
+
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="40" y="90" width="560" height="120" fill="#f8fafc" stroke="#cbd5e1"/>
+
+  <g fill="#1d4ed8" stroke="#1d4ed8" stroke-width="3">
+    <polygon points="90,190 120,110 150,190" fill="none"/>
+    <polygon points="190,110 220,190 250,110" fill="none"/>
+    <polygon points="290,190 320,110 350,190" fill="none"/>
+    <polygon points="390,110 420,190 450,110" fill="none"/>
+    <polygon points="490,190 520,110 550,190" fill="none"/>
+  </g>
+
+  <line x1="40" y1="150" x2="600" y2="150" stroke="#94a3b8" stroke-dasharray="6 6"/>
+  <text x="44" y="80" font-size="18" fill="#334155">Frieze pattern (translation + reflection)</text>
+</svg>

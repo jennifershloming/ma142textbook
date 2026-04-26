@@ -15,6 +15,10 @@ title: "7. Symmetry, Isometries, and Frieze Patterns"
 - Identify a frieze pattern using the terms hop, step, sidle, jump, spinning hop, spinning sidle, and spinning jump.
 - Create frieze patterns.
 
+::: {.content-visible when-format="html"}
+![A frieze pattern showing repeated symmetry operations.](images/ch7-symmetry-isometries-frieze.svg){fig-align="center" width="66%"}
+:::
+
 ## Key Terms and Formulas
 
 - A line of reflection symmetry divides a figure into mirror-image halves.

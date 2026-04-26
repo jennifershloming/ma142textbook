@@ -10,6 +10,10 @@ title: "2. Star Polygons"
 - Name star polygons.
 - Creating star polygons.
 
+::: {.content-visible when-format="html"}
+![A regular star polygon, shown as a pentagram $\{5/2\}$.](images/ch2-star-polygon.svg){fig-align="center" width="55%"}
+:::
+
 ## Key Terms and Formulas
 
 A regular star polygon is written as $\{n/k\}$:

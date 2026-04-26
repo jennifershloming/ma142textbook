@@ -17,6 +17,10 @@ title: "5. Polygons and Polyhedra"
 - Identify a polyhedron.
 - Understand F + V = E + 2.
 
+::: {.content-visible when-format="html"}
+![A regular polygon and a polyhedron example.](images/ch5-polygons-polyhedra.svg){fig-align="center" width="62%"}
+:::
+
 ## Key Terms and Formulas
 
 For an $n$-gon, interior angle sum is:

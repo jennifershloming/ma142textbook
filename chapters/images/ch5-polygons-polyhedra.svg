@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">Polygons and Polyhedra</title>
+  <desc id="desc">A regular hexagon and a wireframe cube to represent 2D and 3D geometry.</desc>
+
+  <rect width="100%" height="100%" fill="#ffffff"/>
+
+  <polygon points="180,70 250,110 250,190 180,230 110,190 110,110" fill="#ecfeff" stroke="#0f766e" stroke-width="5"/>
+  <text x="120" y="265" font-size="18" fill="#334155">Regular Hexagon</text>
+
+  <g stroke="#1d4ed8" stroke-width="4" fill="none">
+    <rect x="370" y="85" width="120" height="120"/>
+    <rect x="410" y="55" width="120" height="120"/>
+    <line x1="370" y1="85" x2="410" y2="55"/>
+    <line x1="490" y1="85" x2="530" y2="55"/>
+    <line x1="370" y1="205" x2="410" y2="175"/>
+    <line x1="490" y1="205" x2="530" y2="175"/>
+  </g>
+  <text x="410" y="265" font-size="18" fill="#334155">Cube (Polyhedron)</text>
+</svg>

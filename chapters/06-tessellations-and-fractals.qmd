@@ -12,6 +12,10 @@ title: "6. Tessellations and Fractals"
 - Define a fractal.
 - Identify famous fractals.
 
+::: {.content-visible when-format="html"}
+![A tessellation sample and a simple fractal motif.](images/ch6-tessellations-fractals.svg){fig-align="center" width="64%"}
+:::
+
 ## Key Terms and Formulas
 
 - A tessellation is a tiling of the plane with no gaps and no overlaps.

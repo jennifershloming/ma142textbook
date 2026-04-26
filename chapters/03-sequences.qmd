@@ -9,6 +9,10 @@ title: "3. Sequences"
 - Use sequence formulas to find terms and partial sums.
 - Find the next term in a sequence using the Method of Successive Differences.
 
+::: {.content-visible when-format="html"}
+![Arithmetic and geometric sequence growth patterns.](images/ch3-sequences.svg){fig-align="center" width="62%"}
+:::
+
 ## Key Terms and Formulas
 
 An arithmetic sequence has a constant difference $d$.
