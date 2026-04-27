@@ -77,9 +77,15 @@ These are starter examples, and we will build confidence step by step.
 
 *These are theorems. We prove these statements using definitions, postulates, and other known results.*
 
-![Vertical angles diagram showing opposite angles are congruent.](images/ch1-vertical-angles.svg){fig-align="center" fig-cap="Vertical angles are opposite angles formed by intersecting lines."}
+<figure style="text-align:center; margin: 1rem auto;">
+	<img src="images/ch1-vertical-angles.svg" alt="Vertical angles diagram showing opposite angles are congruent." style="display:block; margin: 0 auto; max-width: 100%; height: auto;" />
+	<figcaption style="text-align:center; margin-top:0.5rem;">Vertical angles are opposite angles formed by intersecting lines.</figcaption>
+</figure>
 
-![Right angle diagram showing a 90 degree angle.](images/ch1-right-angle.svg){fig-align="center" fig-cap="A right angle measures 90 degrees."}
+<figure style="text-align:center; margin: 1rem auto;">
+	<img src="images/ch1-right-angle.svg" alt="Right angle diagram showing a 90 degree angle." style="display:block; margin: 0 auto; max-width: 100%; height: auto;" />
+	<figcaption style="text-align:center; margin-top:0.5rem;">A right angle measures 90 degrees.</figcaption>
+</figure>
 
 ## Practice
 
