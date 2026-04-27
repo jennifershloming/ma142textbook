@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Vertical angles diagram</title>
+  <desc id="desc">Two intersecting lines create four angles. Opposite angles are marked congruent.</desc>
+  <rect width="640" height="420" fill="#fffdf6"/>
+
+  <line x1="80" y1="70" x2="560" y2="350" stroke="#1f2937" stroke-width="6" stroke-linecap="round"/>
+  <line x1="80" y1="350" x2="560" y2="70" stroke="#1f2937" stroke-width="6" stroke-linecap="round"/>
+
+  <circle cx="320" cy="210" r="5" fill="#1f2937"/>
+
+  <path d="M320 210 L430 145 A130 130 0 0 1 430 275 Z" fill="#c7e7ff" opacity="0.9"/>
+  <path d="M320 210 L210 145 A130 130 0 0 0 210 275 Z" fill="#c7e7ff" opacity="0.9"/>
+
+  <text x="454" y="214" font-size="34" font-family="Georgia, serif" fill="#0f172a">A</text>
+  <text x="168" y="214" font-size="34" font-family="Georgia, serif" fill="#0f172a">A</text>
+
+  <text x="320" y="42" text-anchor="middle" font-size="30" font-family="Georgia, serif" fill="#111827">Vertical Angles</text>
+  <text x="320" y="392" text-anchor="middle" font-size="22" font-family="Georgia, serif" fill="#374151">Opposite angles are congruent.</text>
+</svg>

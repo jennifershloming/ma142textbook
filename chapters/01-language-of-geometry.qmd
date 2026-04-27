@@ -32,10 +32,10 @@ When you see a key term:
 - On the back, include the definition and/or an example.
 - Review your cards regularly.
 
-Think of geometry as a language: the more consistently you practice it, the more confident you become.
+Think of geometry as a language: the more consistently you practice it, the more confident you become!
 :::
 
-### Core Terms
+### Definitions
 
 - **Definition**: A statement that explains the precise meaning of a mathematical term.
 - **Postulate**: A statement accepted as true without proof and used as a starting point for reasoning.
@@ -52,11 +52,44 @@ You can NOT use a cell phone or tablet as a calculator on the final exam so it i
 
 Make time to read for this course. Try not to leave reading until the day assignments are due. That will add stress and frustration. The lectures are inside and you need to go through them in order to score well on the assignments. *You need to answer questions in this course based on the terms used in this text. If you use terms and methods that I do not use it will signal that you may be using AI as a replacement for the lectures. 
 
+These are starter examples, and we will build confidence step by step.
+
+### Examples in Geometry
+
+#### Definitions
+
+- **Point**: An exact location in space with no size.
+- **Line segment**: A part of a line with two endpoints.
+
+*These are definitions of terms. We are learning a meaning of mathematical terms.*
+
+#### Postulates
+
+- Through any two distinct points, there is exactly one line.
+- A line contains at least two points.
+
+*These are postulates. We accept these statements as true without proving them first.*
+
+#### Theorems
+
+- **Vertical Angles Theorem**: Vertical angles are congruent.
+- **All Right Angles Theorem**: All right angles are congruent.
+
+*These are theorems. We prove these statements using definitions, postulates, and other known results.*
+
+![Vertical angles diagram showing opposite angles are congruent.](images/ch1-vertical-angles.svg){fig-align="center" fig-cap="Vertical angles are opposite angles formed by intersecting lines."}
+
+![Right angle diagram showing a 90 degree angle.](images/ch1-right-angle.svg){fig-align="center" fig-cap="A right angle measures 90 degrees."}
+
 ## Practice
 
 1. In the rest of the chapters you will see actual practice problems. I do want you to first figure out how you will be taking notes in this course. Get a binder or notebook ready. 
 2. Prepare yourself that the best way to learn math is by practicing problems. I think it is the best way to learn anything and I tell my kids the famous "Practice makes perfect" lime a lot.
 3. If you are practicing and working through problems but feel stuck, contact me! Email me and or come to office hours. I will help you!
+4. Confidence Check: Label each statement as a **Definition**, **Postulate**, or **Theorem**.
+	- A line segment is a part of a line with two endpoints.
+	- Through any two distinct points, there is exactly one line.
+	- Vertical angles are congruent.
 
 ## Art and Design Connections
 

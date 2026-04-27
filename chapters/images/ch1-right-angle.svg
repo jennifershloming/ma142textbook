@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Right angle diagram</title>
+  <desc id="desc">Two perpendicular rays form a right angle marked with a square and labeled 90 degrees.</desc>
+  <rect width="640" height="420" fill="#f8fffb"/>
+
+  <line x1="180" y1="320" x2="180" y2="90" stroke="#1f2937" stroke-width="8" stroke-linecap="round"/>
+  <line x1="180" y1="320" x2="460" y2="320" stroke="#1f2937" stroke-width="8" stroke-linecap="round"/>
+
+  <rect x="180" y="280" width="40" height="40" fill="none" stroke="#0f766e" stroke-width="5"/>
+
+  <text x="248" y="290" font-size="34" font-family="Georgia, serif" fill="#0f172a">90°</text>
+  <text x="320" y="52" text-anchor="middle" font-size="30" font-family="Georgia, serif" fill="#111827">Right Angle</text>
+  <text x="320" y="388" text-anchor="middle" font-size="22" font-family="Georgia, serif" fill="#374151">A right angle measures exactly 90 degrees.</text>
+</svg>

@@ -1,6 +1,15 @@
 ---
-title: "Appendix C: Solutions to Practice"
+title: "Appendix B: Solutions to Practice"
 ---
+
+## Chapter 1: The Language of Geometry
+
+### Solutions to Practice
+
+1. Confidence Check (label each statement):
+   - "A line segment is a part of a line with two endpoints." is a **Definition**.
+   - "Through any two distinct points, there is exactly one line." is a **Postulate**.
+   - "Vertical angles are congruent." is a **Theorem**.
 
 ## Chapter 2: Star Polygons
 
