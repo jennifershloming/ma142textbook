@@ -7,7 +7,7 @@ title: "1. The Language of Geometry"
 By the end of this chapter, you should be able to:
 
 - Distinguish between definitions, postulates, and theorems.
-- Plan how you will work through this textbook.
+- Plan how you will work through this textbook. This includes making time to read through and work on the material. I do think that this may be the most important step. **You need to arrange your schedule so you are making time for this course.**
 - Create a method for remembering and keeping track of key terms and definitions found in this textbook.
 
 ::: {.content-visible when-format="html"}
@@ -20,21 +20,26 @@ By the end of this chapter, you should be able to:
 
 ## Key Terms and Formulas
 
-Geometry can be seen as another language! Some of you may be afraid of math (hopefully not for long if this is the case). 
---> When you see a key term you should put it on an index card. I recommend using an actual, physical index card.
-(If you rather create online index cards to study that is fine too but writing things down should help you remember even more.)
---> On the back of the index card you should explain the key term with the definition and or an example.
-Once you have created index cards be sure to review them. Think of geometry as a language you may have studied at FIT or beforehand. If you practice the language regularly, you should be able to speak it with confidence.
+Geometry can be seen as another language. If math has felt intimidating in the past, that can change with regular practice and review.
 
-- Definition
-- Postulate
-- Theorem
+::: {.callout-tip}
+## Study Strategy
 
-Definition: A statement that explains the precise meaning of a mathematical term.
+When you see a key term:
 
-Postulate: A statement accepted as true without proof and used as a starting point for reasoning.
+- Write it on an index card (physical cards are recommended).
+- If you prefer online cards, that is fine too.
+- On the back, include the definition and/or an example.
+- Review your cards regularly.
 
-Theorem: A statement proven true using definitions, postulates, and previously proven results.
+Think of geometry as a language: the more consistently you practice it, the more confident you become.
+:::
+
+### Core Terms
+
+- **Definition**: A statement that explains the precise meaning of a mathematical term.
+- **Postulate**: A statement accepted as true without proof and used as a starting point for reasoning.
+- **Theorem**: A statement proven true using definitions, postulates, and previously proven results.
 
 ## Mini-Lecture
 
