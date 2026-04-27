@@ -21,16 +21,16 @@ Use this text as your course guide:
 
 ## How To Use This Text
 
-In Chapters 2 through 8, you will see the same flow each time so you always know what to expect:
+In Chapters 2 through 8, you will see the same flow each time so you always know what to expect.
 
-1. Learning goals so you know what to focus on
-2. Key terms and formulas (or one key idea for that chapter)
-3. A short mini-lecture or worked example to walk you through the math
-4. Practice so you can try the ideas right away
-5. Art and design connections to show where geometry appears in the real world
-6. A creative assignment, with examples and inspiration to get you started
-7. Exercises to build confidence and accuracy
-8. Further reading and interactive activities if you want to go deeper
+1. Learning goals so you know what to focus on.
+2. Key terms and formulas (or one key idea for that chapter).
+3. A short mini-lecture or worked example to walk you through the math.
+4. Practice so you can try the ideas right away.
+5. Art and design connections to show where geometry appears in the real world.
+6. A creative assignment, with examples and inspiration to get you started.
+7. Exercises to build confidence and accuracy.
+8. Further reading and interactive activities if you want to go deeper.
 
 ## Suggested Chapter Workflow
 
@@ -40,4 +40,4 @@ In the Exercises section, I include an active Google Doc link for FIT students a
 
 ## Learning Mindset
 
-You do not need to be a math major to succeed in this class. I want you to focus on steady growth: read carefully, sketch figures, explain your reasoning, and practice consistently.
+You do not need to be a math major to succeed. I want you to focus on making time for this text (and class). Learning mathematics can feel like learning a foreign language; you need to practice to speak fluently. I am here to help you too! You can do it!!!
