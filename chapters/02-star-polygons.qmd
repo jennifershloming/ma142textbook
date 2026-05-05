@@ -305,7 +305,7 @@ Without drawing any Star Polygons for $n = 5$, you will soon be able to tell tha
 
 How can you tell without drawing which ones are going to be Regular and which are going to be Compound Star Polygons?
 
-A Regular Star Polygon is denoted by $\{n/k\}$, where $n$ and $k$ are relatively prime (they share no factors except 1) and $k \ge 2$. A Compound Star Polygon has common factors besides 1.
+**<span style="color:#9333ea;">A Regular Star Polygon is denoted by $\{n/k\}$, where $n$ and $k$ are relatively prime (they share no factors except 1) and $k \ge 2$.</span>** <span style="color:#9333ea;">A Compound Star Polygon has common factors besides 1.</span>
 
 $\{8/2\} = \{8/6\}$ and $\{8/4\}$ are Compound Star Polygons since there are common factors between the $n$ and $k$ values for each.
 
