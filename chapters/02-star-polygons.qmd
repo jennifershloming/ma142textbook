@@ -281,9 +281,11 @@ Above are all the Star Polygons with 8 points.
 
 Let us now talk about which ones require lifting your pen/pencil/mouse and which do not.
 
-Star Polygons are called Regular if you do NOT need to lift up your pen/pencil/mouse while creating them.
+### 2.3.3 Regular and Compound Star Polygons
 
-Regular Star Polygons are made in one cycle.
+**Star Polygons are called <span style="color:#059669;">Regular</span> if you do NOT need to lift up your pen/pencil/mouse while creating them.**
+
+<span style="color:#059669;">Regular</span> Star Polygons are made in one cycle.
 
 Let us name all the Regular Star Polygons for $n = 8$:
 
