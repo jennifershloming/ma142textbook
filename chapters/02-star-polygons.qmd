@@ -351,7 +351,7 @@ $\{5/2\}$: $n = 5$ and $k = 2$ (identical to $\{5/3\}$).
 
 I just noticed this from typing: R with R and C with C.
 
-Relatively Prime means Regular Star Polygon and Common Factors means Compound Star Polygon. I am way too excited about this but hopefully it will help you remember how to properly classify these Star Polygons.
+**Relatively Prime means Regular Star Polygon and Common Factors means Compound Star Polygon!!!** I am way too excited about this but hopefully it will help you remember how to properly classify these Star Polygons.
 
 Let us now make sure you understand what was discussed in this mini-lecture.
 
@@ -363,7 +363,7 @@ Example:
 
 (c) Classify them as either Regular Star Polygons or Compound Star Polygons.
 
-When you are ready CLICK HERE to see my answers.
+When you are ready [CLICK HERE](https://docs.google.com/a/fitnyc.edu/document/d/1AjiImFQjbEiBFDmvcMpFAl3RnqYKyKjpJBBVzBIgk5Y/edit?usp=sharing) to see my answers.
 
 - I try to find something new every time I teach a topic and this time it is a new artwork that involves Star Polygons. From Spring 2024 I found THIS ONE. You can also check out HERE what I found from last semester too.
 - My favorite Desmos artist right now is Yodai Obonai who has some beautiful star polygon art and applied it to beautiful mandalas.
@@ -375,6 +375,65 @@ When you are ready CLICK HERE to see my answers.
 - I have a Course FAQ with more examples of what was discussed in this mini-lecture if you want more practice.
 - I created the above from Star Polygon Generator.
 - My Pinterest board for my courses has more on Star Polygons too. Always feel free to send me a link to any mathematical topic we do. Here it is: https://www.pinterest.com/mathd0rk/for-my-courses/
+
+### Tip and Turning Angles
+
+Now let us finish section 2.3 with one more useful idea: the turning angle and the tip angle of a Star Polygon.
+
+When you draw a Star Polygon $\{n/k\}$, you move from one point to the next by skipping $k-1$ points. At each move, your direction turns by the same amount.
+
+That turning angle is:
+
+$$
+   heta = \frac{360^\circ k}{n}
+$$
+
+The tip angle is the sharp angle at each star point. It is the supplement of the turning angle (for the usual regular star drawings), so:
+
+$$
+\alpha = 180^\circ - \theta = 180^\circ - \frac{360^\circ k}{n}
+$$
+
+If this feels like a lot, here is the quick memory trick:
+
+- Turning angle: multiply by $k$, divide by $n$, then multiply by $360^\circ$.
+- Tip angle: take $180^\circ$ and subtract the turning angle.
+
+Let us do two examples together.
+
+Example 1: Find angles for $\{7/2\}$.
+
+$$
+   heta = \frac{360^\circ(2)}{7} = \frac{720^\circ}{7} \approx 102.86^\circ
+$$
+
+$$
+\alpha = 180^\circ - 102.86^\circ \approx 77.14^\circ
+$$
+
+So for $\{7/2\}$, the turning angle is about $102.86^\circ$ and the tip angle is about $77.14^\circ$.
+
+Example 2: Find angles for $\{11/4\}$.
+
+$$
+   heta = \frac{360^\circ(4)}{11} = \frac{1440^\circ}{11} \approx 130.91^\circ
+$$
+
+$$
+\alpha = 180^\circ - 130.91^\circ \approx 49.09^\circ
+$$
+
+So for $\{11/4\}$, the turning angle is about $130.91^\circ$ and the tip angle is about $49.09^\circ$.
+
+Notice what happens: as the turning angle gets bigger, the tip angle gets smaller (pointier). This is why changing $k$ changes the look of the star so dramatically.
+
+Here is a quick visual comparison with the same $n = 8$ but different $k$ values:
+
+| ![Eight equally spaced dots where every second dot is connected.](images/ch2-step2-8-2-connected.svg){width=95%} | ![Eight equally spaced dots where every third dot is connected.](images/ch2-step2-8-3-connected.svg){width=95%} |
+|:---:|:---:|
+| $\{8/2\}$, $\theta = 90^\circ$, $\alpha = 90^\circ$ | $\{8/3\}$, $\theta = 135^\circ$, $\alpha = 45^\circ$ |
+
+If you want, test this quickly with two stars that have the same $n$ but different $k$ values and compare how sharp the tips look.
 
 ## Practice
 
