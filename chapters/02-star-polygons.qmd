@@ -385,7 +385,7 @@ When you draw a Star Polygon $\{n/k\}$, you move from one point to the next by s
 That turning angle is:
 
 $$
-	heta = \frac{360^\circ k}{n}
+\theta = \frac{360^\circ k}{n}
 $$
 
 The tip angle is the sharp angle at each star point. It is the supplement of the turning angle (for the usual regular star drawings), so:
@@ -404,7 +404,7 @@ Let us do two examples together.
 Example 1: Find angles for $\{7/2\}$.
 
 $$
-	heta = \frac{360^\circ(2)}{7} = \frac{720^\circ}{7} \approx 102.86^\circ
+\theta = \frac{360^\circ(2)}{7} = \frac{720^\circ}{7} \approx 102.86^\circ
 $$
 
 $$
@@ -418,7 +418,7 @@ So for $\{7/2\}$, the turning angle is about $102.86^\circ$ and the tip angle is
 Example 2: Find angles for $\{11/4\}$.
 
 $$
-	heta = \frac{360^\circ(4)}{11} = \frac{1440^\circ}{11} \approx 130.91^\circ
+\theta = \frac{360^\circ(4)}{11} = \frac{1440^\circ}{11} \approx 130.91^\circ
 $$
 
 $$
