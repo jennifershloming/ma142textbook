@@ -133,9 +133,17 @@ Step 2: we are going to connect every $k$th dot where $k = 1$.
 
 Remember: A Star Polygon is formed by plotting $n$ dots that are equally spaced (on a circle) and connecting every $k$th point with a straight line. Here we want 8 dots that are equally spaced ($n = 8$) and connect every second point ($k = 2$) with a straight line.
 
-End of Step 1.
+<div style="display:flex; align-items:center; gap:0.75rem; flex-wrap:wrap; margin:0.5rem 0;">
+   <strong>End of Step 1.</strong>
+   <img src="images/ch2-step1-in-one-step.svg" alt="Eight equally spaced dots forming a circle." style="width:150px; max-width:100%; height:auto;" />
+</div>
 
 Then we are going to connect every $k$th dot where $k = 2$. If we are connecting every 2nd point then we are doing every other one (skipping one). You can watch me do this [here](https://drive.google.com/a/fitnyc.edu/file/d/1C7Qym1woHQa70dyx6_iyvUUtVmCQQ6jM/view?usp=sharing) and you should get what you see below.
+
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
+   <img src="images/ch2-step2-8-2-connected.svg" alt="Eight equally spaced dots where every second dot is connected." style="width:36%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">Eight equally spaced dots where every second dot is connected.</figcaption>
+</figure>
 
 I want you to now do the rest on your own. While you are doing them, ask yourself if you had to lift up your pen or pencil to complete the Star Polygon.
 
@@ -143,11 +151,21 @@ I want you to now do the rest on your own. While you are doing them, ask yoursel
 
 Notice that you do not need to lift up your pen/pencil/mouse to create this Star Polygon.
 
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
+   <img src="images/ch2-step2-8-3-connected.svg" alt="Eight equally spaced dots where every third dot is connected." style="width:36%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">Eight equally spaced dots where every third dot is connected.</figcaption>
+</figure>
+
 #### (d) $\{8/4\}$
 
 $\{8/4\}$ was an asterisk.
 
 You MUST lift up your pen/pencil/mouse to create this Star Polygon. Remember that each dot must be used. So, we move over to the next available point after you cannot keep connecting lines.
+
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
+   <img src="images/ch2-step2-8-3-connected.svg" alt="Eight equally spaced dots where every third dot is connected." style="width:36%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">Eight equally spaced dots where every third dot is connected.</figcaption>
+</figure>
 
 Did you get confused with how it works? If so, I made a video of me doing (a) Draw $\{8/1\}$, (b) Draw $\{8/2\}$, (c) Draw $\{8/3\}$, (d) Draw $\{8/4\}$ freehand-ish and narrating the process. Please feel free to watch and listen.
 
