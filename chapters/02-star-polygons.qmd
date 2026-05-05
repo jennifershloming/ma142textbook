@@ -97,29 +97,37 @@ You can do this step in one shot or in 3 depending on what you feel most comfort
 <p style="text-align:center; margin-top:0.25rem;">in three steps</p>
 
 So, for Step 1: Visualize a circle and place $n$ equally spaced dots around it.
-<p style="margin-left: 1.5rem;">-&gt; If we had $n = 10$ then we would have 10 equally spaced dots.</p>
-<p style="margin-left: 1.5rem;">-&gt; If we had $n = 5$ then we have 5 dots in an equally spaced circle.</p>
+<p style="margin-left: 1.5rem;">--&gt; If we had $n = 10$ then we would have 10 equally spaced dots.</p>
+<p style="margin-left: 1.5rem;">--&gt; If we had $n = 5$ then we have 5 dots in an equally spaced circle.</p>
 Try your best to have it equally spaced.
 
 #### Step 2
 
-Connect every $k$th point with a straight line (use a ruler or any sort of straight edge, like an index card or a thick piece of paper) to make $\{8/k\}$. Every dot must be used.
+**Connect every $k$th point with a straight line** (use a ruler or any sort of straight edge, like an index card or a thick piece of paper) to make $\{8/k\}$. **Every dot must be used.**
 
 We are going to draw these:
 
-- (a) $\{8/1\}$
-- (b) $\{8/2\}$
-- (c) $\{8/3\}$
-- (d) $\{8/4\}$
-- (e) $\{8/5\}$
+(a) $\{8/1\}$
+(b) $\{8/2\}$
+(c) $\{8/3\}$
+(d) $\{8/4\}$
+(e) $\{8/5\}$
 
 #### (a) Draw $\{8/1\}$
 
 Remember: A Star Polygon is formed by plotting $n$ dots that are equally spaced in a circle and connecting every $k$th point with a straight line. Here we want 8 dots that are equally spaced ($n = 8$) and connect every point where $k = 1$ with a straight line.
 
-End of Step 1.
+<div style="display:flex; align-items:center; gap:0.75rem; flex-wrap:wrap; margin:0.5rem 0;">
+   <strong>End of Step 1.</strong>
+   <img src="images/ch2-step1-in-one-step.svg" alt="Eight equally spaced dots forming a circle." style="width:150px; max-width:100%; height:auto;" />
+</div>
 
 Step 2: we are going to connect every $k$th dot where $k = 1$.
+
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
+    <img src="images/ch2-step2-8-1-connected.svg" alt="Eight equally spaced dots in a circle with each dot connected to the next dot." style="width:36%; max-width:100%; height:auto;" />
+    <figcaption style="text-align:center; margin-top:0.5rem;">Eight equally spaced dots with each dot connected to the next one.</figcaption>
+</figure>
 
 #### (b) Draw $\{8/2\}$
 
@@ -127,7 +135,7 @@ Remember: A Star Polygon is formed by plotting $n$ dots that are equally spaced 
 
 End of Step 1.
 
-Then we are going to connect every $k$th dot where $k = 2$. If we are connecting every 2nd point then we are doing every other one (skipping one). You can watch me do this here and you should get what you see below.
+Then we are going to connect every $k$th dot where $k = 2$. If we are connecting every 2nd point then we are doing every other one (skipping one). You can watch me do this [here](https://drive.google.com/a/fitnyc.edu/file/d/1C7Qym1woHQa70dyx6_iyvUUtVmCQQ6jM/view?usp=sharing) and you should get what you see below.
 
 I want you to now do the rest on your own. While you are doing them, ask yourself if you had to lift up your pen or pencil to complete the Star Polygon.
 
