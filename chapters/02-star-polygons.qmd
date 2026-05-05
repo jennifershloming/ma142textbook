@@ -287,7 +287,7 @@ Above are all the Star Polygons with 8 points.
 
 Let us now talk about which ones require lifting your pen/pencil/mouse and which do not.
 
-### 2.3.3 Regular and Compound Star Polygons
+### Regular and Compound Star Polygons
 
 **Star Polygons are called <span style="color:#059669;">Regular</span> if you do NOT need to lift up your pen/pencil/mouse while creating them.**
 
@@ -300,12 +300,34 @@ Let us name all the Regular Star Polygons for $n = 8$:
 
 You can scroll back up to see the animations of these and how you can do it without lifting up your pen/pencil/mouse.
 
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto; display:flex; justify-content:center; gap:1.25rem; flex-wrap:wrap;">
+   <div style="text-align:center;">
+      <img src="images/ch2-step2-8-1-connected.svg" alt="Eight equally spaced dots with each dot connected to the next one." style="width:280px; max-width:100%; height:auto;" />
+      <figcaption style="text-align:center; margin-top:0.5rem;">$\{8/1\} = \{8/7\}$</figcaption>
+   </div>
+   <div style="text-align:center;">
+      <img src="images/ch2-step2-8-3-connected.svg" alt="Eight equally spaced dots where every third dot is connected." style="width:280px; max-width:100%; height:auto;" />
+      <figcaption style="text-align:center; margin-top:0.5rem;">$\{8/3\} = \{8/5\}$</figcaption>
+   </div>
+</figure>
+
 <span style="color:#9333ea;">Those Star Polygons that are NOT Regular are called Compound.</span> Compound is a word many of you might associate with "more than one." **<span style="color:#9333ea;">Here they are called Compound Star Polygons because they are created with more than one cycle, aka you have to lift your pen/pencil/mouse more than once.</span>**
 
 Let us name all the Compound Star Polygons for $n = 8$:
 
 - $\{8/2\} = \{8/6\}$
 - $\{8/4\}$
+
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto; display:flex; justify-content:center; gap:1.25rem; flex-wrap:wrap;">
+   <div style="text-align:center;">
+      <img src="images/ch2-step2-8-2-connected.svg" alt="Eight equally spaced dots where every second dot is connected." style="width:280px; max-width:100%; height:auto;" />
+      <figcaption style="text-align:center; margin-top:0.5rem;">$\{8/2\} = \{8/6\}$</figcaption>
+   </div>
+   <div style="text-align:center;">
+      <img src="images/ch2-step2-8-4-connected.svg" alt="Eight equally spaced dots where every fourth dot is connected and all dots are used to connect." style="width:280px; max-width:100%; height:auto;" />
+      <figcaption style="text-align:center; margin-top:0.5rem;">$\{8/4\}$</figcaption>
+   </div>
+</figure>
 
 Without drawing any Star Polygons for $n = 5$, you will soon be able to tell that all are Regular Star Polygons.
 
