@@ -196,7 +196,7 @@ Without drawing any Star Polygons for $n = 5$, you should be able to know that $
 
 How can you tell without drawing which ones will be identical?
 
-### 2.3.2 Identical Star Polygons
+### Identical Star Polygons
 
 **You can tell without drawing which Star Polygons are going to be <span style="color:#b22222;">identical</span> by using the following:**
 
