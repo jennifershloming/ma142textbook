@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Eight equally spaced dots where every fourth dot is connected">
+  <rect width="240" height="240" fill="white"/>
+  <line x1="120" y1="38" x2="120" y2="202" stroke="#1f2937" stroke-width="3"/>
+  <line x1="38" y1="120" x2="202" y2="120" stroke="#1f2937" stroke-width="3"/>
+  <circle cx="120" cy="38" r="7" fill="#1f2937"/>
+  <circle cx="177.98" cy="62.02" r="7" fill="#1f2937"/>
+  <circle cx="202" cy="120" r="7" fill="#1f2937"/>
+  <circle cx="177.98" cy="177.98" r="7" fill="#1f2937"/>
+  <circle cx="120" cy="202" r="7" fill="#1f2937"/>
+  <circle cx="62.02" cy="177.98" r="7" fill="#1f2937"/>
+  <circle cx="38" cy="120" r="7" fill="#1f2937"/>
+  <circle cx="62.02" cy="62.02" r="7" fill="#1f2937"/>
+</svg>

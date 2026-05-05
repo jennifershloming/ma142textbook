@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Eight equally spaced dots where every fifth dot is connected">
+  <rect width="240" height="240" fill="white"/>
+  <polyline points="120,38 62.02,177.98 202,120 62.02,62.02 120,202 177.98,62.02 38,120 177.98,177.98 120,38" fill="none" stroke="#1f2937" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="120" cy="38" r="7" fill="#1f2937"/>
+  <circle cx="177.98" cy="62.02" r="7" fill="#1f2937"/>
+  <circle cx="202" cy="120" r="7" fill="#1f2937"/>
+  <circle cx="177.98" cy="177.98" r="7" fill="#1f2937"/>
+  <circle cx="120" cy="202" r="7" fill="#1f2937"/>
+  <circle cx="62.02" cy="177.98" r="7" fill="#1f2937"/>
+  <circle cx="38" cy="120" r="7" fill="#1f2937"/>
+  <circle cx="62.02" cy="62.02" r="7" fill="#1f2937"/>
+</svg>

@@ -163,8 +163,8 @@ $\{8/4\}$ was an asterisk.
 You MUST lift up your pen/pencil/mouse to create this Star Polygon. Remember that each dot must be used. So, we move over to the next available point after you cannot keep connecting lines.
 
 <figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
-   <img src="images/ch2-step2-8-3-connected.svg" alt="Eight equally spaced dots where every third dot is connected." style="width:36%; max-width:100%; height:auto;" />
-   <figcaption style="text-align:center; margin-top:0.5rem;">Eight equally spaced dots where every third dot is connected.</figcaption>
+   <img src="images/ch2-step2-8-4-connected.svg" alt="Eight equally spaced dots where every fourth dot is connected." style="width:36%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">Eight equally spaced dots where every fourth dot is connected.</figcaption>
 </figure>
 
 Did you get confused with how it works? If so, I made a video of me doing (a) Draw $\{8/1\}$, (b) Draw $\{8/2\}$, (c) Draw $\{8/3\}$, (d) Draw $\{8/4\}$ freehand-ish and narrating the process. Please feel free to watch and listen.
@@ -172,6 +172,11 @@ Did you get confused with how it works? If so, I made a video of me doing (a) Dr
 #### (e) $\{8/5\}$
 
 $\{8/5\}$ is IDENTICAL to the star polygon $\{8/3\}$.
+
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
+   <img src="images/ch2-step2-8-5-connected.svg" alt="Eight equally spaced dots where every fifth dot is connected." style="width:36%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">Eight equally spaced dots where every fifth dot is connected.</figcaption>
+</figure>
 
 You do not need to lift up the pen/pencil/mouse to create this Star Polygon.
 
@@ -191,13 +196,15 @@ Without drawing any Star Polygons for $n = 5$, you should be able to know that $
 
 How can you tell without drawing which ones will be identical?
 
-You can tell without drawing which Star Polygons are going to be identical by using the following:
+### 2.3.2 Identical Star Polygons
+
+**You can tell without drawing which Star Polygons are going to be <span style="color:#b22222;">identical</span> by using the following:**
 
 $$
 \{n/k\} = \{n/(n-k)\}
 $$
 
-If this formula looks complicated you can just remember that two Star Polygons are identical when the $n$ values are the same and the bottom values added together give you the top. That will tell you which ones will look exactly the same.
+If this formula looks complicated you can just remember that <span style="color:#1d4ed8;">two Star Polygons are identical when the $n$ values are the same and the bottom values added together give you the top.</span> That will tell you which ones will look exactly the same.
 
 How to think about it: If the Star Polygons are the same then they definitely need to have the same $n$, aka the same number of points. You cannot have an 8-pointed Star Polygon be identical to a 7-pointed one. This should make sense, so you only need to think about the $k$ part for figuring these out.
 
@@ -205,27 +212,33 @@ Let us use this to figure out which Star Polygons are identical to (a) $\{10/2\}
 
 So we will do this without drawing, using $\{n/k\} = \{n/(n-k)\}$.
 
-(a) $\{n/k\} = \{n/(n-k)\}$ where $n = 10$ and $k = 2$. Plug in: $\{10/(10-2)\}$. This gives us $\{10/8\}$.
+(a) $\{n/k\} = \{n/(n-k)\}$ where $n = 10$ and $k = 2$.
+Plug in: $\{10/(10-2)\}$.
+This gives us $\{10/8\}$.
 
-So, $\{10/2\}$ is identical to $\{10/8\}$.
+**So, $\{10/2\}$ is identical to $\{10/8\}$.**
 
-Remember: Star Polygons are identical when the $n$ values are the same and the bottom values added together give you the top. $2 + \_ = 10$.
+*Remember: Star Polygons are identical when the $n$ values are the same and the bottom values added together give you the top. $2 + \_ = 10$.*
 
-(b) $\{n/k\} = \{n/(n-k)\}$ where $n = 11$ and $k = 2$. Plug in: $\{11/(11-2)\}$. This gives us $\{11/9\}$.
+(b) $\{n/k\} = \{n/(n-k)\}$ where $n = 11$ and $k = 2$.
+Plug in: $\{11/(11-2)\}$.
+This gives us $\{11/9\}$.
 
-So, $\{11/2\}$ is identical to $\{11/9\}$.
+**So, $\{11/2\}$ is identical to $\{11/9\}$.**
 
-Remember: Star Polygons are identical when the $n$ values are the same and the bottom values added together give you the top. $2 + \_ = 11$.
+*Remember: Star Polygons are identical when the $n$ values are the same and the bottom values added together give you the top. $2 + \_ = 11$.*
 
-(c) $\{n/k\} = \{n/(n-k)\}$ where $n = 7$ and $k = 3$. Plug in: $\{7/(7-3)\}$. This gives us $\{7/4\}$.
+(c) $\{n/k\} = \{n/(n-k)\}$ where $n = 7$ and $k = 3$.
+Plug in: $\{7/(7-3)\}$.
+This gives us $\{7/4\}$.
 
-So, $\{7/3\}$ is identical to $\{7/4\}$.
+**So, $\{7/3\}$ is identical to $\{7/4\}$.**
 
-Remember: Star Polygons are identical when the $n$ values are the same and the bottom values added together give you the top. $3 + \_ = 7$.
+*Remember: Star Polygons are identical when the $n$ values are the same and the bottom values added together give you the top. $3 + \_ = 7$.*
 
 That is how we know $\{10/2\} = \{10/8\}$, $\{11/2\} = \{11/9\}$, and $\{7/3\} = \{7/4\}$.
 
-Did you get confused with how identical star polygons are found? If so, I made a video of me doing these three examples and narrating the process. You can watch and listen here.
+Did you get confused with how identical star polygons are found? If so, I made a video of me doing these three examples and narrating the process. You can watch and listen [here](https://youtu.be/cvJRml9PtDU).
 
 Okay, let us go back and summarize which identical Star Polygons we have for all $n = 8$:
 
@@ -238,6 +251,26 @@ When you have identical star polygons you do not need to draw the duplicates. Yo
 Example: Draw all Star Polygons for $n = 8$.
 
 This means you draw all the Star Polygons that have 8 points around a circle. We name them to make sure we have all accounted for, with $k$ starting at 1 and ending at 7.
+
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
+   <img src="images/ch2-step2-8-1-connected.svg" alt="Eight equally spaced dots where every dot is connected to the next." style="width:36%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">$\{8/1\} = \{8/7\}$</figcaption>
+</figure>
+
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
+   <img src="images/ch2-step2-8-2-connected.svg" alt="Eight equally spaced dots where every second dot is connected." style="width:36%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">$\{8/2\} = \{8/6\}$</figcaption>
+</figure>
+
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
+   <img src="images/ch2-step2-8-3-connected.svg" alt="Eight equally spaced dots where every third dot is connected." style="width:36%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">$\{8/3\} = \{8/5\}$</figcaption>
+</figure>
+
+<figure style="text-align:center; margin: 0.75rem auto 1rem auto;">
+   <img src="images/ch2-step2-8-4-connected.svg" alt="Eight equally spaced dots where every fourth dot is connected." style="width:36%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">$\{8/4\}$</figcaption>
+</figure>
 
 - $\{8/1\} = \{8/7\}$
 - $\{8/2\} = \{8/6\}$
