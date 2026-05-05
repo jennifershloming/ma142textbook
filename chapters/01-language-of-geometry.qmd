@@ -50,7 +50,13 @@ Please use any calculator that can do square roots. Don't get a calculator that 
 
 You can NOT use a cell phone or tablet as a calculator on the final exam so it is great to practice using the same one the entire time. If you believe you will have an issue using obtaining a calculator for any reason, please let me know by sending me an Email. 
 
-Make time to read for this course. Try not to leave reading until the day assignments are due. That will add stress and frustration. The lectures are inside and you need to go through them in order to score well on the assignments. *You need to answer questions in this course based on the terms used in this text. If you use terms and methods that I do not use it will signal that you may be using AI as a replacement for the lectures. 
+Make time to read for this course. Try not to leave reading until the day assignments are due. That will add stress and frustration. The lectures are inside and you need to go through them in order to score well on the assignments.
+
+::: {.callout-important}
+## Important Course Note
+
+You need to answer questions in this course based on the terms used in this text. If you use terms and methods that I do not use it will signal that you may be using AI as a replacement for the lectures.
+:::
 
 These are starter examples, and we will build confidence step by step.
 
@@ -95,11 +101,11 @@ These are starter examples, and we will build confidence step by step.
 	- Vertical angles are congruent.
 2. If you are practicing and working through problems but feel stuck, contact me! Email me and or come to office hours. I will help you!
 3. Prepare yourself that the best way to learn math is by practicing problems. I think it is the best way to learn anything and I tell my kids the famous "Practice makes perfect" lime a lot.
-4. In the rest of the chapters you will see actual practice problems. I do want you to first figure out how you will be taking notes in this course. Get a binder or notebook ready. 
+4. In the rest of the chapters you will see more practice problems. This chapter is all about preparing for the rest of the class and text. I do want you to first figure out how you will be taking notes in this course. Get a binder or notebook ready.
 
 ## Art and Design Connections
 
-- In the rest of the chapters you will see specific connections with our topic to art and design.
+- In the rest of the chapters you will see specific connections with our topic to art and design. Now that you have seen right angles I want you to go outside tomorrow and notice how many right angles are around us in buildings, signs, and more! My son and I looked at different angles around the Upper West Side in Manhattan for an hour today and right angles were the most common we found. △
 - Geometry is everywhere! I have a strong feeling you are wearing something that could be considered geometric right now! Look down. I see tiles on my floor. That is geometry. We will learn more about tiles and be able to classify them! Walk around your neighborhood at the architecture and as you can guess; geometry is there too!
 - We are going to create art in this course that happens to involve geometry. Please take a minute to draw a triangle. What kind of triangle did you draw? We will talk about different triangles later. If you didn't draw a triangle (you thought I wouldn't notice) please do so now and we will come back to it in another chapter.
 
