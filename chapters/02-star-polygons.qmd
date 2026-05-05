@@ -294,7 +294,7 @@ Let us name all the Regular Star Polygons for $n = 8$:
 
 You can scroll back up to see the animations of these and how you can do it without lifting up your pen/pencil/mouse.
 
-Those Star Polygons that are NOT Regular are called Compound. Compound is a word many of you might associate with "more than one." Here they are called Compound Star Polygons because they are created with more than one cycle, aka you have to lift your pen/pencil/mouse more than once.
+<span style="color:#9333ea;">Those Star Polygons that are NOT Regular are called Compound.</span> Compound is a word many of you might associate with "more than one." **<span style="color:#9333ea;">Here they are called Compound Star Polygons because they are created with more than one cycle, aka you have to lift your pen/pencil/mouse more than once.</span>**
 
 Let us name all the Compound Star Polygons for $n = 8$:
 
