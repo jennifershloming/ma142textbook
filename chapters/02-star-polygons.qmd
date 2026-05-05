@@ -415,6 +415,10 @@ So for $\{7/2\}$, the turning angle is about $102.86^\circ$ and the tip angle is
 
 ![Angle diagram for $\{7/2\}$ showing turning angle $\theta$ and tip angle $\alpha$.](images/ch2-angles-7-2.svg){width=75%}
 
+Green arc = turning angle
+
+Red arc = tip angle
+
 Example 2: Find angles for $\{11/4\}$.
 
 $$
@@ -428,6 +432,10 @@ $$
 So for $\{11/4\}$, the turning angle is about $130.91^\circ$ and the tip angle is about $49.09^\circ$.
 
 ![Angle diagram for $\{11/4\}$ showing turning angle $\theta$ and tip angle $\alpha$.](images/ch2-angles-11-4.svg){width=75%}
+
+Green arc = turning angle
+
+Red arc = tip angle
 
 Notice what happens: as the turning angle gets bigger, the tip angle gets smaller (pointier). This is why changing $k$ changes the look of the star so dramatically.
 
