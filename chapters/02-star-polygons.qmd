@@ -37,7 +37,7 @@ If $\gcd(n,k)=d>1$, then the figure is disconnected and splits into $d$ identica
 
 A **compound star polygon** is formed by overlapping regular polygons (for example, the hexagram as two equilateral triangles).
 
-A regular star polygon can be drawn continuously. In a **regular star polygon**, n and q are **relatively prime**.
+A regular star polygon can be drawn continuously. In a **regular star polygon**, n and k are **relatively prime**.
 
 ### Angle Relationship
 
