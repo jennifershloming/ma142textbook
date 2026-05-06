@@ -15,7 +15,19 @@ title: "Appendix B: Solutions to Practice"
 
 ### Solutions to Practice
 
-1. For $\{7/2\}$,
+1. Sketch should show a 9-point star using step size 4 (notation $\{9/4\}$). One valid turning angle label is
+
+$$
+\theta=\frac{360^\circ(4)}{9}=160^\circ.
+$$
+
+2. $\{8/2\}$ is disconnected because $\gcd(8,2)=2>1$.
+
+3. $\{12/3\}$ is disconnected since $\gcd(12,3)=3$. It splits into 3 identical components.
+
+4. Yes. $\{10/3\}$ and $\{10/7\}$ are identical because $\{n/k\}=\{n/(n-k)\}$.
+
+5. For $\{7/2\}$,
 
 $$
 \theta=\frac{360^\circ(2)}{7}=\frac{720^\circ}{7}
@@ -24,18 +36,6 @@ $$
 $$
 \alpha=180^\circ-\theta=180^\circ-\frac{720^\circ}{7}=\frac{540^\circ}{7}\approx77.14^\circ
 $$
-
-2. $\{8/2\}$ is disconnected because $\gcd(8,2)=2>1$.
-
-3. Sketch should show a 9-point star using step size 4 (notation $\{9/4\}$). One valid turning angle label is
-
-$$
-\theta=\frac{360^\circ(4)}{9}=160^\circ.
-$$
-
-4. Yes. $\{10/3\}$ and $\{10/7\}$ are identical because $\{n/k\}=\{n/(n-k)\}$.
-
-5. $\{12/3\}$ is disconnected since $\gcd(12,3)=3$. It splits into 3 identical components.
 
 6. For $\{11/4\}$,
 
