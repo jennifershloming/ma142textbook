@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Fifteen equally spaced dots where every second dot is connected">
+  <rect width="240" height="240" fill="white"/>
+  <polyline points="120,38 180.94,65.13 201.55,128.57 168.2,186.34 102.95,200.21 48.99,161 42.01,94.66 86.65,45.09 153.35,45.09 197.99,94.66 191.01,161 137.05,200.21 71.8,186.34 38.45,128.57 59.06,65.13 120,38" fill="none" stroke="#1f2937" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="120" cy="38" r="4.5" fill="#1f2937"/>
+  <circle cx="153.35" cy="45.09" r="4.5" fill="#1f2937"/>
+  <circle cx="180.94" cy="65.13" r="4.5" fill="#1f2937"/>
+  <circle cx="197.99" cy="94.66" r="4.5" fill="#1f2937"/>
+  <circle cx="201.55" cy="128.57" r="4.5" fill="#1f2937"/>
+  <circle cx="191.01" cy="161" r="4.5" fill="#1f2937"/>
+  <circle cx="168.2" cy="186.34" r="4.5" fill="#1f2937"/>
+  <circle cx="137.05" cy="200.21" r="4.5" fill="#1f2937"/>
+  <circle cx="102.95" cy="200.21" r="4.5" fill="#1f2937"/>
+  <circle cx="71.8" cy="186.34" r="4.5" fill="#1f2937"/>
+  <circle cx="48.99" cy="161" r="4.5" fill="#1f2937"/>
+  <circle cx="38.45" cy="128.57" r="4.5" fill="#1f2937"/>
+  <circle cx="42.01" cy="94.66" r="4.5" fill="#1f2937"/>
+  <circle cx="59.06" cy="65.13" r="4.5" fill="#1f2937"/>
+  <circle cx="86.65" cy="45.09" r="4.5" fill="#1f2937"/>
+</svg>

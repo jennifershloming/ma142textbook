@@ -389,11 +389,11 @@ Now for the answers to these three examples:
 
 (a) Draw all UNIQUE star polygons with 15 points:
 
-| ![Fifteen equally spaced dots with each dot connected to the next one.](images/ch2-answers-15-01.png){width=95%}<br>$\{15/1\} = \{15/14\}$ | ![Fifteen equally spaced dots where every second dot is connected.](images/ch2-answers-15-02.png){width=95%}<br>$\{15/2\} = \{15/13\}$ |
+| ![Fifteen equally spaced dots with each dot connected to the next one.](images/ch2-answers-15-k1.svg){width=95%}<br>$\{15/1\} = \{15/14\}$ | ![Fifteen equally spaced dots where every second dot is connected.](images/ch2-answers-15-k2.svg){width=95%}<br>$\{15/2\} = \{15/13\}$ |
 |:---:|:---:|
-| ![Fifteen equally spaced dots where every third dot is connected.](images/ch2-answers-15-03.png){width=95%}<br>$\{15/3\} = \{15/12\}$ | ![Fifteen equally spaced dots where every fourth dot is connected.](images/ch2-answers-15-04.png){width=95%}<br>$\{15/4\} = \{15/11\}$ |
-| ![Fifteen equally spaced dots where every fifth dot is connected.](images/ch2-answers-15-05.png){width=95%}<br>$\{15/5\} = \{15/10\}$ | ![Fifteen equally spaced dots where every sixth dot is connected.](images/ch2-answers-15-06.png){width=95%}<br>$\{15/6\} = \{15/9\}$ |
-| ![Fifteen equally spaced dots where every seventh dot is connected.](images/ch2-answers-15-07.png){width=95%}<br>$\{15/7\} = \{15/8\}$ |  |
+| ![Fifteen equally spaced dots where every third dot is connected.](images/ch2-answers-15-k3.svg){width=95%}<br>$\{15/3\} = \{15/12\}$ | ![Fifteen equally spaced dots where every fourth dot is connected.](images/ch2-answers-15-k4.svg){width=95%}<br>$\{15/4\} = \{15/11\}$ |
+| ![Fifteen equally spaced dots where every fifth dot is connected.](images/ch2-answers-15-k5.svg){width=95%}<br>$\{15/5\} = \{15/10\}$ | ![Fifteen equally spaced dots where every sixth dot is connected.](images/ch2-answers-15-k6.svg){width=95%}<br>$\{15/6\} = \{15/9\}$ |
+| ![Fifteen equally spaced dots where every seventh dot is connected.](images/ch2-answers-15-k7.svg){width=95%}<br>$\{15/7\} = \{15/8\}$ |  |
 
 (b) Which are identical:
 
