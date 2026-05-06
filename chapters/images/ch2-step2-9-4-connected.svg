@@ -25,10 +25,10 @@
   <line x1="48.58" y1="38.72" x2="169.28" y2="140" stroke="black" stroke-width="2"/>
   <line x1="169.28" y1="140" x2="21.21" y2="86.11" stroke="black" stroke-width="2"/>
   <line x1="21.21" y1="86.11" x2="178.79" y2="86.11" stroke="black" stroke-width="2"/>
-  <line x1="178.79" y1="86.11" x2="72.64" y2="175.17" stroke="black" stroke-width="2"/>
-  <line x1="72.64" y1="175.17" x2="151.42" y2="38.72" stroke="black" stroke-width="2"/>
-  <line x1="151.42" y1="38.72" x2="30.72" y2="140" stroke="black" stroke-width="2"/>
-  <line x1="30.72" y1="140" x2="100" y2="20" stroke="black" stroke-width="2"/>
+  <line x1="178.79" y1="86.11" x2="30.72" y2="140" stroke="black" stroke-width="2"/>
+  <line x1="30.72" y1="140" x2="151.42" y2="38.72" stroke="black" stroke-width="2"/>
+  <line x1="151.42" y1="38.72" x2="72.64" y2="175.17" stroke="black" stroke-width="2"/>
+  <line x1="72.64" y1="175.17" x2="100" y2="20" stroke="black" stroke-width="2"/>
   
   <!-- Draw the nine dots -->
   <circle cx="100" cy="20" r="3" fill="black"/>
