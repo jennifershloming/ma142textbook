@@ -373,15 +373,32 @@ Example:
 
 When you are ready [CLICK HERE](https://docs.google.com/a/fitnyc.edu/document/d/1AjiImFQjbEiBFDmvcMpFAl3RnqYKyKjpJBBVzBIgk5Y/edit?usp=sharing) to see my answers.
 
-::: {.content-visible when-format="html"}
-<iframe
-   src="https://docs.google.com/document/d/1AjiImFQjbEiBFDmvcMpFAl3RnqYKyKjpJBBVzBIgk5Y/preview"
-   style="width:100%; min-height:900px; border:1px solid #d1d5db; border-radius:8px;"
-   loading="lazy"
-   referrerpolicy="no-referrer"
-   title="Solutions document embed">
-</iframe>
-:::
+**Text version of answers from that document:**
+
+(a) Draw all UNIQUE star polygons with 15 points:
+
+- $\{15/1\} = \{15/14\}$
+- $\{15/2\} = \{15/13\}$
+- $\{15/3\} = \{15/12\}$
+- $\{15/4\} = \{15/11\}$
+- $\{15/5\} = \{15/10\}$
+- $\{15/6\} = \{15/9\}$
+- $\{15/7\} = \{15/8\}$
+
+(b) Which are identical:
+
+- $\{15/1\} = \{15/14\}$
+- $\{15/2\} = \{15/13\}$
+- $\{15/3\} = \{15/12\}$
+- $\{15/4\} = \{15/11\}$
+- $\{15/5\} = \{15/10\}$
+- $\{15/6\} = \{15/9\}$
+- $\{15/7\} = \{15/8\}$
+
+(c) Classify as Regular or Compound:
+
+- Regular Star Polygons: $\{15/1\} = \{15/14\}$, $\{15/2\} = \{15/13\}$, $\{15/4\} = \{15/11\}$, $\{15/7\} = \{15/8\}$
+- Compound Star Polygons: $\{15/3\} = \{15/12\}$, $\{15/5\} = \{15/10\}$, $\{15/6\} = \{15/9\}$
 
 - I try to find something new every time I teach a topic and this time it is a new artwork that involves Star Polygons. From Spring 2024 I found THIS ONE. You can also check out HERE what I found from last semester too.
 - My favorite Desmos artist right now is Yodai Obonai who has some beautiful star polygon art and applied it to beautiful mandalas.
