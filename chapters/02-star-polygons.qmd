@@ -357,9 +357,23 @@ I just noticed this from typing: R with R and C with C.
 
 **Relatively Prime means Regular Star Polygon and Common Factors means Compound Star Polygon!!!** I am way too excited about this but hopefully it will help you remember how to properly classify these Star Polygons.
 
+When you have a regular star polygon it is connected - you don't have to lift up your pen/pencil. Without drawing you now know this because regular star polygons are relatively prime in terms of n and k. Another way to say this is:
+
 The figure is connected exactly when $\gcd(n, k) = 1$.
 
+If they are not relatively prime they have common factors between the n and k. This means when you are drawing a compound star polygon it will not be connected. Instead it will have more than one component. Another way to say this is:
+
 If $\gcd(n,k)=d>1$, then the figure is disconnected and splits into $d$ identical components.
+
+::: {.callout-tip appearance="simple" icon=false}
+**Check Your Understanding:** Before moving on, make sure you can answer the following:
+
+- Can you tell whether a star polygon is Regular or Compound without drawing it?
+- Can you tell whether a star polygon is connected or disconnected without drawing it?
+- Can you find the identical partner of a given star polygon?
+
+If you feel good about all three, you are ready for the examples below!
+:::
 
 Let us now make sure you understand what was discussed in this mini-lecture.
 
@@ -371,10 +385,6 @@ Example:
 
 (c) Classify them as either Regular Star Polygons or Compound Star Polygons.
 
-When you are ready [CLICK HERE](https://docs.google.com/a/fitnyc.edu/document/d/1AjiImFQjbEiBFDmvcMpFAl3RnqYKyKjpJBBVzBIgk5Y/edit?usp=sharing) to see my answers.
-
-**Text version of answers from that document:**
-
 (a) Draw all UNIQUE star polygons with 15 points:
 
 - $\{15/1\} = \{15/14\}$
@@ -384,6 +394,27 @@ When you are ready [CLICK HERE](https://docs.google.com/a/fitnyc.edu/document/d/
 - $\{15/5\} = \{15/10\}$
 - $\{15/6\} = \{15/9\}$
 - $\{15/7\} = \{15/8\}$
+
+![Answer drawing 1](images/ch2-answers-15-01.png){width=48%}
+![Answer drawing 2](images/ch2-answers-15-02.png){width=48%}
+
+![Answer drawing 3](images/ch2-answers-15-03.png){width=48%}
+![Answer drawing 4](images/ch2-answers-15-04.png){width=48%}
+
+![Answer drawing 5](images/ch2-answers-15-05.png){width=48%}
+![Answer drawing 6](images/ch2-answers-15-06.png){width=48%}
+
+![Answer drawing 7](images/ch2-answers-15-07.png){width=48%}
+![Answer drawing 8](images/ch2-answers-15-08.png){width=48%}
+
+![Answer drawing 9](images/ch2-answers-15-09.png){width=48%}
+![Answer drawing 10](images/ch2-answers-15-10.png){width=48%}
+
+![Answer drawing 11](images/ch2-answers-15-11.png){width=48%}
+![Answer drawing 12](images/ch2-answers-15-12.png){width=48%}
+
+![Answer drawing 13](images/ch2-answers-15-13.png){width=48%}
+![Answer drawing 14](images/ch2-answers-15-14.png){width=48%}
 
 (b) Which are identical:
 
@@ -484,11 +515,11 @@ If you want, test this quickly with two stars that have the same $n$ but differe
 
 ## Practice
 
-1. Compute the tip angle of $\{7/2\}$.
+1. Sketch $\{9/4\}$ on a 9-point circle and label one turning angle.
 2. Determine whether $\{8/2\}$ is connected. Explain using $\gcd(n,k)$.
-3. Sketch $\{9/4\}$ on a 9-point circle and label one turning angle.
+3. For $\{12/3\}$, determine whether it is connected or disconnected. If disconnected, how many identical components are formed?
 4. Are $\{10/3\}$ and $\{10/7\}$ identical star polygons? Explain.
-5. For $\{12/3\}$, determine whether it is connected or disconnected. If disconnected, how many identical components are formed?
+5. Compute the tip angle of $\{7/2\}$.
 6. A designer uses the star polygon $\{11/4\}$. Compute the turning angle $\theta$ and the tip angle $\alpha$.
 
 ## Art and Design Connections
