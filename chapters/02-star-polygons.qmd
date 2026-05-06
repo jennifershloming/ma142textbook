@@ -385,36 +385,15 @@ Example:
 
 (c) Classify them as either Regular Star Polygons or Compound Star Polygons.
 
+Now for the answers to these three examples:
+
 (a) Draw all UNIQUE star polygons with 15 points:
 
-- $\{15/1\} = \{15/14\}$
-- $\{15/2\} = \{15/13\}$
-- $\{15/3\} = \{15/12\}$
-- $\{15/4\} = \{15/11\}$
-- $\{15/5\} = \{15/10\}$
-- $\{15/6\} = \{15/9\}$
-- $\{15/7\} = \{15/8\}$
-
-![Answer drawing 1](images/ch2-answers-15-01.png){width=48%}
-![Answer drawing 2](images/ch2-answers-15-02.png){width=48%}
-
-![Answer drawing 3](images/ch2-answers-15-03.png){width=48%}
-![Answer drawing 4](images/ch2-answers-15-04.png){width=48%}
-
-![Answer drawing 5](images/ch2-answers-15-05.png){width=48%}
-![Answer drawing 6](images/ch2-answers-15-06.png){width=48%}
-
-![Answer drawing 7](images/ch2-answers-15-07.png){width=48%}
-![Answer drawing 8](images/ch2-answers-15-08.png){width=48%}
-
-![Answer drawing 9](images/ch2-answers-15-09.png){width=48%}
-![Answer drawing 10](images/ch2-answers-15-10.png){width=48%}
-
-![Answer drawing 11](images/ch2-answers-15-11.png){width=48%}
-![Answer drawing 12](images/ch2-answers-15-12.png){width=48%}
-
-![Answer drawing 13](images/ch2-answers-15-13.png){width=48%}
-![Answer drawing 14](images/ch2-answers-15-14.png){width=48%}
+| ![Fifteen equally spaced dots with each dot connected to the next one.](images/ch2-answers-15-01.png){width=95%}<br>$\{15/1\} = \{15/14\}$ | ![Fifteen equally spaced dots where every second dot is connected.](images/ch2-answers-15-02.png){width=95%}<br>$\{15/2\} = \{15/13\}$ |
+|:---:|:---:|
+| ![Fifteen equally spaced dots where every third dot is connected.](images/ch2-answers-15-03.png){width=95%}<br>$\{15/3\} = \{15/12\}$ | ![Fifteen equally spaced dots where every fourth dot is connected.](images/ch2-answers-15-04.png){width=95%}<br>$\{15/4\} = \{15/11\}$ |
+| ![Fifteen equally spaced dots where every fifth dot is connected.](images/ch2-answers-15-05.png){width=95%}<br>$\{15/5\} = \{15/10\}$ | ![Fifteen equally spaced dots where every sixth dot is connected.](images/ch2-answers-15-06.png){width=95%}<br>$\{15/6\} = \{15/9\}$ |
+| ![Fifteen equally spaced dots where every seventh dot is connected.](images/ch2-answers-15-07.png){width=95%}<br>$\{15/7\} = \{15/8\}$ |  |
 
 (b) Which are identical:
 
