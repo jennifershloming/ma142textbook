@@ -1,0 +1,32 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="200" fill="white"/>
+  
+  <!-- Draw the star polygon {9/4} -->
+  <!-- Nine dots equally spaced on a circle, every 4th dot connected -->
+  
+  <!-- Define points on a circle with radius 80, centered at (100, 100) -->
+  <!-- Angles: 0°, 40°, 80°, 120°, 160°, 200°, 240°, 280°, 320° -->
+  
+  <!-- Lines connecting every 4th dot: 0→4→8→3→7→2→6→1→5→0 -->
+  <line x1="100" y1="20" x2="155.23" y2="64.70" stroke="black" stroke-width="2"/>
+  <line x1="155.23" y1="64.70" x2="130.90" y2="150" stroke="black" stroke-width="2"/>
+  <line x1="130.90" y1="150" x2="44.77" y2="104.70" stroke="black" stroke-width="2"/>
+  <line x1="44.77" y1="104.70" x2="69.10" y2="20" stroke="black" stroke-width="2"/>
+  <line x1="69.10" y1="20" x2="155.23" y2="155.30" stroke="black" stroke-width="2"/>
+  <line x1="155.23" y1="155.30" x2="30.90" y2="150" stroke="black" stroke-width="2"/>
+  <line x1="30.90" y1="150" x2="100" y2="20" stroke="black" stroke-width="2"/>
+  <line x1="100" y1="20" x2="130.90" y2="50" stroke="black" stroke-width="2"/>
+  <line x1="130.90" y1="50" x2="100" y2="20" stroke="black" stroke-width="2"/>
+  
+  <!-- Draw the nine dots -->
+  <circle cx="100" cy="20" r="3" fill="black"/>
+  <circle cx="155.23" cy="64.70" r="3" fill="black"/>
+  <circle cx="155.23" cy="155.30" r="3" fill="black"/>
+  <circle cx="100" cy="180" r="3" fill="black"/>
+  <circle cx="44.77" cy="155.30" r="3" fill="black"/>
+  <circle cx="44.77" cy="64.70" r="3" fill="black"/>
+  <circle cx="69.10" cy="20" r="3" fill="black"/>
+  <circle cx="130.90" cy="50" r="3" fill="black"/>
+  <circle cx="130.90" cy="150" r="3" fill="black"/>
+</svg>

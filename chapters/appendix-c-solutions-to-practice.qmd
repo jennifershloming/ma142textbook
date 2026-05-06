@@ -15,7 +15,11 @@ title: "Appendix B: Solutions to Practice"
 
 ### Solutions to Practice
 
-1. Sketch should show a 9-point star using step size 4 (notation $\{9/4\}$). One valid turning angle label is
+1. Sketch should show a 9-point star using step size 4 (notation $\{9/4\}$). 
+
+![Nine equally spaced dots where every fourth dot is connected.](images/ch2-step2-9-4-connected.svg){width=50%}
+
+One valid turning angle label is
 
 $$
 \theta=\frac{360^\circ(4)}{9}=160^\circ.
