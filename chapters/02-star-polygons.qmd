@@ -500,7 +500,7 @@ If you want, test this quickly with two stars that have the same $n$ but differe
 4. Are $\{10/3\}$ and $\{10/7\}$ identical star polygons? Explain.
 5. Compute the tip angle of $\{7/2\}$.
 6. A designer uses the star polygon $\{11/4\}$. Compute the turning angle $\theta$ and the tip angle $\alpha$.
-7. Draw $\{6/2\}$.
+7. Draw all unique star polygons for $\{6/k\}$.
 
 ## Art and Design Connections
 
