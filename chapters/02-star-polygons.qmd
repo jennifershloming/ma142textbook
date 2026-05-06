@@ -506,6 +506,15 @@ If you want, test this quickly with two stars that have the same $n$ but differe
 - Build star-polygon mandalas using Schlaefli notation and compare how changing $k$ changes visual rhythm and density.
 - Recreate a historical Islamic geometric tile using a regular polygon grid, then overlay a matching star polygon construction.
 - Design an album-cover graphic with layered $\{n/k\}$ stars and label one turning angle and one tip angle in the final artwork.
+- [Woven string art of Star Polygons](https://mathinunexpectedspaces.wordpress.com/2017/12/10/star-o-rama-and-how-to-make-them/)
+- [Star Polygon art work done with Bead crochet (glass beads and thread) and more](https://gallery.bridgesmathart.org/exhibitions/2014-joint-mathematics-meetings/ellie-baker)
+- [Star Polygon art applied to beautiful mandala animation by Yodai Obani](https://www.desmos.com/calculator/kzu6wauclc)
+- I remember loving string art when I was young and tried to make star polygon string art with my children during the Pandemic. With minimal effort it was a success and fun for all of us!
+- [Star Polygon Generator](http://starpolygons.com/Generator.aspx)
+- My Pinterest board for my courses has more on Star Polygons too. Always feel free to send me a link to any mathematical topic we do! Here it is: https://www.pinterest.com/mathd0rk/for-my-courses/
+- [Star Polygons from Wolfram](https://mathworld.wolfram.com/StarPolygon.html)
+- <span style="color:#1d4ed8;">Feel free to play around with code to see how star polygons change! I recommend changing the number of points of the star; the number of points to skip; and I changed the color and the line thickness to make the three below. Feel free to show me some of your designs if you use [this link](https://www.khanacademy.org/computer-programming/star-creator/823072130) from Khan Academy.</span>
+- <span style="color:#1d4ed8;">Trying to create a star polygon without a ruler can be beautiful in its own way! I used [this site](https://codepen.io/amit_sheen/full/QWyzyoe) and made star polygons and modified star polygons.</span>
 
 ## Creative Assignment
 
@@ -568,12 +577,5 @@ Please note that you are ONLY using straight lines; no other type of line or you
 
 ## Further Reading and Interactive Activities
 
-* [Woven string art of Star Polygons](https://mathinunexpectedspaces.wordpress.com/2017/12/10/star-o-rama-and-how-to-make-them/)
-* [Star Polygon art work done with Bead crochet (glass beads and thread) and more](https://gallery.bridgesmathart.org/exhibitions/2014-joint-mathematics-meetings/ellie-baker)
-* [Star Polygon art applied to beautiful mandala animation by Yodai Obani](https://www.desmos.com/calculator/kzu6wauclc)
-* I remember loving string art when I was young and tried to make star polygon string art with my children during the Pandemic. With minimal effort it was a success and fun for all of us!
-* [Star Polygon Generator](http://starpolygons.com/Generator.aspx)
-* My Pinterest board for my courses has more on Star Polygons too. Always feel free to send me a link to any mathematical topic we do! Here it is: https://www.pinterest.com/mathd0rk/for-my-courses/
+* [Creating Star Polygons as String Art](https://mathinunexpectedspaces.wordpress.com/2017/12/10/star-o-rama-and-how-to-make-them/)
 * [Star Polygons from Wolfram](https://mathworld.wolfram.com/StarPolygon.html)
-* <span style="color:#1d4ed8;">Feel free to play around with code to see how star polygons change! I recommend changing the number of points of the star; the number of points to skip; and I changed the color and the line thickness to make the three below. Feel free to show me some of your designs if you use [this link](https://www.khanacademy.org/computer-programming/star-creator/823072130) from Khan Academy.</span>
-* <span style="color:#1d4ed8;">Trying to create a star polygon without a ruler can be beautiful in its own way! I used [this site](https://codepen.io/amit_sheen/full/QWyzyoe) and made star polygons and modified star polygons.</span>
