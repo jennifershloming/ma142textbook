@@ -25,9 +25,9 @@ $$
 \theta=\frac{360^\circ(4)}{9}=160^\circ.
 $$
 
-2. $\{8/2\}$ is disconnected because $\gcd(8,2)=2>1$.
+2. $\{10/2\}$ is disconnected because $\gcd(10,2)=2>1$. 10 and 2 have common factors, so it is a compound star polygon. Compound star polygons are not connected. You have to lift up your pen/pencil to create it.
 
-3. $\{12/3\}$ is disconnected since $\gcd(12,3)=3$. It splits into 3 identical components.
+3. $\{12/3\}$ is disconnected since $\gcd(12,3)=3$. It splits into 3 identical components. Since 12 and 3 have common factors besides 1, so it is a compound star polygon. Compound star polygons are not connected. You have to lift up your pen/pencil to create it.
 
 4. Yes. $\{10/3\}$ and $\{10/7\}$ are identical because $\{n/k\}=\{n/(n-k)\}$.
 
@@ -50,6 +50,10 @@ $$
 $$
 \alpha=180^\circ-\theta=180^\circ-\frac{1440^\circ}{11}=\frac{540^\circ}{11}\approx49.09^\circ
 $$
+
+7. Sketch should show six equally spaced dots where every second dot is connected (notation $\{6/2\}$).
+
+![Six equally spaced dots where every second dot is connected.](images/ch2-step2-6-2-connected.svg){width=50%}
 
 ## Chapter 3: Sequences
 

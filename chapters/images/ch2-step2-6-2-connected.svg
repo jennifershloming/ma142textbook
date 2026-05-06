@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Six equally spaced dots where every second dot is connected">
+  <rect width="240" height="240" fill="white"/>
+
+  <!-- {6/2}: two cycles (two equilateral triangles) -->
+  <polyline points="120,36 192.75,162 47.25,162 120,36" fill="none" stroke="#1f2937" stroke-width="3" stroke-linejoin="round"/>
+  <polyline points="192.75,78 120,204 47.25,78 192.75,78" fill="none" stroke="#1f2937" stroke-width="3" stroke-linejoin="round"/>
+
+  <circle cx="120" cy="36" r="7" fill="#1f2937"/>
+  <circle cx="192.75" cy="78" r="7" fill="#1f2937"/>
+  <circle cx="192.75" cy="162" r="7" fill="#1f2937"/>
+  <circle cx="120" cy="204" r="7" fill="#1f2937"/>
+  <circle cx="47.25" cy="162" r="7" fill="#1f2937"/>
+  <circle cx="47.25" cy="78" r="7" fill="#1f2937"/>
+</svg>
