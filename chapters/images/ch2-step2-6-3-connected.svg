@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-label="Six equally spaced dots where every third dot is connected and each dot is used once">
+  <rect width="240" height="240" fill="white"/>
+
+  <!-- {6/3}: three disjoint segments (each dot used once) -->
+  <line x1="120" y1="36" x2="120" y2="204" stroke="#1f2937" stroke-width="3" stroke-linecap="round"/>
+  <line x1="192.75" y1="78" x2="47.25" y2="162" stroke="#1f2937" stroke-width="3" stroke-linecap="round"/>
+  <line x1="192.75" y1="162" x2="47.25" y2="78" stroke="#1f2937" stroke-width="3" stroke-linecap="round"/>
+
+  <circle cx="120" cy="36" r="7" fill="#1f2937"/>
+  <circle cx="192.75" cy="78" r="7" fill="#1f2937"/>
+  <circle cx="192.75" cy="162" r="7" fill="#1f2937"/>
+  <circle cx="120" cy="204" r="7" fill="#1f2937"/>
+  <circle cx="47.25" cy="162" r="7" fill="#1f2937"/>
+  <circle cx="47.25" cy="78" r="7" fill="#1f2937"/>
+</svg>

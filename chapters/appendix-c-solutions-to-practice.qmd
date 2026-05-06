@@ -51,9 +51,10 @@ $$
 \alpha=180^\circ-\theta=180^\circ-\frac{1440^\circ}{11}=\frac{540^\circ}{11}\approx49.09^\circ
 $$
 
-7. Sketch should show six equally spaced dots where every second dot is connected (notation $\{6/2\}$).
+7. Sketches should show all unique star polygons for $\{6/k\}$:
 
-![Six equally spaced dots where every second dot is connected.](images/ch2-step2-6-2-connected.svg){width=50%}
+| ![Six equally spaced dots where each dot is connected to the next one.](images/ch2-step2-6-1-connected.svg){width=95%}<br>$\{6/1\}=\{6/5\}$ | ![Six equally spaced dots where every second dot is connected.](images/ch2-step2-6-2-connected.svg){width=95%}<br>$\{6/2\}=\{6/4\}$ | ![Six equally spaced dots where every third dot is connected and every dot is used once.](images/ch2-step2-6-3-connected.svg){width=95%}<br>$\{6/3\}$ |
+|:---:|:---:|:---:|
 
 ## Chapter 3: Sequences
 
