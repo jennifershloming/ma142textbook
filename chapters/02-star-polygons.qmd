@@ -200,10 +200,6 @@ How can you tell without drawing which ones will be identical?
 
 **You can tell without drawing which Star Polygons are going to be <span style="color:#1d4ed8;">identical</span> by using the following:**
 
-$$
-\{n/k\} = \{n/(n-k)\}
-$$
-
 If this formula looks complicated you can just remember that <span style="color:#1d4ed8;">two Star Polygons are identical when the $n$ values are the same and the bottom values added together give you the top.</span> That will tell you which ones will look exactly the same.
 
 How to think about it: If the Star Polygons are the same then they definitely need to have the same $n$, aka the same number of points. You cannot have an 8-pointed Star Polygon be identical to a 7-pointed one. This should make sense, so you only need to think about the $k$ part for figuring these out.
@@ -211,10 +207,6 @@ How to think about it: If the Star Polygons are the same then they definitely ne
 Let us use this to figure out which Star Polygons are identical to (a) $\{10/2\}$, (b) $\{11/2\}$, and (c) $\{7/3\}$.
 
 So we will do this without drawing, using $\{n/k\} = \{n/(n-k)\}$.
-
-$$
-\{n/k\} = \{n/(n-k)\}
-$$
 
 (a) $\{n/k\} = \{n/(n-k)\}$ where $n = 10$ and $k = 2$.
 
