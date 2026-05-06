@@ -39,15 +39,13 @@ A **compound star polygon** is formed by overlapping regular polygons (for examp
 
 A regular star polygon can be drawn continuously. In a **regular star polygon**, n and k are **relatively prime**.
 
-### Angle Relationship
-
-For a full tracing of $\{n/k\}$, each step turns by
+The **turning angle** (or **turn angle**) for a full tracing of $\{n/k\}$ is
 
 $$
 \theta = \frac{360^\circ k}{n}.
 $$
 
-The visible point angle at each star tip is
+The **tip angle** is the visible point angle at each star tip:
 
 $$
 \alpha = 180^\circ - \theta = 180^\circ - \frac{360^\circ k}{n}.
@@ -194,7 +192,11 @@ There is a way to know without actually drawing them.
 
 Without drawing any Star Polygons for $n = 5$, you should be able to know that $\{5/1\}$ is identical to $\{5/4\}$ and $\{5/2\}$ is identical to $\{5/3\}$.
 
-How can you tell without drawing which ones will be identical?
+::: {.callout-important appearance="simple" icon=false}
+**Think About It:** How can you tell without drawing which ones will be identical?
+
+Pause here and try to answer this before reading Section 2.3.2.
+:::
 
 ### Identical Star Polygons
 
@@ -248,7 +250,7 @@ Okay, let us go back and summarize which identical Star Polygons we have for all
 - $\{8/2\} = \{8/6\}$
 - $\{8/3\} = \{8/5\}$
 
-When you have identical star polygons you do not need to draw the duplicates. You only have to draw UNIQUE ones if you are asked to create all polygons with a certain $n$.
+**When you have identical star polygons you do not need to draw the duplicates. You only have to draw UNIQUE ones if you are asked to create all polygons with a certain $n$.**
 
 Example: Draw all Star Polygons for $n = 8$.
 
@@ -281,7 +283,13 @@ This means you draw all the Star Polygons that have 8 points around a circle. We
 
 Above are all the Star Polygons with 8 points.
 
-Let us now talk about which ones require lifting your pen/pencil/mouse and which do not.
+Note how I only have to draw four star polygons. This is because we do not have to draw ones that are identical. We can list them with the equal sign as shown above.
+
+::: {.callout-important appearance="simple" icon=false}
+**Think About It:** Which of these require lifting your pen/pencil/mouse, and which do not?
+
+Pause here and decide before reading the classification below.
+:::
 
 ### Regular and Compound Star Polygons
 
