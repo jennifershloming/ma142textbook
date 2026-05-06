@@ -325,33 +325,33 @@ How can you tell without drawing which ones are going to be Regular and which ar
 
 **<span style="color:#9333ea;">A Regular Star Polygon is denoted by $\{n/k\}$, where $n$ and $k$ are relatively prime (they share no factors except 1) and $k \ge 2$.</span>** <span style="color:#9333ea;">A Compound Star Polygon has common factors besides 1.</span>
 
-$\{8/2\} = \{8/6\}$ and $\{8/4\}$ are Compound Star Polygons since there are common factors between the $n$ and $k$ values for each.
+$\{8/2\} = \{8/6\}$ and $\{8/4\}$ are **Compound Star Polygons since there are common factors between the $n$ and $k$ values for each**.
 
 $\{8/2\}$: $n = 8$ and $k = 2$.
 
-8 and 2 have a common factor of 2, so this is Compound (identical to $\{8/6\}$).
+8 and 2 have a **common factor of 2, so this is Compound** (identical to $\{8/6\}$).
 
 $\{8/4\}$: $n = 8$ and $k = 4$.
 
-8 and 4 have common factors of 2 and 4, so this is Compound.
+8 and 4 have **common factors of 2 and 4, so this is Compound**.
 
 Let us go over how in Regular Star Polygons the $n$ and $k$ are relatively prime for ones we mentioned:
 
 $\{8/1\}$: $n = 8$ and $k = 1$ (identical to $\{8/7\}$).
 
-8 and 1 have no common factors besides 1. This means the numbers are relatively prime, so this is Regular.
+8 and 1 have no common factors besides 1. This means the numbers are **relatively prime, so this is Regular.**
 
 $\{8/3\}$: $n = 8$ and $k = 3$ (identical to $\{8/5\}$).
 
-8 and 3 have no common factors besides 1. This means the numbers are relatively prime, so this is Regular.
+8 and 3 have no common factors besides 1. This means the numbers are **relatively prime, so this is Regular.**
 
 $\{5/1\}$: $n = 5$ and $k = 1$ (identical to $\{5/4\}$).
 
-5 and 1 have no common factors besides 1. This means the numbers are relatively prime, so this is Regular.
+5 and 1 have no common factors besides 1. This means the numbers are **relatively prime, so this is Regular.**
 
 $\{5/2\}$: $n = 5$ and $k = 2$ (identical to $\{5/3\}$).
 
-5 and 2 have no common factors besides 1. 5 and 2 are relatively prime, so this is Regular.
+5 and 2 have no common factors besides 1. 5 and 2 are **relatively prime, so this is Regular.**
 
 I just noticed this from typing: R with R and C with C.
 
@@ -407,19 +407,19 @@ Now for the answers to these three examples:
 
 (c) Classify as Regular or Compound:
 
-- Regular Star Polygons: $\{15/1\} = \{15/14\}$, $\{15/2\} = \{15/13\}$, $\{15/4\} = \{15/11\}$, $\{15/7\} = \{15/8\}$
-- Compound Star Polygons: $\{15/3\} = \{15/12\}$, $\{15/5\} = \{15/10\}$, $\{15/6\} = \{15/9\}$
+**Regular Star Polygons:**
 
-- I try to find something new every time I teach a topic and this time it is a new artwork that involves Star Polygons. From Spring 2024 I found THIS ONE. You can also check out HERE what I found from last semester too.
-- My favorite Desmos artist right now is Yodai Obonai who has some beautiful star polygon art and applied it to beautiful mandalas.
-- Click here for the animated version. So nice, right?
-- I remember loving string art when I was young and tried to make star polygon string art with my children. With minimal effort it was a success and fun for all of us. Pictures are below.
-- Feel free to play around with code to see how star polygons change. I recommend changing the number of points of the star, the number of points to skip, and I changed the color and the line thickness to make the three below. Feel free to show me some of your designs if you use this from Khan Academy.
-- Trying to create a star polygon without a ruler can be beautiful in its own way. Here I used this site and made the one on the left (star polygon) and the one on the right (a modified star polygon).
-- Do you have other ideas on how to use one, multiple star polygons, or modified star polygons? Maybe a logo. Or art that looks like it moves.
-- I have a Course FAQ with more examples of what was discussed in this mini-lecture if you want more practice.
-- I created the above from Star Polygon Generator.
-- My Pinterest board for my courses has more on Star Polygons too. Always feel free to send me a link to any mathematical topic we do. Here it is: https://www.pinterest.com/mathd0rk/for-my-courses/
+- $\{15/1\} = \{15/14\}$
+- $\{15/2\} = \{15/13\}$
+- $\{15/4\} = \{15/11\}$
+- $\{15/7\} = \{15/8\}$
+
+**Compound Star Polygons:**
+
+- $\{15/3\} = \{15/12\}$
+- $\{15/5\} = \{15/10\}$
+- $\{15/6\} = \{15/9\}$
+
 
 ### Tip and Turning Angles
 
@@ -568,5 +568,12 @@ Please note that you are ONLY using straight lines; no other type of line or you
 
 ## Further Reading and Interactive Activities
 
-* [Creating Star Polygons as String Art](https://mathinunexpectedspaces.wordpress.com/2017/12/10/star-o-rama-and-how-to-make-them/)
+* [Woven string art of Star Polygons](https://mathinunexpectedspaces.wordpress.com/2017/12/10/star-o-rama-and-how-to-make-them/)
+* [Star Polygon art work done with Bead crochet (glass beads and thread) and more](https://gallery.bridgesmathart.org/exhibitions/2014-joint-mathematics-meetings/ellie-baker)
+* [Star Polygon art applied to beautiful mandala animation by Yodai Obani](https://www.desmos.com/calculator/kzu6wauclc)
+* I remember loving string art when I was young and tried to make star polygon string art with my children during the Pandemic. With minimal effort it was a success and fun for all of us!
+* [Star Polygon Generator](http://starpolygons.com/Generator.aspx)
+* My Pinterest board for my courses has more on Star Polygons too. Always feel free to send me a link to any mathematical topic we do! Here it is: https://www.pinterest.com/mathd0rk/for-my-courses/
 * [Star Polygons from Wolfram](https://mathworld.wolfram.com/StarPolygon.html)
+* <span style="color:#1d4ed8;">Feel free to play around with code to see how star polygons change! I recommend changing the number of points of the star; the number of points to skip; and I changed the color and the line thickness to make the three below. Feel free to show me some of your designs if you use [this link](https://www.khanacademy.org/computer-programming/star-creator/823072130) from Khan Academy.</span>
+* <span style="color:#1d4ed8;">Trying to create a star polygon without a ruler can be beautiful in its own way! I used [this site](https://codepen.io/amit_sheen/full/QWyzyoe) and made star polygons and modified star polygons.</span>
