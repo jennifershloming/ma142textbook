@@ -3,30 +3,41 @@
   <rect width="200" height="200" fill="white"/>
   
   <!-- Draw the star polygon {9/4} -->
-  <!-- Nine dots equally spaced on a circle, every 4th dot connected -->
+  <!-- Nine dots equally spaced on a circle, connecting every 4th dot -->
+  <!-- Center: (100, 100), Radius: 80 -->
+  <!-- Connection sequence: 0 → 4 → 8 → 3 → 7 → 2 → 6 → 1 → 5 → 0 -->
   
-  <!-- Define points on a circle with radius 80, centered at (100, 100) -->
-  <!-- Angles: 0°, 40°, 80°, 120°, 160°, 200°, 240°, 280°, 320° -->
+  <!-- Dot positions (starting at top, going clockwise):
+       Dot 0: (100, 20)
+       Dot 1: (151.42, 38.72)
+       Dot 2: (178.79, 86.11)
+       Dot 3: (169.28, 140)
+       Dot 4: (127.36, 175.17)
+       Dot 5: (72.64, 175.17)
+       Dot 6: (30.72, 140)
+       Dot 7: (21.21, 86.11)
+       Dot 8: (48.58, 38.72)
+  -->
   
   <!-- Lines connecting every 4th dot: 0→4→8→3→7→2→6→1→5→0 -->
-  <line x1="100" y1="20" x2="155.23" y2="64.70" stroke="black" stroke-width="2"/>
-  <line x1="155.23" y1="64.70" x2="130.90" y2="150" stroke="black" stroke-width="2"/>
-  <line x1="130.90" y1="150" x2="44.77" y2="104.70" stroke="black" stroke-width="2"/>
-  <line x1="44.77" y1="104.70" x2="69.10" y2="20" stroke="black" stroke-width="2"/>
-  <line x1="69.10" y1="20" x2="155.23" y2="155.30" stroke="black" stroke-width="2"/>
-  <line x1="155.23" y1="155.30" x2="30.90" y2="150" stroke="black" stroke-width="2"/>
-  <line x1="30.90" y1="150" x2="100" y2="20" stroke="black" stroke-width="2"/>
-  <line x1="100" y1="20" x2="130.90" y2="50" stroke="black" stroke-width="2"/>
-  <line x1="130.90" y1="50" x2="100" y2="20" stroke="black" stroke-width="2"/>
+  <line x1="100" y1="20" x2="127.36" y2="175.17" stroke="black" stroke-width="2"/>
+  <line x1="127.36" y1="175.17" x2="48.58" y2="38.72" stroke="black" stroke-width="2"/>
+  <line x1="48.58" y1="38.72" x2="169.28" y2="140" stroke="black" stroke-width="2"/>
+  <line x1="169.28" y1="140" x2="21.21" y2="86.11" stroke="black" stroke-width="2"/>
+  <line x1="21.21" y1="86.11" x2="178.79" y2="86.11" stroke="black" stroke-width="2"/>
+  <line x1="178.79" y1="86.11" x2="72.64" y2="175.17" stroke="black" stroke-width="2"/>
+  <line x1="72.64" y1="175.17" x2="151.42" y2="38.72" stroke="black" stroke-width="2"/>
+  <line x1="151.42" y1="38.72" x2="30.72" y2="140" stroke="black" stroke-width="2"/>
+  <line x1="30.72" y1="140" x2="100" y2="20" stroke="black" stroke-width="2"/>
   
   <!-- Draw the nine dots -->
   <circle cx="100" cy="20" r="3" fill="black"/>
-  <circle cx="155.23" cy="64.70" r="3" fill="black"/>
-  <circle cx="155.23" cy="155.30" r="3" fill="black"/>
-  <circle cx="100" cy="180" r="3" fill="black"/>
-  <circle cx="44.77" cy="155.30" r="3" fill="black"/>
-  <circle cx="44.77" cy="64.70" r="3" fill="black"/>
-  <circle cx="69.10" cy="20" r="3" fill="black"/>
-  <circle cx="130.90" cy="50" r="3" fill="black"/>
-  <circle cx="130.90" cy="150" r="3" fill="black"/>
+  <circle cx="151.42" cy="38.72" r="3" fill="black"/>
+  <circle cx="178.79" cy="86.11" r="3" fill="black"/>
+  <circle cx="169.28" cy="140" r="3" fill="black"/>
+  <circle cx="127.36" cy="175.17" r="3" fill="black"/>
+  <circle cx="72.64" cy="175.17" r="3" fill="black"/>
+  <circle cx="30.72" cy="140" r="3" fill="black"/>
+  <circle cx="21.21" cy="86.11" r="3" fill="black"/>
+  <circle cx="48.58" cy="38.72" r="3" fill="black"/>
 </svg>
