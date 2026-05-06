@@ -357,6 +357,10 @@ I just noticed this from typing: R with R and C with C.
 
 **Relatively Prime means Regular Star Polygon and Common Factors means Compound Star Polygon!!!** I am way too excited about this but hopefully it will help you remember how to properly classify these Star Polygons.
 
+The figure is connected exactly when $\gcd(n, k) = 1$.
+
+If $\gcd(n,k)=d>1$, then the figure is disconnected and splits into $d$ identical components.
+
 Let us now make sure you understand what was discussed in this mini-lecture.
 
 Example:
@@ -368,6 +372,16 @@ Example:
 (c) Classify them as either Regular Star Polygons or Compound Star Polygons.
 
 When you are ready [CLICK HERE](https://docs.google.com/a/fitnyc.edu/document/d/1AjiImFQjbEiBFDmvcMpFAl3RnqYKyKjpJBBVzBIgk5Y/edit?usp=sharing) to see my answers.
+
+::: {.content-visible when-format="html"}
+<iframe
+   src="https://docs.google.com/document/d/1AjiImFQjbEiBFDmvcMpFAl3RnqYKyKjpJBBVzBIgk5Y/preview"
+   style="width:100%; min-height:900px; border:1px solid #d1d5db; border-radius:8px;"
+   loading="lazy"
+   referrerpolicy="no-referrer"
+   title="Solutions document embed">
+</iframe>
+:::
 
 - I try to find something new every time I teach a topic and this time it is a new artwork that involves Star Polygons. From Spring 2024 I found THIS ONE. You can also check out HERE what I found from last semester too.
 - My favorite Desmos artist right now is Yodai Obonai who has some beautiful star polygon art and applied it to beautiful mandalas.
