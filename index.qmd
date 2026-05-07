@@ -10,31 +10,22 @@ This textbook is written for anyone who is curious about geometry, especially no
 
 Geometry appears in design, architecture, art, nature, and everyday problem solving. I hope you start noticing all the geometry around you! This course highlights those connections while building your confidence with core geometric ideas.
 
-Use this text as your course guide:
-
-- Read through the short concept explanations.
-- Use index cards for key terms and formulas. Review those regularly.
-- Study worked examples step by step.
-- Practice with exercises.
-- Connect geometric ideas to visual design.
-- Create your own geometric art.
-
 ## How To Use This Text
 
 In Chapters 2 through 8, you will see the same flow each time so you always know what to expect.
 
-1. Learning goals so you know what to focus on.
-2. Key terms and formulas (or one key idea for that chapter).
-3. A short mini-lecture or worked example to walk you through the math.
-4. Practice so you can try the ideas right away.
-5. Art and design connections to show where geometry appears in the real world.
-6. A creative assignment, with examples and inspiration to get you started.
-7. Exercises to build confidence and accuracy.
-8. Further reading and interactive activities if you want to go deeper.
+1. **Learning goals** so you know what the chapter focus is on.
+2. **Key terms and formulas** (use index cards for key terms and formulas; review those regularly).
+3. **Mini-lectures** that are the content areas with explanations and worked out examples to walk you through the math.
+4. **Practice** problems so you can try the ideas right away.
+5. **Art and design connections** to show where these geometric topics appears in the real world.
+6. A **creative assignment** to connect geometric ideas to a visual design. There are examples and inspiration to get you started. This is where you create your own geometric art.
+7. **Exercises** to build confidence and accuracy.
+8. **Further reading and interactive activities** if you want to feel more confident in the topic and or go deeper.
 
 ## Suggested Chapter Workflow
 
-Move through each chapter slowly. Take notes, sketch diagrams, and work through each problem step by step.
+Move through each chapter slowly. Bring your pens or pencils, notebook or binder, and a calculator (if you feel you need one) when you are going through the material. Take notes, sketch diagrams, and work through each problem step by step. Use index cards for key terms and formulas. Review those regularly.
 
 In the Exercises section, I include an active Google Doc link for FIT students and faculty so you can keep practicing and checking your understanding.
 
