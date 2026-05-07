@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Tetrahedron: 3D wireframe with one face shaded -->
+  <!-- Vertices:
+       A = top center: (100, 20)
+       B = bottom left: (30, 160)
+       C = bottom right: (170, 160)
+       D = middle back: (100, 110)
+  -->
+
+  <!-- Back face (lighter, hidden feel) -->
+  <polygon points="100,20 30,160 100,110" fill="#c8dff5" stroke="#2255aa" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="100,20 170,160 100,110" fill="#ddeeff" stroke="#2255aa" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Dashed hidden edge from B to D to C -->
+  <line x1="30" y1="160" x2="100" y2="110" stroke="#2255aa" stroke-width="1.2" stroke-dasharray="5,4"/>
+  <line x1="170" y1="160" x2="100" y2="110" stroke="#2255aa" stroke-width="1.2" stroke-dasharray="5,4"/>
+
+  <!-- Front face -->
+  <polygon points="100,20 30,160 170,160" fill="#a8c8f0" fill-opacity="0.7" stroke="#1a3a88" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Vertices -->
+  <circle cx="100" cy="20" r="4" fill="#1a3a88"/>
+  <circle cx="30" cy="160" r="4" fill="#1a3a88"/>
+  <circle cx="170" cy="160" r="4" fill="#1a3a88"/>
+  <circle cx="100" cy="110" r="4" fill="#1a3a88"/>
+</svg>

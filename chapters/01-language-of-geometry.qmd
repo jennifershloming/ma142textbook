@@ -111,6 +111,11 @@ These are starter examples, and we will build confidence step by step.
 
 △
 
+<figure style="text-align:center; margin: 1rem auto;">
+   <img src="images/ch1-tetrahedron.svg" alt="A tetrahedron, a three-dimensional solid with four triangular faces." style="width:35%; max-width:100%; height:auto;" />
+   <figcaption style="text-align:center; margin-top:0.5rem;">A tetrahedron — a three-dimensional solid with four triangular faces.</figcaption>
+</figure>
+
 ## Creative Assignment
 
 ### How Creative Homework Assignments Work
@@ -142,11 +147,10 @@ If you check the course site you will see that it helps me know who my students 
 
 ### Creative Assignment Submission
 
-If you are currently enrolled in a MA142 course from Dr. Jennifer R. Shloming then will be posting on a Padlet every module or unit. 
-You need to either:
-- Write your name somewhere on the Padlet. 
-- Log in to the Padlet using your FIT google account and then post. You will see your name on the padlet post automatically if you do this. I much prefer this for you!
-If you log in to the Padlet you will always see your post even if it is on hidden (which all the padlets are initially). If you just post on a padlet without logging in you will not be able to see it.
+- If you are currently enrolled in a MA142 course from Dr. Jennifer R. Shloming then you will be posting on a Padlet every module or unit.
+- You need to either: Write your name somewhere on the Padlet; or, log in to the Padlet using your FIT google account and then post. You will see your name on the padlet post automatically if you log in and do this. I much prefer this for you!
+- If you log in to the Padlet you will always see your post even if it is on hidden (which all the padlets are initially).
+- If you just post on a padlet without logging in you will not be able to see it.
 
 ### Voting on Your Favorite Creative Assignment
 
