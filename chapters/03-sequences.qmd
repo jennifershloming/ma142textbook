@@ -17,31 +17,31 @@ title: "3. Sequences"
 
 ## Key Terms and Formulas
 
-An arithmetic sequence has a constant difference $d$.
+An **arithmetic sequence** has a constant difference $d$.
 
 $$
 a_n = a_1 + (n-1)d
 $$
 
-Recursive form:
+**Recursive** form:
 
 $$
 a_n = a_{n-1}+d, \quad n\ge 2
 $$
 
-A geometric sequence has a constant ratio $r$.
+A **geometric sequence** has a constant ratio $r$.
 
 $$
 a_n = a_1 r^{n-1}
 $$
 
-Recursive form:
+**Recursive** form:
 
 $$
 a_n = r\,a_{n-1}, \quad n\ge 2
 $$
 
-Method of Successive Differences:
+**Method of Successive Differences**:
 
 $$
 \Delta a_n = a_{n+1}-a_n
@@ -65,22 +65,27 @@ $$
 
 ### Sequences
 
-#### Sequences and Successive Differences
-
 We will jump right in.
 
 $3, 7, 11, 15, 19, 23, \ldots$
 
-A number sequence is a list of numbers having a first number, a second number, a third number, and so on. These numbers are called terms. We use the three dots (ellipsis) in the sequence to indicate it goes on in this pattern forever.
+A **number sequence** is a list of numbers having a first number, a second number, a third number, and so on. These numbers are called **terms**. We use the three dots (ellipsis) in the sequence to indicate it goes on in this pattern forever.
 
-Can you figure out the next term in the sequence above? What comes after 23:
+Can you figure out the next term in the sequence above?
+
+What comes after 23:
 
 $3, 7, 11, 15, 19, 23, \ldots$
 
+- There is a pattern going on in this sequence. Some mathematical operation is happening over and over again from one term to the next.
 - Each number is obtained by adding 4 to the previous term.
 - $23 + 4 = 27$, so 27 is the answer.
 
 I want you to now do the following examples.
+
+::: {.callout-important appearance="simple" icon=false}
+**Think About It:** Look for what keeps happening from one term to the next. Once you figure that out, perform the same operation on the last term in each sequence to get the next number.
+:::
 
 Determine the probable next number in these sequences:
 
@@ -94,21 +99,21 @@ Have your answers ready?
 Let us see how you did.
 
 - Example 1: $1, 2, 4, 8, 16, 32$  
-   (You are multiplying by 2 to get to the next term.)
+   <span style="color:#c2185b;">(You are **multiplying by** 2 to get to the next term.)</span>
 - Example 2: $1, 1, 2, 3, 5, 8, 13$  
-   (You are adding the 2 previous terms to get to the next term.)
+   <span style="color:#c2185b;">(You are **adding** the 2 previous terms to get to the next term.)</span>
 - Example 3: $3, 9, 15, 21, 27, 33$  
-   (You are adding 6 to get to the next term.)
+   <span style="color:#c2185b;">(You are **adding** 6 to get to the next term.)</span>
 - Example 4: $5, 10, 20, 40, 80, 160$  
-   (You are multiplying by 2 to get to the next term.)
+   <span style="color:#c2185b;">(You are **multiplying by** 2 to get to the next term.)</span>
 
-An arithmetic sequence is made by adding the same value each time. The value being added is called the common difference.
+<span style="color:#c2185b;">An **Arithmetic Sequence** is made by **adding** the same value each time. The value being **added** is called the common difference.</span>
 
 In Example 3 we see an arithmetic sequence and it has common difference 6:
 
 $3, 9, 15, 21, 27, 33$
 
-A geometric sequence is made by multiplying the same value each time. The value being multiplied is called the common ratio.
+<span style="color:#c2185b;">A **Geometric Sequence** is made by **multiplying** the same value each time. The value being **multiplied** is called the common ratio.</span>
 
 In Examples 1 and 4 we see geometric sequences and each has common ratio 2:
 
@@ -138,6 +143,17 @@ Can you also classify this sequence as arithmetic, geometric, or neither? Since 
 
 I now want you to do examples where you determine whether each sequence is arithmetic, geometric, or neither.
 
+::: {.callout-tip appearance="simple" icon=false}
+**Check Your Understanding:** Before moving on, make sure you can answer the following:
+
+- Can you distinguish between an arithmetic sequence and a geometric sequence?
+- Can you find the common difference in an arithmetic sequence?
+- Can you find the common ratio in a geometric sequence?
+- What should you do when a sequence appears to be neither arithmetic nor geometric?
+
+If you feel confident about all four, you are ready for the examples below!
+:::
+
 Arithmetic, geometric, or neither?
 
 - Example 1: $2, 6, 18, 54, 162, \ldots$
@@ -158,7 +174,7 @@ You can watch me explain these examples in this video.
 
 ### Successive Differences
 
-Often, the method of successive differences may be applied to determine the next term in a sequence. This method is especially useful when sequences are more difficult, like
+Often, <span style="color:#c2185b;">**the method of successive differences**</span> may be applied to determine the next term in a sequence. This method is especially useful when sequences are more difficult, like
 
 $3, 19, 165, 771, 2503, 6483, 14409, \ldots$
 
