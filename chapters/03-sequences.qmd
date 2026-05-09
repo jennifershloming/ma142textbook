@@ -63,19 +63,218 @@ $$
 
 ## Mini-Lecture
 
-An arithmetic sequence starts $5, 8, 11, 14, \dots$.
+### Sequences
 
-Here, $a_1=5$ and $d=3$, so
+#### Sequences and Successive Differences
+
+We will jump right in.
+
+$3, 7, 11, 15, 19, 23, \ldots$
+
+A number sequence is a list of numbers having a first number, a second number, a third number, and so on. These numbers are called terms. We use the three dots (ellipsis) in the sequence to indicate it goes on in this pattern forever.
+
+Can you figure out the next term in the sequence above? What comes after 23:
+
+$3, 7, 11, 15, 19, 23, \ldots$
+
+- Each number is obtained by adding 4 to the previous term.
+- $23 + 4 = 27$, so 27 is the answer.
+
+I want you to now do the following examples.
+
+Determine the probable next number in these sequences:
+
+- Example 1: $1, 2, 4, 8, 16, \ldots$
+- Example 2: $1, 1, 2, 3, 5, 8, \ldots$
+- Example 3: $3, 9, 15, 21, 27, \ldots$
+- Example 4: $5, 10, 20, 40, 80, \ldots$
+
+Have your answers ready?
+
+Let us see how you did.
+
+- Example 1: $1, 2, 4, 8, 16, 32$  
+   (You are multiplying by 2 to get to the next term.)
+- Example 2: $1, 1, 2, 3, 5, 8, 13$  
+   (You are adding the 2 previous terms to get to the next term.)
+- Example 3: $3, 9, 15, 21, 27, 33$  
+   (You are adding 6 to get to the next term.)
+- Example 4: $5, 10, 20, 40, 80, 160$  
+   (You are multiplying by 2 to get to the next term.)
+
+An arithmetic sequence is made by adding the same value each time. The value being added is called the common difference.
+
+In Example 3 we see an arithmetic sequence and it has common difference 6:
+
+$3, 9, 15, 21, 27, 33$
+
+A geometric sequence is made by multiplying the same value each time. The value being multiplied is called the common ratio.
+
+In Examples 1 and 4 we see geometric sequences and each has common ratio 2:
+
+$1, 2, 4, 8, 16, 32$ and $5, 10, 20, 40, 80, 160$
+
+$1, 1, 2, 3, 5, 8, 13$ is my favorite sequence. It is not arithmetic nor geometric. It has a special name. Do you remember what it is? We will talk about it soon.
+
+I just want to mention that people use sequences a lot in various ways. You may not be given a sequence written in proper form in your everyday life, but that does not mean you cannot recognize patterns and rewrite data as sequences.
+
+Let us say you are a fairly new influencer and partner with a certain brand in an advertising campaign. You predict the number of hits on a featured post will double each day. You round to the nearest hundred to collect your data.
+
+This rounded data would look like:
+
+| Day | 1 | 2 | 3 | 4 | 5 | ... |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hits | 200 | 400 | 800 | 1600 | 3200 | ... |
+
+If your model holds true and continues this way, how many hits will you expect at the end of the week? We will predict day 7.
+
+Write the hits as a sequence:
+
+$200, 400, 800, 1600, 3200, \ldots$
+
+The next term is 6400 (day 6), but we want day 7, so the next term is 12,800 hits (rounded to the nearest hundred).
+
+Can you also classify this sequence as arithmetic, geometric, or neither? Since we multiply by 2 each time, it is geometric.
+
+I now want you to do examples where you determine whether each sequence is arithmetic, geometric, or neither.
+
+Arithmetic, geometric, or neither?
+
+- Example 1: $2, 6, 18, 54, 162, \ldots$
+- Example 2: $1, 3, 9, 27, 81, \ldots$
+- Example 3: $3, 8, 13, 18, 23, \ldots$
+- Example 4: $1, 3, 6, 10, 15, \ldots$
+- Example 5: $2, 6, 22, 56, 114, \ldots$
+
+Done? Let us see how you did.
+
+- Example 1: geometric, common ratio 3 (486 is the next term).
+- Example 2: geometric, common ratio 3 (243 is the next term).
+- Example 3: arithmetic, common difference 5 (28 is the next term).
+- Example 4: neither, since there is no common difference nor common ratio (21 is the next term). We are going to talk about this special sequence later on.
+- Example 5: neither, since there is no common difference nor common ratio (202 is the next term). Here it is not obvious what the next term is going to be.
+
+You can watch me explain these examples in this video.
+
+### Successive Differences
+
+Often, the method of successive differences may be applied to determine the next term in a sequence. This method is especially useful when sequences are more difficult, like
+
+$3, 19, 165, 771, 2503, 6483, 14409, \ldots$
+
+The method of successive differences involves repeated subtraction until the difference is a constant value. Once you have a row of constant values, work backward by adding until the desired term of the original sequence is obtained.
+
+This might sound confusing right now, but after an example or two, you will get the hang of it.
+
+We will start with Example 1 in Section 1.2:
+
+Use the method of successive differences to determine the next number in each sequence.
+
+(a) $14, 22, 32, 44, \ldots$
+
+1. Write the numbers spread out and put a blank for the number we are looking for:
+
+    $14 \quad 22 \quad 32 \quad 44 \quad \underline{\hspace{1.5cm}}$
+
+2. Subtract each term from the next:
+
+    $$
+    22-14=8, \quad 32-22=10, \quad 44-32=12
+    $$
+
+    Row of first differences: $8, 10, 12, \underline{\hspace{1cm}}$
+
+3. The new row is not constant, so subtract again:
+
+    $$
+    10-8=2, \quad 12-10=2
+    $$
+
+    Row of second differences: $2, 2, \underline{\hspace{1cm}}$
+
+4. Since the second differences are constant (2), fill in the bottom blank with 2.
+
+5. Work upward by addition:
+
+    - $12 + 2 = 14$
+    - $44 + 14 = 58$
+
+So the next term is **58**.
+
+You can watch a video with narration of me doing this example (with help from my son): HERE.
+
+Now work on the same process with part (b):
+
+$5, 15, 37, 77, 141, \ldots$
+
+Set up differences:
+
+- First differences: $10, 22, 40, 64, \underline{\hspace{1cm}}$
+- Second differences: $12, 18, 24, \underline{\hspace{1cm}}$
+- Third differences: $6, 6, \underline{\hspace{1cm}}$
+
+Once we have the row of constants, work backward:
+
+- Bottom blank is $6$.
+- Then $24 + 6 = 30$.
+- Then $64 + 30 = 94$.
+- Then $141 + 94 = 235$.
+
+So the next term is **235**.
+
+Bringing back Example 5,
+
+$2, 6, 22, 56, 114, \ldots$
+
+this sequence is neither arithmetic nor geometric, and the next term is **202**. You should now be able to see why using successive differences.
+
+I would like you now to work on Exercises 1 and 8 from your text in Section 1.2. Use the method of successive differences to determine the next number in each sequence:
+
+- 1) $1, 4, 11, 22, 37, 56, \ldots$
+- 8) $3, 19, 165, 771, 2503, 6483, 14409, \ldots$
+
+For the first exercise, did you get 79? If so, great. If not, check:
+
+- First differences: $3, 7, 11, 15, 19, \underline{\hspace{1cm}}$
+- Next row has constant 4.
+- Working upward gives 23, then $56 + 23 = 79$.
+
+For number 8, did you get 28,675? Keep trying if not.
+
+- The constant is 120.
+- The first blank above 120 is 696.
+
+I have a video of each step on how to do an example like number 8 above (from a decade ago):
+
+Video URL: <https://www.youtube.com/watch?v=v7_LuuyfTcE&feature=youtu.be>
+
+Believe it or not, finding the next term in a sequence is a popular kind of brain teaser.
+
+A game called Wordle is super popular right now (well, it was at the beginning of 2022; now many of my friends stopped but I keep going in 2025). One of my friends posted that there is a sequence version: Times Table Sequence.
+
+Sequences can be visual. We will see that soon. For Example 4 above on arithmetic, geometric, or neither, I made a video showing how $1, 3, 6, 10, 15, \ldots$ can look animated.
+
+You can also turn sequences into sounds and songs.
+
+You also see number sequences every day in NYC, such as house and apartment numbers. We also see certain sequences in nature and food, and we will talk a lot about that in the next mini-lecture.
+
+If I were a professor at Hogwarts, then to protect the stone I would use a difficult successive difference. You all would be able to help save the day.
+
+### Fibonacci Part 1
+
+The Fibonacci sequence begins
 
 $$
-a_n = 5 + (n-1)3 = 3n+2
+1, 1, 2, 3, 5, 8, 13, 21, \dots
 $$
 
-The 20th term is
+Each term is the sum of the two previous terms:
 
 $$
-a_{20} = 3(20)+2 = 62
+F_1=1, \quad F_2=1, \quad F_n = F_{n-1}+F_{n-2} \text{ for } n\ge 3.
 $$
+
+This is a recursive rule. Unlike arithmetic and geometric sequences, the amount added (or multiplied) is not constant.
 
 ## Practice
 
