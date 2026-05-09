@@ -99,13 +99,22 @@ Have your answers ready?
 Let us see how you did.
 
 - Example 1: $1, 2, 4, 8, 16, 32$  
-   <span style="color:#c2185b;">(You are **multiplying by** 2 to get to the next term.)</span>
+   <span style="color:#c2185b;">You are **multiplying by** 2 to get to the next term.</span>
+
+---
+
 - Example 2: $1, 1, 2, 3, 5, 8, 13$  
-   <span style="color:#c2185b;">(You are **adding** the 2 previous terms to get to the next term.)</span>
+   <span style="color:#c2185b;">You are **adding** the 2 previous terms to get to the next term.</span>
+
+---
+
 - Example 3: $3, 9, 15, 21, 27, 33$  
-   <span style="color:#c2185b;">(You are **adding** 6 to get to the next term.)</span>
+   <span style="color:#c2185b;">You are **adding** 6 to get to the next term.</span>
+
+---
+
 - Example 4: $5, 10, 20, 40, 80, 160$  
-   <span style="color:#c2185b;">(You are **multiplying by** 2 to get to the next term.)</span>
+   <span style="color:#c2185b;">You are **multiplying by** 2 to get to the next term.</span>
 
 <span style="color:#c2185b;">An **Arithmetic Sequence** is made by **adding** the same value each time. The value being **added** is called the common difference.</span>
 
@@ -164,13 +173,25 @@ Arithmetic, geometric, or neither?
 
 Done? Let us see how you did.
 
-- Example 1: geometric, common ratio 3 (486 is the next term).
-- Example 2: geometric, common ratio 3 (243 is the next term).
-- Example 3: arithmetic, common difference 5 (28 is the next term).
-- Example 4: neither, since there is no common difference nor common ratio (21 is the next term). We are going to talk about this special sequence later on.
-- Example 5: neither, since there is no common difference nor common ratio (202 is the next term). Here it is not obvious what the next term is going to be.
+- Example 1: **geometric**, common ratio 3 (486 is the next term).
 
-You can watch me explain these examples in this video.
+---
+
+- Example 2: **geometric**, common ratio 3 (243 is the next term).
+
+---
+
+- Example 3: **arithmetic**, common difference 5 (28 is the next term).
+
+---
+
+- Example 4: **neither**, since there is no common difference nor common ratio (21 is the next term). We are going to talk about this special sequence later on.
+
+---
+
+- Example 5: **neither**, since there is no common difference nor common ratio (202 is the next term). Here it is not obvious what the next term is going to be.
+
+You can watch me explain these examples in [this video](https://www.loom.com/share/3159cc050b8041be8d66c50613536636).
 
 ### Successive Differences
 
@@ -178,7 +199,7 @@ Often, <span style="color:#c2185b;">**the method of successive differences**</sp
 
 $3, 19, 165, 771, 2503, 6483, 14409, \ldots$
 
-The method of successive differences involves repeated subtraction until the difference is a constant value. Once you have a row of constant values, work backward by adding until the desired term of the original sequence is obtained.
+The method of successive differences involves **repeated subtraction until the difference is a constant value**. Once you have a row of constant values, work backward by adding until the desired term of the original sequence is obtained.
 
 This might sound confusing right now, but after an example or two, you will get the hang of it.
 
