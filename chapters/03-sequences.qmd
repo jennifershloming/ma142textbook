@@ -233,7 +233,7 @@ e. Find the next term in $2, 6, 22, 56, 114, \ldots$
 
 a. Find the next term in $4, 9, 16, 25, \ldots$
 
-I want to explain slowly so you feel confident for the first example. We will follow the step-by-step instructions.
+I want to explain this one slowly so you feel confident for the first example. We will follow the step-by-step instructions.
 
 1. Let's write the numbers without commas and spread out and put a blank for the number we are looking for.
 
@@ -286,13 +286,62 @@ The last blank is in the row of constants so we fill that in with whatever the c
 
 So the next term is **36**.
 
+---
+
+Let's do one more example together step-by-step before moving a bit quicker.
+
 b. Find the next term in $1, 8, 27, 64, \ldots$
+
+I want to explain slowly so you feel confident for the second example. We will follow the same step-by-step instructions with different numbers.
+
+1. Let's write the numbers without commas and spread out and put a blank for the number we are looking for.
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+1     8     27    64    ____
+</pre>
+
+2. Now we subtract the first term from the second term, the second from the third, and so on.
+*Scrap: 8 - 1 = 7, 27 - 8 = 19, 64 - 27 = 37*
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+1     8     27    64    ____
+   7     19    37    ____
+</pre>
+
+3. Since our new row of differences is not constant, we subtract again. We subtract the first term from the second term, the second from the third, and so on.
+*Scrap: 19 - 7 = 12, 37 - 19 = 18*
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+1     8     27    64    ____
+   7     19    37    ____
+      12    18    ____
+</pre>
+
+4. Since our new row of differences is not constant yet, we subtract again. We subtract the first term from the second term, the second from the third, and so on.
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+1     8     27    64    ____
+   7     19    37    ____
+      12    18    ____
+         6     6     ⬅️
+</pre>
+
+5. Since our new row of differences is a constant, 6, we can start figuring out the blanks from the bottom up. The next blank in the row above the 6 represents a number, 24, that gives us 6 as the difference. We can figure it out by addition: 6 + 18 = 24.
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+1     8     27    64    ____
+   7     19    37    61
+      12    18    24
+         6     6     6
+</pre>
+
+6. We are up to the last blank. The last blank represents a number, 125, that gives us 61 as the difference. We can figure it out by addition: 61 + 64 = 125.
 
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
 1     8     27    64    125
    7     19    37    61
       12    18    24
-         6     6
+         6     6     6
 </pre>
 
 So the next term is **125**.
