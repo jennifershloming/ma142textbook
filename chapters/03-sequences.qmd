@@ -350,6 +350,14 @@ So the next term is **125**.
 Some of you may have taken a math class in the past where it took a while to work on a problem. There is a certain joy and proud feeling that should be evoked when you successfully complete a longer problem. I used to challenge students to do these without a calculator and you are welcome to do that for that extra difficulty but you are welcome to use a calculator to help you do the subtractions!
 :::
 
+::: {.callout-tip appearance="simple" icon=false}
+Now it is time for you to try the rest of the examples. Find the next term in each sequence below. Only scroll down when you have your answers.
+
+- c. $14, 22, 32, 44, \ldots$
+- d. $5, 15, 37, 77, 141, \ldots$
+- e. $2, 6, 22, 56, 114, \ldots$
+:::
+
 Use the method of successive differences to determine the next number in each sequence.
 
 c. $14, 22, 32, 44, \ldots$
@@ -362,7 +370,7 @@ c. $14, 22, 32, 44, \ldots$
 
 So the next term is **58**.
 
-You can watch a video with narration of me doing this example (with help from my son): HERE.
+You can watch a video with narration of me doing this example (with help from my son): <https://www.youtube.com/watch?v=9TgVv1CT5D8>.
 
 d. $5, 15, 37, 77, 141, \ldots$
 
@@ -386,26 +394,13 @@ e. $2, 6, 22, 56, 114, \ldots$
 
 This sequence is neither arithmetic nor geometric, and the next term is **202**. You should now be able to see why using successive differences.
 
+Now it is time to do two more, including the one from the beginning of this mini-lecture section! I believe you can do them both now. Once you finish the second one I hope you feel proud of yourself!
+
 Use the method of successive differences to determine the next number in each sequence:
 
-**Exercise 1:** $1, 4, 11, 22, 37, 56, \ldots$
+1) $1, 4, 11, 22, 37, 56, \ldots$
 
-<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
-1     4     11    22    37    56    79
-   3     7     11    15    19    23
-      4     4     4     4     4
-</pre>
-
-**Exercise 8:** $3, 19, 165, 771, 2503, 6483, 14409, \ldots$
-
-<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
-3       19      165     771     2503    6483    14409   28675
-    16      146     606     1732    3980    7926    14266
-        130     460     1126    2248    3946    6340
-            330     666     1122    1698    2394
-                336     456     576     696
-                    120     120     120
-</pre>
+2) $3, 19, 165, 771, 2503, 6483, 14409, \ldots$
 
 For the first exercise, did you get 79? If so, great. If not, check:
 
