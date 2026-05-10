@@ -207,32 +207,41 @@ The method of successive differences involves **repeated subtraction until the d
 
 This might sound confusing right now, but after an example or two, you will get the hang of it.
 
+::: {.callout-tip appearance="simple" icon=false}
 **Step-by-Step Instructions:**
 
-1. Let's write the numbers without commas and spread out; and put a blank for the number we are looking for:
+1. Let's write the numbers without commas and spread out; and put a blank for the number we are looking for.
 
-2. Now we subtract the first term from the second term, the second from the third, and so on:
+2. Now we subtract the first term from the second term, the second from the third, and so on.
 
-3. If our new row of differences is not constant, we subtract again. We subtract the first term from the second term, the second from the third, and so on:
+3. If our new row of differences is not constant, we subtract again. We subtract the first term from the second term, the second from the third, and so on.
 
 4. We stop subtracting when our new row of differences is a constant. This means we can start figuring out the blanks from the bottom up. The last blank is in the row of constants, so we fill that in with whatever the constant is.
 
 5. Let's continue filling in the blanks. We can figure it out by addition.
 
-6. Keep adding up to the last blank that is the next term of the given sequence!
+6. Keep adding up to the last blank that is the next term of the given sequence.
+:::
+
+We will do the following examples:
+
+a. Find the next term in $4, 9, 16, 25, \ldots$
+b. Find the next term in $1, 8, 27, 64, \ldots$
+c. Find the next term in $14, 22, 32, 44, \ldots$
+d. Find the next term in $5, 15, 37, 77, 141, \ldots$
+e. Find the next term in $2, 6, 22, 56, 114, \ldots$
 
 a. Find the next term in $4, 9, 16, 25, \ldots$
 
-::: {.callout-tip appearance="simple" icon=false}
 I want to explain slowly so you feel confident for the first example. We will follow the step-by-step instructions.
 
-1. Let's write the numbers without commas and spread out and put a blank for the number we are looking for:
+1. Let's write the numbers without commas and spread out and put a blank for the number we are looking for.
 
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
 4     9     16    25    ____
 </pre>
 
-2. Now we subtract the first term from the second term, the second from the third, and so on:
+2. Now we subtract the first term from the second term, the second from the third, and so on.
 Scrap: 9 - 4 = 5, 16 - 9 = 7, 25 - 16 = 9
 
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
@@ -240,7 +249,7 @@ Scrap: 9 - 4 = 5, 16 - 9 = 7, 25 - 16 = 9
    5     7     9     ____
 </pre>
 
-3. Since our new row of differences is not constant, we subtract again. We subtract the first term from the second term, the second from the third, and so on:
+3. Since our new row of differences is not constant, we subtract again. We subtract the first term from the second term, the second from the third, and so on.
 Scrap: 7 - 5 = 2, 9 - 7 = 2
 
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
@@ -274,7 +283,6 @@ The last blank is in the row of constants so we fill that in with whatever the c
    5     7     9     11
       2     2     2
 </pre>
-:::
 
 So the next term is **36**.
 
