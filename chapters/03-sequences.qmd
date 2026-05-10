@@ -242,7 +242,7 @@ I want to explain slowly so you feel confident for the first example. We will fo
 </pre>
 
 2. Now we subtract the first term from the second term, the second from the third, and so on.
-Scrap: 9 - 4 = 5, 16 - 9 = 7, 25 - 16 = 9
+*Scrap: 9 - 4 = 5, 16 - 9 = 7, 25 - 16 = 9*
 
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
 4     9     16    25    ____
@@ -250,7 +250,7 @@ Scrap: 9 - 4 = 5, 16 - 9 = 7, 25 - 16 = 9
 </pre>
 
 3. Since our new row of differences is not constant, we subtract again. We subtract the first term from the second term, the second from the third, and so on.
-Scrap: 7 - 5 = 2, 9 - 7 = 2
+*Scrap: 7 - 5 = 2, 9 - 7 = 2*
 
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
 4     9     16    25    ____
@@ -265,21 +265,21 @@ The last blank is in the row of constants so we fill that in with whatever the c
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
 4     9     16    25    ____
    5     7     9     ____
-      2     2     2
+   2     2     2 ⬅️
 </pre>
 
 5. Let's continue filling in the blanks. The next blank in the row above the 2 represents a number, 11, that gives us 2 as the difference. We can figure it out by addition: 2 + 9 = 11.
 
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
 4     9     16    25    ____
-   5     7     9     11
+   5     7     9     11 ⬅️
       2     2     2
 </pre>
 
 6. We are up to the last blank. The last blank represents a number, 36, that gives us 11 as the difference. We can figure it out by addition: 11 + 25 = 36.
 
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
-4     9     16    25    36
+4     9     16    25    36 ⬅️
    5     7     9     11
       2     2     2
 </pre>
