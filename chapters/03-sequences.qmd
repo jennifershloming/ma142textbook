@@ -148,7 +148,9 @@ $200, 400, 800, 1600, 3200, \ldots$
 
 The next term is 6400 (day 6), but we want day 7, so the next term is 12,800 hits (rounded to the nearest hundred).
 
-Can you also classify this sequence as arithmetic, geometric, or neither? Since we multiply by 2 each time, it is geometric.
+Can you also classify this sequence as arithmetic, geometric, or neither?
+
+Since we multiply by 2 each time, it is geometric.
 
 I now want you to do examples where you determine whether each sequence is arithmetic, geometric, or neither.
 
@@ -199,17 +201,80 @@ Often, <span style="color:#c2185b;">**the method of successive differences**</sp
 
 $3, 19, 165, 771, 2503, 6483, 14409, \ldots$
 
+(We will figure this one out soon!)
+
 The method of successive differences involves **repeated subtraction until the difference is a constant value**. Once you have a row of constant values, work backward by adding until the desired term of the original sequence is obtained.
 
 This might sound confusing right now, but after an example or two, you will get the hang of it.
 
+**Step-by-Step Instructions:**
+
+1. Let's write the numbers without commas and spread out; and put a blank for the number we are looking for:
+
+2. Now we subtract the first term from the second term, the second from the third, and so on:
+
+3. If our new row of differences is not constant, we subtract again. We subtract the first term from the second term, the second from the third, and so on:
+
+4. We stop subtracting when our new row of differences is a constant. This means we can start figuring out the blanks from the bottom up. The last blank is in the row of constants, so we fill that in with whatever the constant is.
+
+5. Let's continue filling in the blanks. We can figure it out by addition.
+
+6. Keep adding up to the last blank that is the next term of the given sequence!
+
 a. Find the next term in $4, 9, 16, 25, \ldots$
+
+::: {.callout-tip appearance="simple" icon=false}
+I want to explain slowly so you feel confident for the first example. We will follow the step-by-step instructions.
+
+1. Let's write the numbers without commas and spread out and put a blank for the number we are looking for:
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+4     9     16    25    ____
+</pre>
+
+2. Now we subtract the first term from the second term, the second from the third, and so on:
+Scrap: 9 - 4 = 5, 16 - 9 = 7, 25 - 16 = 9
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+4     9     16    25    ____
+   5     7     9     ____
+</pre>
+
+3. Since our new row of differences is not constant, we subtract again. We subtract the first term from the second term, the second from the third, and so on:
+Scrap: 7 - 5 = 2, 9 - 7 = 2
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+4     9     16    25    ____
+   5     7     9     ____
+      2     2     ____
+</pre>
+
+4. Since our new row of differences is a constant, 2, we do not need to subtract anymore. This means we can start figuring out the blanks from the bottom up.
+
+The last blank is in the row of constants so we fill that in with whatever the constant is. In this case the constant is 2, so that is the last blank.
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+4     9     16    25    ____
+   5     7     9     ____
+      2     2     2
+</pre>
+
+5. Let's continue filling in the blanks. The next blank in the row above the 2 represents a number, 11, that gives us 2 as the difference. We can figure it out by addition: 2 + 9 = 11.
+
+<pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
+4     9     16    25    ____
+   5     7     9     11
+      2     2     2
+</pre>
+
+6. We are up to the last blank. The last blank represents a number, 36, that gives us 11 as the difference. We can figure it out by addition: 11 + 25 = 36.
 
 <pre style="font-family: monospace; line-height: 1.8; margin: 1rem 0;">
 4     9     16    25    36
    5     7     9     11
       2     2     2
 </pre>
+:::
 
 So the next term is **36**.
 
@@ -223,6 +288,10 @@ b. Find the next term in $1, 8, 27, 64, \ldots$
 </pre>
 
 So the next term is **125**.
+
+::: {.callout-note appearance="simple" icon=false}
+Some of you may have taken a math class in the past where it took a while to work on a problem. There is a certain joy and proud feeling that should be evoked when you successfully complete a longer problem. I used to challenge students to do these without a calculator and you are welcome to do that for that extra difficulty but you are welcome to use a calculator to help you do the subtractions!
+:::
 
 Use the method of successive differences to determine the next number in each sequence.
 
