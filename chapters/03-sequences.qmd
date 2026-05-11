@@ -408,26 +408,21 @@ For the first exercise, did you get 79? If so, great. If not, check:
 - Next row has constant 4.
 - Working upward gives 23, then $56 + 23 = 79$.
 
-For number 8, did you get 28,675? Keep trying if not.
+For 2., did you get 28,675? Keep trying if not. If not, check:
 
 - The constant is 120.
 - The first blank above 120 is 696.
 
+- First differences: $16, 146, 606, 1732, 3980, 7926, \underline{\hspace{1cm}}$
+- Second differences: $130, 460, 1126, 2248, 3946, \underline{\hspace{1cm}}$
+- Third differences: $330, 666, 1122, 1698, \underline{\hspace{1cm}}$
+- Fourth differences: $336, 456, 576, \underline{\hspace{1cm}}$
+- Fifth differences: $120, 120, \underline{\hspace{1cm}}$
+- Working upward gives 696, 2394, 6340, 14266, then $14409 + 14266 = 28675$.
+
 I have a video of each step on how to do an example like number 8 above (from a decade ago):
 
-Video URL: <https://www.youtube.com/watch?v=v7_LuuyfTcE&feature=youtu.be>
-
-Believe it or not, finding the next term in a sequence is a popular kind of brain teaser.
-
-A game called Wordle is super popular right now (well, it was at the beginning of 2022; now many of my friends stopped but I keep going in 2026). One of my friends posted that there is a sequence version: Times Table Sequence.
-
-Sequences can be visual. We will see that soon. For Example 4 above on arithmetic, geometric, or neither, I made a video showing how $1, 3, 6, 10, 15, \ldots$ can look animated.
-
-You can also turn sequences into sounds and songs.
-
-You also see number sequences every day in NYC, such as house and apartment numbers. We also see certain sequences in nature and food, and we will talk a lot about that in the next mini-lecture.
-
-If I were a professor at Hogwarts, then to protect the stone I would use a difficult successive difference. You all would be able to help save the day.
+Video URL: [HERE](https://www.youtube.com/watch?v=v7_LuuyfTcE&feature=youtu.be)
 
 ### Fibonacci Part 1
 
@@ -457,6 +452,18 @@ This is a recursive rule. Unlike arithmetic and geometric sequences, the amount 
 8. Find the sum of the first 8 terms of the geometric sequence $5,10,20,40,\dots$.
 
 ## Art and Design Connections
+
+Believe it or not, finding the next term in a sequence is a popular kind of brain teaser.
+
+A game called Wordle is super popular right now (well, it was at the beginning of 2022; now many of my friends stopped but I keep going in 2026). One of my friends posted that there is a sequence version: Times Table Sequence.
+
+Sequences can be visual. We will see that soon. For Example 4 above on arithmetic, geometric, or neither, I made a video showing how $1, 3, 6, 10, 15, \ldots$ can look animated.
+
+You can also turn sequences into sounds and songs.
+
+You also see number sequences every day in NYC, such as house and apartment numbers. We also see certain sequences in nature and food, and we will talk a lot about that in the next mini-lecture.
+
+If I were a professor at Hogwarts, then to protect the stone I would use a difficult successive difference. You all would be able to help save the day.
 
 - Generate a stripe pattern where widths follow an arithmetic sequence and colors follow a geometric repetition schedule.
 - Design staircase typography with letter heights modeled by a sequence and explain the recursive rule used.
