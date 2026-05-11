@@ -370,7 +370,7 @@ c. $14, 22, 32, 44, \ldots$
 
 So the next term is **58**.
 
-You can watch a video with narration of me doing this example (with help from my son): <https://www.youtube.com/watch?v=9TgVv1CT5D8>.
+You can watch a video with narration of me doing this example (with help from my son): [right here](https://www.youtube.com/watch?v=9TgVv1CT5D8).
 
 d. $5, 15, 37, 77, 141, \ldots$
 
@@ -394,13 +394,13 @@ e. $2, 6, 22, 56, 114, \ldots$
 
 This sequence is neither arithmetic nor geometric, and the next term is **202**. You should now be able to see why using successive differences.
 
-Now it is time to do two more, including the one from the beginning of this mini-lecture section! I believe you can do them both now. Once you finish the second one I hope you feel proud of yourself!
-
 Use the method of successive differences to determine the next number in each sequence:
 
 1) $1, 4, 11, 22, 37, 56, \ldots$
 
 2) $3, 19, 165, 771, 2503, 6483, 14409, \ldots$
+
+Now it is time to do two more, including the one from the beginning of this mini-lecture section! I believe you can do them both now. Once you finish the second one I hope you feel proud of yourself!
 
 For the first exercise, did you get 79? If so, great. If not, check:
 
@@ -420,25 +420,109 @@ For 2., did you get 28,675? Keep trying if not. If not, check:
 - Fifth differences: $120, 120, \underline{\hspace{1cm}}$
 - Working upward gives 696, 2394, 6340, 14266, then $14409 + 14266 = 28675$.
 
-I have a video of each step on how to do an example like number 8 above (from a decade ago):
-
-Video URL: [HERE](https://www.youtube.com/watch?v=v7_LuuyfTcE&feature=youtu.be)
+I have a video of each step on how to do an example like number 8 above (from a decade ago): [HERE](https://www.youtube.com/watch?v=v7_LuuyfTcE&feature=youtu.be)
 
 ### Fibonacci Part 1
 
-The Fibonacci sequence begins
+It is now time to talk about one of my favorite topics, the Fibonacci Sequence. (We will do more Fibonacci in the future!)
+
+[Fibonacci Sequence video my kids love](https://www.facebook.com/brainpopofficial/videos/2228531920624836/).
+
+Leonardo of Pisa (aka Fibonacci) wrote about a problem involving rabbits back in 1202. This rabbit problem is one of the most famous problems in elementary mathematics.
+
+Here it is: A man put a pair of rabbits in a cage. During the first month the rabbits produced no offspring, but each month thereafter produced one new pair of rabbits. If each new pair thus produced reproduces in the same manner, how many pairs of rabbits will there be at the end of one year?
+
+Even though the above is the famous problem, I like a different one that actually happens in nature. At the very end of this mini-lecture we will have the answer for this rabbit problem.
+
+Let us look at a pattern that happens in nature. Male honeybees hatch from eggs which have not been fertilized, so a male bee has only one parent (a female). Female honeybees hatch from fertilized eggs, which means they have both a male and female parent.
+
+Create a chart showing the ancestors of a random male honeybee. Keep going for about 6 generations and stop.
+
+Notice that we start with one male honeybee, who comes from one honeybee. His mother comes from two honeybees. The next generation has three honeybees, followed by 5 honeybees, 8 honeybees, 13 honeybees, and so on. You can watch me explain the chart in [this video](https://youtu.be/tV9NYW-G8_c).
+
+You should notice you are generating the Fibonacci Sequence.
+
+The Fibonacci Sequence is
 
 $$
-1, 1, 2, 3, 5, 8, 13, 21, \dots
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, \ldots
 $$
 
-Each term is the sum of the two previous terms:
+Can you figure out what three terms come next?
+
+After trying, the next three are:
 
 $$
-F_1=1, \quad F_2=1, \quad F_n = F_{n-1}+F_{n-2} \text{ for } n\ge 3.
+233, 377, 610, \ldots
 $$
 
-This is a recursive rule. Unlike arithmetic and geometric sequences, the amount added (or multiplied) is not constant.
+How did we get that answer?
+
+Each term in the Fibonacci sequence is the sum of the previous two terms. After the first two terms (both 1), each term is obtained by adding the two previous terms.
+
+If $F_n$ represents the Fibonacci number in the $n$th position in the sequence, then the recursive formula is:
+
+$$
+F_n = F_{n-1} + F_{n-2}, \quad n \ge 3.
+$$
+
+Example: for the 4th Fibonacci number,
+
+$$
+F_4 = F_3 + F_2 = 2 + 1 = 3.
+$$
+
+Now try these:
+
+1. Find $F_{11}$.
+2. If $F_{17}=1597$ and $F_{18}=2584$, what is $F_{16}$?
+3. What is $F_{19}$? (Hint: use number 2.)
+
+Answers:
+
+1. $F_{11}=89$
+2. $F_{16}=987$ because $F_{18}=F_{17}+F_{16}$ gives $2584=1597+F_{16}$.
+3. $F_{19}=4181$ because $F_{19}=F_{18}+F_{17}=2584+1597$.
+
+Confused with any of these three problems? Please feel free to watch me do them and explain in [this video](https://youtu.be/voBg-HGqxcI).
+
+I have a brain teaser for you. Let us say we have a row of $n$ chairs. People arrive in pairs and want to sit next to their partner. They can also decide not to sit and stand.
+
+For a row of 4 chairs, there are 5 ways to fill the row (with adjacent pairs or empty chairs).
+
+Try these:
+
+1. How many ways are there for 5 chairs?
+2. What about 2 chairs?
+3. What about 3 chairs?
+4. How many ways can a row of $n$ chairs be filled in general?
+
+Organizing results:
+
+- 2 chairs -> 2 ways
+- 3 chairs -> 3 ways
+- 4 chairs -> 5 ways
+- 5 chairs -> 8 ways
+
+These are Fibonacci numbers again.
+
+If there are $n$ chairs, the number of ways is:
+
+$$
+F_{n+1}.
+$$
+
+For example, 7 chairs gives $F_8=21$ ways. Want to see this entire example explained? Please feel free to watch me go over the whole thing in [this video](https://youtu.be/fSnnkiLHmi4).
+
+If you want more Fibonacci (yes, I do), here are some fun extras that connect to nature, art, design, and music:
+
+- [Fibonacci Sequence video from SciShow](https://youtu.be/wTlw7fNcO-0)
+- [A Fibonacci comic](https://www.gocomics.com/foxtrot/2009/02/08)
+- [What the Golden Ratio is and how designers use it](https://visme.co/blog/golden-ratio/)
+- [How Tool used math in "Lateralus"](https://youtu.be/uOHkeH2VaE0?t=50)
+- [A fun music piece I made using Fibonacci numbers](https://www.loom.com/share/4b77413ccbde4f028d8364c5c1e3e4ec)
+- [Fibonacci in some flowers](https://www.nationalgeographic.org/media/golden-ratio/)
+- [Rare footage of humpback whales creating a Fibonacci spiral](https://youtu.be/2pZumyAVFdY?si=9T8XXOlkrmh0jMBK)
 
 ## Practice
 
@@ -457,25 +541,17 @@ This is a recursive rule. Unlike arithmetic and geometric sequences, the amount 
 - A game called [Wordle](https://www.nytimes.com/games/wordle/index.html) is super popular right now (well, it was at the beginning of 2022; now many of my friends stopped but I keep going in 2026). One of my friends posted that there is a sequence version: Times Table Sequence version for you to play [here](https://www.mathspad.co.uk/i2/teach.php?id=timesTableSequences&fbclid=IwAR0K6l44h-av115MRqcVSEns64wsFtzZ3SrctizTdTuY-XpqQ_6D0ebtTms).
 - Sequences can be visual. We will see that soon. I made a video showing how $1, 3, 6, 10, 15, \ldots$ can look animated.
 
-<div style="text-align:center; color:#7e22ce; font-family:monospace; line-height:1.1; margin: 1rem 0;">
-<div style="margin-bottom:1rem;">
-<div style="font-size:1.8rem;">●</div>
-</div>
-<div style="margin-bottom:1rem;">
-<div style="font-size:1.8rem; white-space:pre;"> ●</div>
-<div style="font-size:1.8rem; white-space:pre;">● ●</div>
-</div>
-<div style="margin-bottom:1rem;">
-<div style="font-size:1.8rem; white-space:pre;">  ●</div>
-<div style="font-size:1.8rem; white-space:pre;"> ● ●</div>
-<div style="font-size:1.8rem; white-space:pre;">● ● ●</div>
-</div>
-<div>
-<div style="font-size:1.8rem; white-space:pre;">   ●</div>
-<div style="font-size:1.8rem; white-space:pre;">  ● ●</div>
-<div style="font-size:1.8rem; white-space:pre;"> ● ● ●</div>
-<div style="font-size:1.8rem; white-space:pre;">● ● ● ●</div>
-</div>
+<div style="display:flex; justify-content:center; align-items:flex-end; gap:0.8rem; color:#7e22ce; font-family:monospace; line-height:1.0; margin: 0.5rem 0;">
+<div style="font-size:1rem; white-space:pre; text-align:left;">●</div>
+<div style="font-size:1rem; white-space:pre; text-align:left;"> ●
+● ●</div>
+<div style="font-size:1rem; white-space:pre; text-align:left;">  ●
+ ● ●
+● ● ●</div>
+<div style="font-size:1rem; white-space:pre; text-align:left;">   ●
+   ● ●
+ ● ● ●
+● ● ● ●</div>
 </div>
 
 - You can also turn them into sounds and songs! Raise the volume on your device then click [here](https://www.youtube.com/watch?v=DXG9YobVs4w) to hear the melody. Thought this was super cool and a new find for me (from December 2021). I used the same sequence but feel free to play around with all different types to create different songs! (You are welcome to send me your creations.)
