@@ -453,17 +453,34 @@ This is a recursive rule. Unlike arithmetic and geometric sequences, the amount 
 
 ## Art and Design Connections
 
-Believe it or not, finding the next term in a sequence is a popular kind of brain teaser.
+- [Believe it or not, finding the next term in a sequence is a popular kind of brain teaser.](https://www.youtube.com/watch?v=v7_LuuyfTcE&feature=youtu.be)
+- A game called [Wordle](https://www.nytimes.com/games/wordle/index.html) is super popular right now (well, it was at the beginning of 2022; now many of my friends stopped but I keep going in 2026). One of my friends posted that there is a sequence version: Times Table Sequence version for you to play [here](https://www.mathspad.co.uk/i2/teach.php?id=timesTableSequences&fbclid=IwAR0K6l44h-av115MRqcVSEns64wsFtzZ3SrctizTdTuY-XpqQ_6D0ebtTms).
+- Sequences can be visual. We will see that soon. I made a video showing how $1, 3, 6, 10, 15, \ldots$ can look animated.
 
-A game called Wordle is super popular right now (well, it was at the beginning of 2022; now many of my friends stopped but I keep going in 2026). One of my friends posted that there is a sequence version: Times Table Sequence.
+<div style="text-align:center; color:#7e22ce; font-family:monospace; line-height:1.1; margin: 1rem 0;">
+<div style="margin-bottom:1rem;">
+<div style="font-size:1.8rem;">●</div>
+</div>
+<div style="margin-bottom:1rem;">
+<div style="font-size:1.8rem; white-space:pre;"> ●</div>
+<div style="font-size:1.8rem; white-space:pre;">● ●</div>
+</div>
+<div style="margin-bottom:1rem;">
+<div style="font-size:1.8rem; white-space:pre;">  ●</div>
+<div style="font-size:1.8rem; white-space:pre;"> ● ●</div>
+<div style="font-size:1.8rem; white-space:pre;">● ● ●</div>
+</div>
+<div>
+<div style="font-size:1.8rem; white-space:pre;">   ●</div>
+<div style="font-size:1.8rem; white-space:pre;">  ● ●</div>
+<div style="font-size:1.8rem; white-space:pre;"> ● ● ●</div>
+<div style="font-size:1.8rem; white-space:pre;">● ● ● ●</div>
+</div>
+</div>
 
-Sequences can be visual. We will see that soon. For Example 4 above on arithmetic, geometric, or neither, I made a video showing how $1, 3, 6, 10, 15, \ldots$ can look animated.
-
-You can also turn sequences into sounds and songs.
-
-You also see number sequences every day in NYC, such as house and apartment numbers. We also see certain sequences in nature and food, and we will talk a lot about that in the next mini-lecture.
-
-If I were a professor at Hogwarts, then to protect the stone I would use a difficult successive difference. You all would be able to help save the day.
+- You can also turn them into sounds and songs! Raise the volume on your device then click [here](https://www.youtube.com/watch?v=DXG9YobVs4w) to hear the melody. Thought this was super cool and a new find for me (from December 2021). I used the same sequence but feel free to play around with all different types to create different songs! (You are welcome to send me your creations.)
+- You also see number sequences every day in NYC, such as house and apartment numbers. We also see certain sequences in nature and food, and we will talk a lot about that in the next mini-lecture.
+- If I were a professor at Hogwarts, then to protect the stone I would use a difficult successive difference. You all would be able to help save the day.
 
 - Generate a stripe pattern where widths follow an arithmetic sequence and colors follow a geometric repetition schedule.
 - Design staircase typography with letter heights modeled by a sequence and explain the recursive rule used.
