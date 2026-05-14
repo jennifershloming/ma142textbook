@@ -24,37 +24,37 @@ title: "4. Figurate Numbers, FIBS, and Sums"
 
 ## Key Terms and Formulas
 
-Triangular numbers count dots that form an equilateral triangular pattern:
+**Triangular numbers** count dots that form an equilateral triangular pattern:
 
 $$
 T_n = 1+2+\cdots+n = \frac{n(n+1)}{2}
 $$
 
-Square numbers count dots in an $n \times n$ square:
+**Square numbers** count dots in an $n \times n$ square:
 
 $$
 S_n = n^2
 $$
 
-Pentagonal numbers:
+**Pentagonal numbers**:
 
 $$
 P_n = \frac{n(3n-1)}{2}
 $$
 
-Fibonacci numbers are defined recursively by
+**Fibonacci numbers** are defined recursively by
 
 $$
 F_1=1,\quad F_2=1,\quad F_n=F_{n-1}+F_{n-2}\;\text{for }n\ge 3
 $$
 
-Useful finite sums:
+Useful **finite sums**:
 
 $$
 \sum_{k=1}^n k = \frac{n(n+1)}{2}, \qquad \sum_{k=1}^n k^2 = \frac{n(n+1)(2n+1)}{6}
 $$
 
-Sums of consecutive even and odd integers:
+Sums of **consecutive even and odd integers**:
 
 $$
 2+4+\cdots+2n = n(n+1), \qquad 1+3+\cdots+(2n-1)=n^2
@@ -62,7 +62,84 @@ $$
 
 ## Mini-Lecture
 
-Find the 8th triangular number and the sum $1+2+\cdots+8$.
+### Number Patterns
+
+A funny joke (to me) is: What will a kid say comes next after 2, 4, 6, 8?
+Who do we appreciate?!
+
+Okay... Let us use some sequences we mentioned in the previous module to begin!
+$1, 1, 2, 3, 5, 8, \ldots$ and $1, 3, 6, 10, 15, \ldots$ We will now spend some time on the first sequence. Did you think we were done with the Fibonacci sequence? There is so much material related to this, and now we will do one more thing: determine how to tell which Fibonacci numbers are even or odd.
+
+I want you to do the following on your own. You are using number patterns to figure out the next probable terms in these sequences.
+
+::: {.callout-important appearance="simple" icon=false}
+**Think About It:** Look for what keeps happening from one term to the next. Once you figure that out, try to get to the 10th term in each sequence below.
+:::
+
+| Figurate Number | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Triangular | 1 | 3 | 6 | 10 | 15 | ? | ? | ? | ? | ? |
+| Square | 1 | 4 | 9 | 16 | 25 | ? | ? | ? | ? | ? |
+| Pentagonal | 1 | 5 | 12 | 22 | 35 | ? | ? | ? | ? | ? |
+
+Did you figure out the pattern?
+
+In the first few terms of the sequence, you can see a pattern of whether the numbers are even or odd. Let us write the next six Fibonacci numbers because by then, I bet you will see a pattern.
+$1, 1, 2, 3, 5, 8, \_, \_, \_, \_, \_, \_. $
+
+It helps to circle, highlight, or underline which of the numbers from your list are even. Take a second to do this.
+
+Remember, we use $F_n$ to represent Fibonacci numbers. The Fibonacci numbers go odd, odd, even, odd, odd, even, odd, ... Every THIRD number is even. So, if $n$ (in $F_n$) is a multiple of 3, the number is even, and if it is not a multiple of 3, then it is odd.
+
+$1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, \ldots$
+
+$F_1\ F_2\ F_3\ F_4\ F_5\ F_6\ F_7\ F_8\ F_9\ F_{10}\ F_{11}\ F_{12}$
+
+Given what we now know, please take a few minutes to do the following examples:
+
+1. **Example 1:** Will the 402nd Fibonacci number be odd or even?
+2. **Example 2:** Will $F_{55}$ be odd or even?
+3. **Example 3:** Will the 13th Fibonacci number be odd or even?
+Have your answers ready?
+
+1. **Example 1 Solution:** The 402nd Fibonacci number is even.
+   402 divided by 3 is 134 with no remainder, so $n$ (in $F_{402}$) is a multiple of 3.
+   This means $F_{402}$ is even.
+
+2. **Example 2 Solution:** $F_{55}$ is odd.
+   55 divided by 3 has a remainder, so $n$ (in $F_{55}$) is NOT a multiple of 3.
+   This means $F_{55}$ is odd.
+
+3. **Example 3 Solution:** The 13th Fibonacci number is odd.
+   It is the same reasoning as Example 2. 13 divided by 3 has a remainder, so $n$ (in $F_{13}$) is NOT a multiple of 3.
+   Also, we just saw that the 12th Fibonacci number is even (144) from our list above. We know that every 3rd number is even, so the next term in the sequence will be odd. However you figured this one out correctly is fine!
+   The 13th Fibonacci number is odd.
+
+If you want to hear me explain these with a video, you can watch me go over it here.
+
+$1, 3, 6, 10, 15, \ldots$
+Now we are going to discuss the other sequence, which forms the triangular numbers. I am going to add the following two sequences (the square and pentagonal numbers). I will leave you wondering why they are called this until the next mini-lecture. Maybe you will be able to figure it out beforehand!
+$1, 4, 9, 16, 25, \ldots$ and $1, 5, 12, 22, \ldots$
+
+### The Method and Legend of Gauss
+
+Find the sum $1+2+\cdots+8$ using Gauss's pairing idea.
+
+Pair the first and last terms:
+
+$$
+(1+8),\ (2+7),\ (3+6),\ (4+5)
+$$
+
+Each pair sums to $9$, and there are $4$ pairs, so
+
+$$
+1+2+\cdots+8 = 4\cdot 9 = 36.
+$$
+
+### Figurate Numbers
+
+Now connect this to triangular numbers by finding the 8th triangular number.
 
 By the triangular-number formula,
 
@@ -77,6 +154,16 @@ $$
 $$
 
 This shows how figurate-number patterns connect directly to finite sums.
+
+### FIBS
+
+Fibonacci numbers build recursively from the two previous terms:
+
+$$
+F_1=1,\quad F_2=1,\quad F_n=F_{n-1}+F_{n-2}\;\text{for }n\ge 3.
+$$
+
+The first several terms are $1,1,2,3,5,8,13,\ldots$. A FIB poem uses this counting structure for line lengths.
 
 ## Practice
 
