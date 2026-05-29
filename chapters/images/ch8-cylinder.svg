@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-labelledby="title desc">
+  <title id="title">Cylinder</title>
+  <desc id="desc">A simple cylinder with radius and height labels.</desc>
+
+  <defs>
+    <style>
+      .stroke { fill: none; stroke: #0f172a; stroke-width: 3; }
+      .dash { fill: none; stroke: #64748b; stroke-width: 2; stroke-dasharray: 6 5; }
+      .text { fill: #0f172a; font-family: Georgia, serif; font-size: 18px; }
+      .label { fill: #0f172a; font-family: Georgia, serif; font-size: 16px; }
+      .bg { fill: #f8fafc; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="360" height="260" rx="16"/>
+
+  <ellipse class="stroke" cx="180" cy="58" rx="90" ry="28"/>
+  <ellipse class="dash" cx="180" cy="198" rx="90" ry="28"/>
+
+  <line class="stroke" x1="90" y1="58" x2="90" y2="198"/>
+  <line class="stroke" x1="270" y1="58" x2="270" y2="198"/>
+
+  <line class="dash" x1="180" y1="58" x2="270" y2="58"/>
+  <line class="dash" x1="180" y1="58" x2="180" y2="198"/>
+
+  <text class="label" x="222" y="50">r</text>
+  <text class="label" x="188" y="132">h</text>
+  <text class="text" x="138" y="242">Cylinder</text>
+</svg>
