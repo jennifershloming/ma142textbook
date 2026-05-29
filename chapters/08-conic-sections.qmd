@@ -27,13 +27,15 @@ title: "8. Conic Sections"
 
 - **Conic sections** are formed by intersecting a plane with a cone: circle, ellipse, parabola, and hyperbola.
 
+- **Cylinder**:
+
 $$
 V = \pi r^2 h, \qquad SA = 2\pi rh + 2\pi r^2
 $$
 
 ![Cylinder](images/ch8-cylinder.svg){fig-alt="Cylinder diagram" width=46%}
 
-**Cylinder**
+- **Cone** (with slant height $\ell$):
 
 $$
 V = \frac{1}{3}\pi r^2 h, \qquad SA = \pi r\ell + \pi r^2, \qquad \ell = \sqrt{r^2+h^2}
@@ -41,15 +43,13 @@ $$
 
 ![Cone](images/ch8-cone.svg){fig-alt="Cone diagram" width=46%}
 
-**Cone**
+- **Sphere**:
 
 $$
 V = \frac{4}{3}\pi r^3, \qquad SA = 4\pi r^2
 $$
 
 ![Sphere](images/ch8-sphere.svg){fig-alt="Sphere diagram" width=46%}
-
-**Sphere**
 
 - Planetary orbits are ellipses with the Sun at one focus (Kepler).
 
@@ -61,13 +61,13 @@ Let us take a few minutes to spin around the shapes on the top of this page:
 [Spheres, Cones and Cylinders - Circles and Pi - Mathigon](https://mathigon.org/course/circles/spheres-cones-cylinders)
 
 Below is a less than one minute soundless video of me interacting with the shapes so you can visualize them and see their definitions.
-Spheres, Cones and Cylinders - Circles and Pi - Mathigon - Watch Video
+Spheres, Cones and Cylinders - Circles and Pi - Mathigon - [Watch Video](https://www.loom.com/share/1b21ed3d8a7747d7abeb2b0ab464b6d3).
 
 Spheres, cones, and cylinders are everywhere and also are inspiration for both fashion and artistic expression.
-When I think of cones a certain fashion statement comes to mind. Let us see if it does for you too. From our own FIT site we have 1984 - Jean Paul Gaultier, Cone bra corset dress | Fashion History Timeline.
-I would say the most famous person (aside from Gaultier) associated with the cone bra is Madonna. Do you agree? You can read more about the cone bra and when Madonna wore it in the link above. Fun fact: Madonna first wore a Gaultier corset bra in the music video for her song "Vogue" on YouTube.
+When I think of cones a certain fashion statement comes to mind. Let us see if it does for you too. From our own FIT site we have [1984 - Jean Paul Gaultier, Cone bra corset dress | Fashion History Timeline](https://fashionhistory.fitnyc.edu/1984-gaultier-cone-bra/).
+I would say the most famous person (aside from Gaultier) associated with the cone bra is Madonna. Do you agree? You can read more about the cone bra and when Madonna wore it in the link above. Fun fact: Madonna first wore a Gaultier corset bra in the music video for her song "Vogue" [on YouTube](https://www.youtube.com/watch?v=GuJQSAiODqI).
 
-There is a certain type of sphere that I think of when it comes to fashion: the pearl. Maybe at some point I will wear some sort of pearly jewelry but for now I definitely appreciate its timelessness. A History of Pearls In Fashion and Pop Culture. In the link you will see some Met Gala looks involving pearls, menswear from Louis Vuitton with pearls, and famous icons in their pearls.
+There is a certain type of sphere that I think of when it comes to fashion: the pearl. Maybe at some point I will wear some sort of pearly jewelry but for now I definitely appreciate its timelessness. [A History of Pearls In Fashion & Pop Culture](https://crfashionbook.com/a-history-of-pearls-in-fashion-pop-culture/). In the link you will see some Met Gala looks involving pearls, menswear from Louis Vuitton with pearls, and famous icons in their pearls.
 
 Before we go on let us make sure you can quickly identify the sphere, cylinder, and cone from the image below. If you do not know the answer right away then scroll back to the top of this mini-lecture where I asked you to play on the Mathigon site and see the definitions of these three space figures.
 
@@ -80,14 +80,14 @@ Maybe you kind of do but not the exact formula. We will go over them and be sure
 
 *(Image from Canva showing a sphere, cylinder, and cone, not in that order, and their respective volume formulas.)*
 
-A cylinder is a three-dimensional solid with congruent circular bases that are parallel. The space between the circles is enclosed.
--> Cylinder: $V = \pi r^2 h$
+<span style="color:#8B1C62;"><strong>Cylinder</strong>: A cylinder is a three-dimensional solid with congruent circular bases that are parallel. The space between the circles is enclosed.</span>
+→ **Cylinder: $V = \pi r^2 h$**
 
-A cone is a three-dimensional solid with a circular base that is connected to a vertex (single point). This can be thought of as a circular pyramid.
--> Cone: $V = \frac{1}{3}\pi r^2 h$
+<span style="color:#C05A00;"><strong>Cone</strong>: A cone is a three-dimensional solid with a circular base that is connected to a vertex (single point). This can be thought of as a circular pyramid.</span>
+→ **Cone: $V = \frac{1}{3}\pi r^2 h$**
 
-A sphere is a three-dimensional solid consisting of all points that have the same distance from its center. This distance is called the radius of the sphere.
--> Sphere: $V = \frac{4}{3}\pi r^3$
+<span style="color:#5B2C83;"><strong>Sphere</strong>: A sphere is a three-dimensional solid consisting of all points that have the same distance from its center. This distance is called the radius of the sphere.</span>
+→ **Sphere: $V = \frac{4}{3}\pi r^3$**
 
 If a cone and a cylinder have the same base and the same height, the cone's volume is exactly one-third of the cylinder's volume. You may have noticed the relationship when looking at the formulas.
 
@@ -105,7 +105,7 @@ Tennis ball is a type of sphere. Soda can is a cylinder. Party hat is a cone. Ma
 
 Surface areas are trickier formulas but again, you can write them down carefully and use them when you do calculations. Make sure to put them on the paper you bring into the final exam. Surface area applications can be found in many different fields, especially in construction and architecture. Surface area is the amount of space covering the outside of a 3D shape.
 
-Surface area, according to our textbook, is the total area that would be covered if the space figure were "peeled" off and then that peel was laid down flat. I like thinking about it that way. Surface area is measured in square units. Pages 539-541 in our book have the formulas and examples for these figures. While the surface area formulas for cylinder and sphere should be the same everywhere you look, the cone may look different. I like the explanation of the formula better on the Mathigon site where you interactively figure it out. Please work through the surface area of a cone part on the Mathigon site before looking below.
+Surface area is the total area that would be covered if the space figure was peeled off and then that peel was laid down flat. I like thinking about it that way. Surface area is measured in square units. While the surface area formulas for cylinder and sphere should be the same everywhere you look, the cone may look different. I like the explanation of the formula on the Mathigon site where you interactively figure it out. Please work through the surface area of a cone part on the Mathigon site before looking below.
 
 The Surface Area of the Cone has two parts:
 
@@ -136,9 +136,7 @@ The base area $= \pi r^2$ and the side area $= \pi rs$ (where $s$ is the slant l
 The Surface Area of the Sphere is straightforward:
 -> Sphere's Surface Area: $4\pi r^2$
 
-Let us do some calculations now. First from the textbook, then the ones listed at the top of this mini-lecture.
-Let us take an ice cream cone with a radius of 2 cm and a perpendicular height of 6 cm.
-Example: How much ice cream can it hold?
+Let us do some calculations now. Let us take an ice cream cone with a radius of 2 cm and a perpendicular height of 6 cm. Example: How much ice cream can it hold?
 
 First, what are we talking about when we want to know how much ice cream can go in a cone? Is that surface area or volume? We are filling up the shape so we are talking about the volume.
 We also need to realize what space figure we have in order to make sure we have the correct formula.
