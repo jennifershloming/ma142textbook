@@ -32,3 +32,7 @@ In the Exercises section, I include an active Google Doc link for FIT students a
 ## Learning Mindset
 
 You do not need to be a math major to succeed. I want you to focus on making time for this text (and class). Learning mathematics can feel like learning a foreign language; you need to practice to speak fluently. I am here to help you too! You can do it!!!
+
+## Interactive Activity
+
+Practice making a graph Eulerian with the [Eulerizing a Graph applet](applets/duplicating-edges.html). Duplicate edges until every vertex has even degree, and try to use as few copies as possible.
