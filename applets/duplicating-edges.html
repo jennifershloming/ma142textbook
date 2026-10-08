@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eulerizing a Graph</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: system-ui, sans-serif;
+      color: #183247;
+      background: #f5f8fa;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 1.5rem;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: clamp(1rem, 4vw, 2rem);
+      background: white;
+      border: 1px solid #d6e1e8;
+      border-radius: 1rem;
+      box-shadow: 0 8px 28px #18324712;
+    }
+
+    h1 {
+      margin: 0 0 0.5rem;
+      color: #145c8f;
+      font-size: clamp(1.6rem, 4vw, 2.2rem);
+    }
+
+    p {
+      line-height: 1.55;
+    }
+
+    .intro {
+      margin-top: 0;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 0.75rem;
+      margin: 1.25rem 0;
+    }
+
+    .stat {
+      padding: 0.75rem;
+      border-radius: 0.65rem;
+      background: #eef5f9;
+      text-align: center;
+    }
+
+    .stat strong {
+      display: block;
+      color: #145c8f;
+      font-size: 1.4rem;
+    }
+
+    .stat span {
+      font-size: 0.9rem;
+    }
+
+    .graph-frame {
+      overflow: hidden;
+      border: 1px solid #d6e1e8;
+      border-radius: 0.75rem;
+      background: #fbfdfe;
+    }
+
+    svg {
+      display: block;
+      width: 100%;
+      height: auto;
+      touch-action: manipulation;
+    }
+
+    .edge-line {
+      fill: none;
+      stroke: #607988;
+      stroke-linecap: round;
+      stroke-width: 5;
+    }
+
+    .duplicate-line {
+      fill: none;
+      stroke: #1686c5;
+      stroke-linecap: round;
+      stroke-width: 5;
+    }
+
+    .edge-control {
+      cursor: pointer;
+      outline: none;
+    }
+
+    .edge-hit-area {
+      fill: none;
+      stroke: transparent;
+      stroke-width: 24;
+      pointer-events: stroke;
+    }
+
+    .edge-control:focus .edge-hit-area {
+      stroke: #f2b544;
+      stroke-width: 14;
+      opacity: 0.75;
+    }
+
+    .vertex circle {
+      stroke: white;
+      stroke-width: 4;
+    }
+
+    .vertex.even circle {
+      fill: #26865a;
+    }
+
+    .vertex.odd circle {
+      fill: #c74b43;
+    }
+
+    .vertex text {
+      fill: white;
+      font-size: 18px;
+      font-weight: 700;
+      text-anchor: middle;
+      dominant-baseline: central;
+      pointer-events: none;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1.5rem;
+      margin: 1rem 0;
+      padding: 0;
+      list-style: none;
+      font-size: 0.92rem;
+    }
+
+    .legend li {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .swatch {
+      width: 1rem;
+      height: 1rem;
+      border-radius: 50%;
+      background: #c74b43;
+    }
+
+    .swatch.even {
+      background: #26865a;
+    }
+
+    .swatch.copy {
+      width: 1.3rem;
+      height: 0.25rem;
+      border-radius: 0;
+      background: #1686c5;
+    }
+
+    .status {
+      min-height: 3rem;
+      margin: 1rem 0 0;
+      padding: 0.8rem 1rem;
+      border-left: 4px solid #145c8f;
+      border-radius: 0.25rem;
+      background: #eef5f9;
+    }
+
+    .instructions {
+      margin-bottom: 0;
+      font-size: 0.92rem;
+      color: #425a6b;
+    }
+
+    @media (max-width: 560px) {
+      body {
+        padding: 0.5rem;
+      }
+
+      .stats {
+        gap: 0.4rem;
+      }
+
+      .stat {
+        padding: 0.6rem 0.3rem;
+      }
+
+      .stat span {
+        font-size: 0.78rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Eulerizing a Graph</h1>
+    <p class="intro">Make every vertex even by duplicating existing edges. Click or focus an edge and press Enter or Space to add a copy; select a blue copy to remove it.</p>
+
+    <section class="stats" aria-label="Graph progress">
+      <div class="stat"><strong id="odd-count">2</strong><span>Odd vertices</span></div>
+      <div class="stat"><strong id="copy-count">0</strong><span>Edges added</span></div>
+      <div class="stat"><strong id="minimum-count">5</strong><span>Minimum needed</span></div>
+    </section>
+
+    <div class="graph-frame">
+      <svg id="graph" viewBox="0 0 740 280" role="group" aria-label="Interactive path graph with six vertices">
+        <title>Interactive graph for practicing Eulerization</title>
+        <desc>The six vertices A through F form a path. Duplicate edges until all vertices have even degree.</desc>
+        <g id="edges"></g>
+        <g id="vertices"></g>
+      </svg>
+    </div>
+
+    <ul class="legend" aria-label="Graph legend">
+      <li><span class="swatch" aria-hidden="true"></span>Odd degree, needs a fix</li>
+      <li><span class="swatch even" aria-hidden="true"></span>Even degree</li>
+      <li><span class="swatch copy" aria-hidden="true"></span>Added copy of an edge</li>
+    </ul>
+
+    <p id="status" class="status" role="status" aria-live="polite">Two vertices have odd degree. Find a path to duplicate.</p>
+    <p class="instructions">A connected graph has an Euler circuit only when every vertex has even degree. This path has two odd endpoints; duplicating the path between them uses the fewest added edges.</p>
+  </main>
+
+  <script>
+    const vertices = [
+      { label: "A", x: 70, y: 140 },
+      { label: "B", x: 190, y: 75 },
+      { label: "C", x: 310, y: 140 },
+      { label: "D", x: 430, y: 75 },
+      { label: "E", x: 550, y: 140 },
+      { label: "F", x: 670, y: 75 }
+    ];
+    const edges = vertices.slice(0, -1).map((vertex, index) => ({
+      from: index,
+      to: index + 1,
+      copies: 0
+    }));
+    const initialDegrees = vertices.map(() => 0);
+    edges.forEach(edge => {
+      initialDegrees[edge.from] += 1;
+      initialDegrees[edge.to] += 1;
+    });
+    const minimumCopies = shortestOddPairingCost(initialDegrees);
+    const edgeLayer = document.getElementById("edges");
+    const vertexLayer = document.getElementById("vertices");
+    const graph = document.getElementById("graph");
+
+    function makeSvgElement(name, attributes = {}) {
+      const element = document.createElementNS("http://www.w3.org/2000/svg", name);
+      for (const [key, value] of Object.entries(attributes)) {
+        element.setAttribute(key, value);
+      }
+      return element;
+    }
+
+    function makeEdgeControl(edgeIndex, action, path, label, className) {
+      const control = makeSvgElement("g", {
+        class: "edge-control",
+        role: "button",
+        tabindex: "0",
+        "aria-label": label,
+        "data-edge": edgeIndex,
+        "data-action": action
+      });
+      control.append(
+        makeSvgElement("path", { d: path, class: className }),
+        makeSvgElement("path", { d: path, class: "edge-hit-area" })
+      );
+      return control;
+    }
+
+    function renderGraph() {
+      edgeLayer.replaceChildren();
+      edges.forEach((edge, index) => {
+        const from = vertices[edge.from];
+        const to = vertices[edge.to];
+        const dx = to.x - from.x;
+        const dy = to.y - from.y;
+        const length = Math.hypot(dx, dy);
+        const normalX = -dy / length;
+        const normalY = dx / length;
+        const pathForOffset = offset => `M ${from.x + normalX * offset} ${from.y + normalY * offset} L ${to.x + normalX * offset} ${to.y + normalY * offset}`;
+
+        edgeLayer.append(makeEdgeControl(index, "add", pathForOffset(0), `Add a copy of edge ${vertices[edge.from].label}–${vertices[edge.to].label}`, "edge-line"));
+        for (let copy = 0; copy < edge.copies; copy += 1) {
+          const offset = (copy + 1) * 9;
+          edgeLayer.append(makeEdgeControl(index, "remove", pathForOffset(offset), `Remove copy ${copy + 1} of edge ${vertices[edge.from].label}–${vertices[edge.to].label}`, "duplicate-line"));
+        }
+      });
+
+      const degrees = vertices.map(() => 0);
+      edges.forEach(edge => {
+        degrees[edge.from] += 1 + edge.copies;
+        degrees[edge.to] += 1 + edge.copies;
+      });
+
+      vertexLayer.replaceChildren();
+      vertices.forEach((vertex, index) => {
+        const node = makeSvgElement("g", { class: `vertex ${degrees[index] % 2 ? "odd" : "even"}` });
+        node.append(
+          makeSvgElement("circle", { cx: vertex.x, cy: vertex.y, r: 25 }),
+          makeSvgElement("text", { x: vertex.x, y: vertex.y })
+        );
+        node.querySelector("text").textContent = vertex.label;
+        vertexLayer.append(node);
+      });
+
+      updateStatus(degrees);
+    }
+
+    function updateStatus(degrees) {
+      const oddCount = degrees.filter(degree => degree % 2 !== 0).length;
+      const copyCount = edges.reduce((sum, edge) => sum + edge.copies, 0);
+      document.getElementById("odd-count").textContent = oddCount;
+      document.getElementById("copy-count").textContent = copyCount;
+      document.getElementById("minimum-count").textContent = minimumCopies;
+
+      const status = document.getElementById("status");
+      if (oddCount === 0 && copyCount === minimumCopies) {
+        status.textContent = "All vertices are even. You Eulerized the graph with the fewest added edges!";
+      } else if (oddCount === 0) {
+        status.textContent = `All vertices are even, but this uses ${copyCount - minimumCopies} more edge${copyCount - minimumCopies === 1 ? "" : "s"} than necessary. Remove copies to find the minimum.`;
+      } else {
+        status.textContent = `${oddCount} ${oddCount === 1 ? "vertex has" : "vertices have"} odd degree. A minimum solution uses ${minimumCopies} copies in total.`;
+      }
+    }
+
+    function shortestOddPairingCost(degrees) {
+      const oddVertices = degrees.flatMap((degree, index) => degree % 2 ? [index] : []);
+      if (oddVertices.length === 0) return 0;
+
+      const distances = oddVertices.map(start => {
+        const distance = Array(vertices.length).fill(Infinity);
+        distance[start] = 0;
+        const queue = [start];
+        while (queue.length) {
+          const current = queue.shift();
+          edges.forEach(edge => {
+            const neighbor = edge.from === current ? edge.to : edge.to === current ? edge.from : -1;
+            if (neighbor !== -1 && distance[neighbor] === Infinity) {
+              distance[neighbor] = distance[current] + 1;
+              queue.push(neighbor);
+            }
+          });
+        }
+        return distance;
+      });
+      const memo = new Map();
+      function pair(mask) {
+        if (mask === 0) return 0;
+        if (memo.has(mask)) return memo.get(mask);
+        const first = Math.log2(mask & -mask);
+        const withoutFirst = mask & ~(1 << first);
+        let best = Infinity;
+        for (let second = first + 1; second < oddVertices.length; second += 1) {
+          if (withoutFirst & (1 << second)) {
+            best = Math.min(best, distances[first][oddVertices[second]] + pair(withoutFirst & ~(1 << second)));
+          }
+        }
+        memo.set(mask, best);
+        return best;
+      }
+      return pair((1 << oddVertices.length) - 1);
+    }
+
+    function activateControl(control) {
+      const edge = edges[Number(control.dataset.edge)];
+      if (control.dataset.action === "add") {
+        edge.copies += 1;
+      } else if (edge.copies > 0) {
+        edge.copies -= 1;
+      }
+      renderGraph();
+    }
+
+    graph.addEventListener("click", event => {
+      const control = event.target.closest("[data-action]");
+      if (control) activateControl(control);
+    });
+    graph.addEventListener("keydown", event => {
+      const control = event.target.closest("[data-action]");
+      if (control && (event.key === "Enter" || event.key === " ")) {
+        event.preventDefault();
+        activateControl(control);
+      }
+    });
+
+    renderGraph();
+  </script>
+</body>
+</html>

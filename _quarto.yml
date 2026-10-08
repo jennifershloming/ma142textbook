@@ -1,5 +1,7 @@
 project:
   type: book
+  resources:
+    - applets/duplicating-edges.html
 
 book:
   title: "GEOMETRY and the Art of Design"
