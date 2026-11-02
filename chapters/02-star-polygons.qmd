@@ -1,5 +1,5 @@
 ---
-title: "2. Star Polygons"
+title: "Star Polygons"
 ---
 
 ## Learning Goals

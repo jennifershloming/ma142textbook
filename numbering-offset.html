@@ -24,6 +24,16 @@
   }
 
   function applyDisplayOffset() {
+    var title = document.querySelector(".quarto-title-block .title");
+    var titleText = title ? title.textContent.trim().replace(/^\d+\s*/, "") : "";
+
+    if (titleText === "About the Book" || titleText === "References") {
+      document.querySelectorAll(".chapter-number").forEach(function (el) {
+        el.remove();
+      });
+      return;
+    }
+
     shiftElements(".chapter-number");
     shiftElements(".header-section-number");
   }

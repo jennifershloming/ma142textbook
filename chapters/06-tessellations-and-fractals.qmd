@@ -1,5 +1,5 @@
 ---
-title: "6. Tessellations and Fractals"
+title: "Tessellations and Fractals"
 ---
 
 ## Learning Goals

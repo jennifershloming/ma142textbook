@@ -1,5 +1,5 @@
 ---
-title: "4. Figurate Numbers, FIBS, and Sums"
+title: "Figurate Numbers, FIBS, and Sums"
 ---
 
 ## Learning Goals
