@@ -77,9 +77,9 @@ $$
 
 ### Time to Practice with Applets
 
-[Polygon & Convexity Classifier](https://sites.google.com/fitnyc.edu/dr-shlomings-ma161-applets/polygon-convex)
-
-Examine each figure carefully. First decide if it is a **Polygon** or **Not a Polygon**. If it is a polygon, classify it as **Convex** or **Concave**.
+::: {.applet-list}
+- [Polygon & Convexity Classifier](https://sites.google.com/fitnyc.edu/dr-shlomings-ma161-applets/polygon-convex) // Examine each figure carefully. First decide if it is a **Polygon** or **Not a Polygon**. If it is a polygon, classify it as **Convex** or **Concave**.
+:::
 
 ## Art and Design Connections
 

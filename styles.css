@@ -26,3 +26,7 @@ blockquote {
   border-radius: 12px;
   box-shadow: 0 12px 28px rgba(16, 41, 61, 0.22);
 }
+
+.applet-list ul {
+  list-style-type: square;
+}
