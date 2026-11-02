@@ -72,7 +72,9 @@ $$
 
 ### Time to Practice with Applets
 
-Interactive applets for this chapter will be added here.
+::: {.applet-list}
+- [Classify the Tessellation](https://sites.google.com/fitnyc.edu/dr-shlomings-ma161-applets/tessellations?authuser=0) // Examine the tiling pattern carefully. Determine whether it is a **Regular Tessellation**, a **Semi-Regular Tessellation**, or **Neither** based on the polygons used and the vertex arrangements.
+:::
 
 ## Art and Design Connections
 
