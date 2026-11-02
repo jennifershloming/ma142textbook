@@ -535,6 +535,10 @@ If you want more Fibonacci (yes, I do), here are some fun extras that connect to
 7. Use the Method of Successive Differences to find the next term of $3,8,15,24,\dots$.
 8. Find the sum of the first 8 terms of the geometric sequence $5,10,20,40,\dots$.
 
+### Time to Practice with Applets
+
+Interactive applets for this chapter will be added here.
+
 ## Art and Design Connections
 
 - [Believe it or not, finding the next term in a sequence is a popular kind of brain teaser.](https://www.youtube.com/watch?v=v7_LuuyfTcE&feature=youtu.be)

@@ -514,6 +514,10 @@ If you want, test this quickly with two stars that have the same $n$ but differe
 6. A designer uses the star polygon $\{11/4\}$. Compute the turning angle $\theta$ and the tip angle $\alpha$.
 7. Draw all unique star polygons for $\{6/k\}$.
 
+### Time to Practice with Applets
+
+Interactive applets for this chapter will be added here.
+
 ## Art and Design Connections
 
 - [Woven string art of Star Polygons](https://mathinunexpectedspaces.wordpress.com/2017/12/10/star-o-rama-and-how-to-make-them/)

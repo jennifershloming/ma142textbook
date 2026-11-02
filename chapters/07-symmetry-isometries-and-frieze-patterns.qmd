@@ -70,6 +70,10 @@ Coordinate geometry connects pictures to equations. Use the distance and midpoin
 5. A border pattern has translation and glide reflection, but no reflection line or 180-degree rotation. Which frieze type is it?
 6. Is a dilation an isometry? Explain why or why not in one sentence.
 
+### Time to Practice with Applets
+
+Interactive applets for this chapter will be added here.
+
 ## Art and Design Connections
 
 - Design a frieze border for a webpage or poster and identify all isometries present in the final pattern.

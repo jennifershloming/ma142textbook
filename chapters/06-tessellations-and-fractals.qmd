@@ -70,6 +70,10 @@ $$
 5. In a Sierpinski-style triangle pattern, the number of filled triangles follows $N_n=3^n$. Find $N_4$ and $N_6$.
 6. Briefly explain what self-similarity means in fractals and name one famous fractal.
 
+### Time to Practice with Applets
+
+Interactive applets for this chapter will be added here.
+
 ## Art and Design Connections
 
 - Create a repeat textile print using one or two tessellating polygons and document the translation vectors.

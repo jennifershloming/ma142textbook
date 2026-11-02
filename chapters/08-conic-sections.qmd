@@ -314,6 +314,10 @@ Photography series: Capture these shapes in your regular environment, highlighti
 5. True or False: A circle is a special case of an ellipse. Explain briefly.
 6. Short response: State one contribution each from Kepler, Newton, and Hypatia related to conics, gravity, or planetary motion.
 
+### Time to Practice with Applets
+
+Interactive applets for this chapter will be added here.
+
 ## Art and Design Connections
 
 - Photograph real conics in architecture (arches, spotlights, domes) and classify each as parabola, ellipse, or hyperbola.

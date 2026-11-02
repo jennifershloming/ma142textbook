@@ -177,6 +177,10 @@ The first several terms are $1,1,2,3,5,8,13,\ldots$. A FIB poem uses this counti
 8. Find the sum of the first 20 odd integers.
 9. Find the sum of the first 20 even integers.
 
+### Time to Practice with Applets
+
+Interactive applets for this chapter will be added here.
+
 ## Art and Design Connections
 
 - Construct dot-art posters for triangular and square numbers, then caption each with its formula and visual growth pattern.

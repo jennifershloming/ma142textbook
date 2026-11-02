@@ -75,6 +75,10 @@ $$
 6. A polygon has interior-angle sum $1980^\circ$. How many sides does it have, and what is its name?
 7. A polyhedron has $F=12$ faces and $V=20$ vertices. Use $F+V=E+2$ to find $E$.
 
+### Time to Practice with Applets
+
+Interactive applets for this chapter will be added here.
+
 ## Art and Design Connections
 
 - Design a radial window pattern using inscribed polygons and circles, then label central angles and intercepted arcs.
