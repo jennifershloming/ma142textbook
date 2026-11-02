@@ -79,6 +79,8 @@ $$
 
 ::: {.applet-list}
 - [Polygon & Convexity Classifier](https://sites.google.com/fitnyc.edu/dr-shlomings-ma161-applets/polygon-convex) // Examine each figure carefully. First decide if it is a **Polygon** or **Not a Polygon**. If it is a polygon, classify it as **Convex** or **Concave**.
+- [Classify Triangles](https://sites.google.com/fitnyc.edu/dr-shlomings-ma161-applets/triangles?authuser=0) // Classify each triangle by its **side lengths** and by its **interior angles**.
+- [Angles in Polygons](https://sites.google.com/fitnyc.edu/dr-shlomings-ma161-applets/angles-in-polygons?authuser=0) // Use the number of sides to find the angle sum, a missing angle, or the angles of a regular polygon.
 :::
 
 ## Art and Design Connections
